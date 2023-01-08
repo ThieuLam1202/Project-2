@@ -13,6 +13,8 @@ Nhan Vien Hoan Cong Quyet Toan,Cong Ty Co Phan Ffc,Ha Noi,10.0
 Nhan Vien Hoan Cong Quyet Toan,Cong Ty Co Phan Ffc,TP.HCM,10.0
 Nhan Vien Ky Thuat Vien Thong - Thu Nhap Den 20Tr - Khong Yeu Cau Kinh Nghiem,CONG TY TNHH HA TANG VIEN THONG MIEN BAC,Ha Noi,16.0
 Nhan Vien Marketing,CONG TY TRACH NHIEM HUU HAN MOT THANH VIEN XUAT NHAP KHAU BIKE LIFE,TP.HCM,13.5
+"Nhan Vien Ky Thuat (Khong Can Kinh Nghiem, HCM - Can Tho)",Cong Ty Tnhh Uniq,TP.HCM,7.5
+"Nhan Vien Ky Thuat (Khong Can Kinh Nghiem, HCM - Can Tho)",Cong Ty Tnhh Uniq,Can Tho,7.5
 Nhan Vien IT,Cong Ty TNHH Bao Bi Giay Viet Trung,TP.HCM,12.5
 Nhan Vien IT,Cong Ty TNHH Bao Bi Giay Viet Trung,Long An,12.5
 Chuyen Vien Quan Tri He Thong Thu Nhap Tren 18 Trieu,Cong Ty Co Phan Htc Vien Thong Quoc Te,Ha Noi,21.5
@@ -25,6 +27,7 @@ Lap Trinh Vien - Thu Nhap Den 20Tr,Cong Ty Co Phan Giai Phap Va Dich Vu Ictvina,
 "NV IT (Biet Tieng Trung, Biet Phan Mem+SQL, Uu Tien Biet Lineex)",Cong Ty TNHH Day Khoa Keo Keen Ching,TP.HCM,11.0
 Go Phu Thanh - Nhan Vien Quan Ly Du Lieu,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),TP.HCM,5.5
 Nhan Vien Thiet Ke Web  - Lam Viec Online Tai Nha,"VN Printing, Inc",TP.HCM,14.5
+Nhan Vien IT (Phan Mem),Cong Ty TNHH Pouyuen Viet Nam,TP.HCM,16.5
 Nhan Vien IT Helpdesk- Ho Chi Minh,Cong Ty Co Phan Thuong Mai Va Dau Tu Cong Nghe Vien Thong Moi,TP.HCM,8.5
 Nhan Vien Ky Thuat Phan Mem Ban Hang Va Camera,Cong Ty TNHH Cong Nghe Viet 24H,TP.HCM,10.0
 Nhan Vien Thiet Ke Video Editor Tai Lac Trung Ha Noi (Di Lam Ngay),Cong Ty Co Phan Quoc Te Smart Choice,Ha Noi,10.0
@@ -33,13 +36,13 @@ Nhan Vien Cong Nghe Thong Tin (IT),CONG TY TNHH PARK CORP. (VIET NAM),Tay Ninh,7
 Nhan Vien IT -Marketing Online,Cong Ty Co Phan O To Sao Tay Nam,Can Tho,12.5
 Ky Thuat Vien - Vtvcab Khanh Hoa,Chi Nhanh Cong Ty Co Phan Tong Cong Ty Truyen Hinh Cap Viet Nam Tai Tinh Khanh Hoa,Khanh Hoa,8.5
 Chuyen Vien IT Helpdesk Tai 519 Kim Ma - Ba Dinh - Ha Noi,Cong Ty Tai Chinh TNHH Hd Saison,Ha Noi,9.5
-"Nhan Vien Ky Thuat (Khong Can Kinh Nghiem, HCM - Can Tho)",Cong Ty Tnhh Uniq,TP.HCM,7.5
-"Nhan Vien Ky Thuat (Khong Can Kinh Nghiem, HCM - Can Tho)",Cong Ty Tnhh Uniq,Can Tho,7.5
 "Nhan Vien Ky Thuat Tai Bien Hoa, Dong Nai",He Thong Ban Le Viettel Store,Hai Phong,8.5
-Nhan Vien IT (Phan Mem),Cong Ty TNHH Pouyuen Viet Nam,TP.HCM,16.5
 Nhan Vien Thuong Mai Dien Tu - IT,Cong Ty CP Sai Gon Tam Tam,TP.HCM,8.5
 Nhan Vien SEO Marketing (Benh Vien Quoc Te Dna),Cong Ty Co Phan Benh Vien Da Khoa Quoc Te Dna,TP.HCM,16.0
 Chuyen Vien Cong Nghe Thong Tin - IT,Cong Ty Co Phan Bao Bi Bien Hoa,Dong Nai,17.5
+Nhan Vien Giam Sat Camera,Cong Ty Co Phan Tap Doan K-Group,Dong Nai,8.0
+Fullstack / Back-End / Web Developer Xay Dung Va Phat Trien Crm,Cong Ty TNHH Fp Land,TP.HCM,14.0
+Nhan Vien IT Phan Cung,Cong Ty Co Phan Benh Vien Tai Mui Hong Sai Gon,TP.HCM,8.5
 Nhan Vien Marketing Mang Du Hoc Luong Upto 20 Trieu (Di Lam Ngay Hoac Sau Tet),"Cong Ty TNHH Tu Van Du Hoc, Dao Tao Ngoai Ngu Va Dich Vu Visa Vingate Global",Ha Noi,14.0
 Nhan Vien Chuyen Giao Phan Mem,Cong Ty Co Phan Giai Phap Phan Mem Doanh Nghiep,Ha Noi,13.5
 Tester Kiem Content Executive,Cong Ty TNHH Ecentura,Ha Noi,8.0
@@ -53,10 +56,7 @@ Ky Thuat Lap Dat Camera - Dong Da,Cong ty Co Phan Dau Tu Cong Nghe HACOM,Ha Noi,
 Nhan Vien Kinh Doanh Camera,Cong ty Co Phan Dau Tu Cong Nghe HACOM,Ha Noi,15.0
 Lap Trinh Vien PHP Laravel,Cong Ty Co Phan Trung Tam Di San Cac Nha Khoa Hoc Viet Nam,Ha Noi,15.0
 Nhan Vien IT (Support),Cong Ty TNHH R&b Food Supply Viet Nam - Chi Nhanh Long An,Long An,12.5
-Nhan Vien IT Support,Cong Ty TNHH Van Tai Cong Nghe Mai Linh Ha Noi,Ha Noi,9.5
 Chuyen Vien Lap Trinh Vien PHP / PHP Programming Expert,Cong Ty Co Phan Adpia,Ha Noi,19.0
-"Nhan Vien Ky Thuat (Khong Can Kinh Nghiem, HCM - Can Tho)",Cong Ty Tnhh Uniq,TP.HCM,7.5
-"Nhan Vien Ky Thuat (Khong Can Kinh Nghiem, HCM - Can Tho)",Cong Ty Tnhh Uniq,Can Tho,7.5
 Chuyen Vien Quan Ly Chat Luong Cuoc Goi (QC),Cong Ty Co Phan Dich Vu Va Truyen Thong Mobi Next,Ha Noi,15.0
 Sales Team Leader,Cong Ty Co Phan Dich Vu Va Truyen Thong Mobi Next,Ha Noi,27.5
 Nhan Vien Kinh Doanh,Cong Ty Co Phan Tin Hoc Viet Son,TP.HCM,16.0
@@ -98,7 +98,6 @@ Lap Trinh Vien C#,Cong Ty Co Phan Tap Doan Vitech,Ha Noi,15.0
 Chuyen Vien IT - Quan Tri He Thong Erp,Cong Ty Tnhh Cong Nghiep Chinh Xac Chen Kai,Binh Phuoc,15.5
 "Sales Staff (Phan Mem) (Quan 3, HCM)",Cong Ty TNHH Medring Viet Nam International,TP.HCM,19.0
 Chuyen Vien IT,Cong Ty TNHH Knight Logistics,TP.HCM,9.0
-Nhan Vien Ky Thuat Vien Thong - Thu Nhap Den 20Tr - Khong Yeu Cau Kinh Nghiem,CONG TY TNHH HA TANG VIEN THONG MIEN BAC,Ha Noi,16.0
 Ky Su Cau Noi (BrSE),Cong Ty Co Phan Cong Nghe Paditech Viet Nam,Ha Noi,32.5
 Chuyen Vien Kinh Doanh,Cong ty Co Phan Vnetwork,TP.HCM,11.5
 Lap Trinh Vien React Native,"Cong Ty TNHH Cong Nghe, Thuong Mai Va Dich Vu Tri Nghia",Ha Noi,18.5
@@ -112,17 +111,13 @@ Ba IT,Cong Ty Co Phan Giai Phap Cong Nghe So Apus,Ha Noi,11.5
 Lap Trinh Vien PHP (Uu Tien Fullstack - He Dai Hoc),Cong Ty TNHH Midota,TP.HCM,14.0
 [Ba Ria] Chuyen Vien IT,Cong ty Co Phan Vacxin Viet Nam,Ba Ria - Vung Tau,10.0
 [Head Office] Web Developer,Cong Ty TNHH Fashion Garments 2,Dong Nai,14.5
-.Net Engineer,Cong Ty Co Phan Phat Trien Phan Mem A Dong,TP.HCM,40.0
 Truong Nhom Ung Dung He Thong The - IT Software,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,TP.HCM,25.0
 Nhan Vien Email Marketing,Cong Ty TNHH TM E-Commerce,TP.HCM,8.0
 Truong Nhom Ung Dung Web App / Mobile App_It Software,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,TP.HCM,25.0
-Nhan Vien IT Phan Cung Mang,Cong Ty Co Phan Tap Doan Thai Tuan,TP.HCM,8.5
 Lap Trinh Vien .Net,Cong Ty Co Phan Tap Doan Thai Tuan,TP.HCM,12.0
-Nhan Vien Phe Duyet Ho So Khach Hang,Chi Nhanh Mobifone Service Tp. HCM - Cong Ty Co Phan Dich Vu Ky Thuat Mobifone,TP.HCM,5.5
 Nhan Vien IT Lam Viec Tai Kcn Yen Phong Bac Ninh,Cong Ty Co Phan Kj Tech Services,Bac Ninh,10.0
 Nhan Vien IT Phan Cung,Cong Ty TNHH Khuon Mau Chinh Xac Xu Hong,Da Nang,10.0
 Nhan Vien Code PHP,Cong Ty Co Phan Sbay Viet Nam,Da Nang,12.0
-"Ky Thuat Vien Sua Chua Dien Thoai, May Tinh Bang, Laptop (Thu Nhap 15-30 Trieu)",Trung Tam Cap Cuu Du Lieu - Vien May Tinh Viet Nam (Cty CP May Tinh Vien),TP.HCM,22.5
 Quan 7 Chuyen Vien IT Kiem Bao Tri,Cong ty Co Phan Vacxin Viet Nam,TP.HCM,11.5
 "Senior Fullstack Developer (.Net, Angular Js)",Cong Ty TNHH MTV Tai Chinh Toyota Viet Nam,TP.HCM,25.0
 Ky Thuat Vien Cong Nghe Thong Tin -Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,Ha Noi,10.5
@@ -130,13 +125,13 @@ Ky Thuat Vien Cong Nghe Thong Tin -Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Tha
 Chuyen Vien Ho Tro Phan Mem,Ngan Hang TMCP Quoc Te Viet Nam (VIB),Ha Noi,20.0
 Ky Thuat Vien Cong Nghe Thong Tin Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,Ha Noi,10.5
 Ky Thuat Vien Cong Nghe Thong Tin Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,TP.HCM,10.5
+Nhan Vien IT Helpdesk - HCM,Cong Ty TNHH Bao Duong Cong Nghe Toan Cau VN,TP.HCM,8.5
+"Nhan Vien IT - Nghien Cuu, Trien Khai Va Van Hanh He Thong Thong Tin",Cong Ty TNHH PHP Group International Viet Nam,TP.HCM,20.0
 Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Ha Noi,11.0
 Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Hai Duong,11.0
 Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Hai Phong,11.0
 Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Thanh Hoa,11.0
 Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Vinh Phuc,11.0
-"Nhan Vien IT - Nghien Cuu, Trien Khai Va Van Hanh He Thong Thong Tin",Cong Ty TNHH PHP Group International Viet Nam,TP.HCM,20.0
-Nhan Vien IT Helpdesk - HCM,Cong Ty TNHH Bao Duong Cong Nghe Toan Cau VN,TP.HCM,8.5
 Nhan Vien Marketing,Cong Ty TNHH So Huu Tri Tue Tran & Tran,Ha Noi,10.0
 Chuyen Vien Cong Nghe Thong Tin,Cong Ty Co Phan Cong Nghiep Cao Su Mien Nam  - Casumina,TP.HCM,12.5
 Nhan Vien IT,Cong Ty TNHH Bat Dong San Mai Phuong,TP.HCM,11.0
@@ -164,6 +159,7 @@ Nhan Vien Ky Thuat IT Va Trai Nghiem San Pham,Cong ty TNHH May Tinh Va Vien Thon
 Thuc Tap Sinh IT Helpdesk / System (Co Luong),Cong Ty TNHH iVIM,TP.HCM,2.0
 Nhan Vien IT - SEO Web Tai Ahs,"Truong Th,thcs &thpt Quoc Te A Chau",TP.HCM,12.5
 Nhan Vien Quan Tri He Thong,Fashion Minh Thu (Cong ty TNHH TM Thoi Trang Minh Thu),TP.HCM,13.5
+Nhan Vien IT Support,Cong Ty TNHH Van Tai Cong Nghe Mai Linh Ha Noi,Ha Noi,9.5
 Truong Nhom IT Ha Tang,Cong ty Co Phan Vacxin Viet Nam,TP.HCM,22.5
 [HCM] Graphic Designer - Pizza Hut,Cong Ty TNHH Pizza Viet Nam,TP.HCM,17.5
 Hoc Viec / Thuc Tap Sinh SEO,Cong Ty TNHH Thuong Mai Xuat Nhap Khau Mint VN,TP.HCM,2.5
@@ -197,8 +193,8 @@ IT Support,Cong Ty Co Phan Am Thuc Chao Do,TP.HCM,9.0
 Nhan Vien Ky Thuat Vien Thong-Di Lam Ngay-Khong Yeu Cau Kinh Nghiem,Cong Ty Co Phan Vien Thong ACT,TP.HCM,12.0
 Ky Thuat Vien May Tinh,Cong Ty TNHH Thuong Mai Dich Vu Tin Hoc Le Khang,TP.HCM,11.0
 Nhan Vien IT Phan Cung / Ky Thuat Vien May Tinh.,Cong Ty TNHH Chuyen Giao Cong Nghe Viet Thai,Ha Noi,7.5
+Nhan Vien IT Phan Cung Mang,Cong Ty Co Phan Tap Doan Thai Tuan,TP.HCM,8.5
+Nhan Vien Phe Duyet Ho So Khach Hang,Chi Nhanh Mobifone Service Tp. HCM - Cong Ty Co Phan Dich Vu Ky Thuat Mobifone,TP.HCM,5.5
 Truong Nhom Media,Cong Ty CP Kho Thi Skincare & Clinic,TP.HCM,25.0
 Chuyen Vien Quay Dung Video,Cong Ty CP Kho Thi Skincare & Clinic,TP.HCM,17.5
-IT Mis (System & Network Engineer),Cong Ty TNHH Polytex Far Eastern (Viet Nam),TP.HCM,20.0
-IT Mis (System & Network Engineer),Cong Ty TNHH Polytex Far Eastern (Viet Nam),Binh Duong,20.0
-"Nhan Vien Bao Hanh, Sua Chua Thiet Bi Mobifone",Chi Nhanh Mobifone Service Tp. HCM - Cong Ty Co Phan Dich Vu Ky Thuat Mobifone,TP.HCM,11.5
+"Ky Thuat Vien Sua Chua Dien Thoai, May Tinh Bang, Laptop (Thu Nhap 15-30 Trieu)",Trung Tam Cap Cuu Du Lieu - Vien May Tinh Viet Nam (Cty CP May Tinh Vien),TP.HCM,22.5
