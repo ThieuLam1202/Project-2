@@ -4,7 +4,7 @@ import requests
 import re
 import csv
 
-url = "https://www.careerlink.vn/tim-viec-lam-tai/ho-chi-minh/HCM?category_ids=130%2C19&page="
+url = "https://www.careerlink.vn/vieclam/list?page="
 
 #function to find and return last page number
 #get the last page number from pagination

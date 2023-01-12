@@ -1,10 +1,11 @@
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 import numpy as np
+import re
 import requests
 import csv
 
-url = "https://vieclam24h.vn/tim-kiem-viec-lam-nhanh?occupation_ids%5B%5D=7&occupation_ids%5B%5D=8&page="
+url = "https://vieclam24h.vn/tim-kiem-viec-lam-nhanh?page="
 
 #function to find and return last page number
 #get the count of jobs then divide it with 30 (is number of jobs on a page)
@@ -13,6 +14,7 @@ def get_last_page():
     soup = BeautifulSoup(html, 'html5lib')
     divs = soup("div","flex items-center")
     count = divs[0].find("span", "font-semibold").text
+    count = re.sub(r"\D", "", count)
     return int(np.ceil(int(count)/30))
 
 #create dataset, which will be stored in a csv file named 'dataset1'
@@ -51,10 +53,13 @@ with open('dataset1.csv', 'w') as csvfile:
                 location = div.find("span", "text-se-neutral-80 text-14 whitespace-nowrap truncate").text.strip()
             else:
                 location = "" 
-            #if salary field is not null then convert to one average value only
-            if (len(salary) > 0):
-                array = salary.split()
-                average_salary = (int(array[0]) + int(array[2]))/2
+            #if salary field contains the currency word then convert to one average value only
+            if "triệu" in salary:
+                if "-" in salary:
+                    array = salary.split()
+                    average_salary = (int(array[0]) + int(array[2]))/2
+                else:
+                    average_salary = int(re.sub(r"\D", "", salary))
             else:
                 average_salary = ""
             return {

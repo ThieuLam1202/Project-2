@@ -1,201 +1,1887 @@
 name,company,location,average_salary
-"Nhan Vien Kinh Doanh Luong Upto 20 Trieu (May Tinh, CNTT)",Cong Ty TNHH Phat Trien Cong Nghe Va Truyen Thong Hoang Tuan,Ha Noi,13.5
+Nhan Vien Van Hanh May [Tap Doan Phap],Cong Ty TNHH Camso Viet Nam,Binh Duong,8.5
+Nhan Vien Kinh Doanh Du An Noi That (Luong Co Ban Toi 12 Trieu + Thuong % Kpi),Cong Ty TNHH Kien Truc Milan,Ha Noi,25.0
+Account Manager,Cong Ty TNHH Creasia,TP HCM,34.0
+Ky Su Hien Truong- Noi Nghiep Cong Trinh Giao Thong Ha Tang Ky Thuat,Cong Ty TNHH Thuong Mai Va Xay Dung Alpha Sai Gon,TP HCM,23.0
+Can Bo Ky Thuat - Giam Sat Hien Truong Du An (Di Lam Sau Tet),Cong Ty TNHH Hop Tien,Ha Nam,15.0
+Nhan Vien IT Help Desk - Tp. Thu Duc (Co The Nhan Viec Sau Tet),Cong ty TNHH Tu van & Dao Tao Dai Duong,TP HCM,11.5
+Nhan Vien Ban Hang - San Bay Tan Son Nhat,Cong Ty Co Phan Song Viet,TP HCM,7.0
+Nhan Vien Marketing Thu Nhap 10-18 Trieu,Cong ty TNHH thuong mai va ky thuat Movis Viet Nam,Ha Noi,14.0
+Nhan Vien Cham Soc Xe Phan Khoi Lon / Detailing Specialist - Big Bike Hanoi,Cong Ty TNHH Yamaha Motor Viet Nam,Ha Noi,8.5
+Nhan Vien Co Khi Dung May CNC Lam Tai Q7,Cong ty TNHH Lap Phuc,TP HCM,8.5
+Truong Phong Kinh Doanh,Cong Ty TNHH Cua So Viet Chau A Aseanwindow,TP HCM,18.5
+Nhan Vien Dieu Duong Tai Nhat Ban (Toan Quoc - Ky Thang 10 / 2023),Cong Ty TNHH V&j Human Resource School,Ha Noi,40.0
+Nhan Vien Dieu Duong Tai Nhat Ban (Toan Quoc - Ky Thang 10 / 2023),Cong Ty TNHH V&j Human Resource School,TP HCM,40.0
+Nhan Vien Dieu Duong Tai Nhat Ban (Toan Quoc - Ky Thang 10 / 2023),Cong Ty TNHH V&j Human Resource School,Binh Dinh,40.0
+Nhan Vien Dieu Duong Tai Nhat Ban (Toan Quoc - Ky Thang 10 / 2023),Cong Ty TNHH V&j Human Resource School,Gia Lai,40.0
+Nhan Vien Dieu Duong Tai Nhat Ban (Toan Quoc - Ky Thang 10 / 2023),Cong Ty TNHH V&j Human Resource School,Da Nang,40.0
+Nhan Vien Kinh Doanh Thiet Bi Y Te (Smartdental) - Luong Tren 20-30Tr,"Cong Ty CP Tb Nha Khoa Thong Minh Viet Nam - Smartdental,. Jsc",Ha Noi,25.0
+Nhan Vien Thu Hoi No Qua Dien Thoai,Cong Ty Co Phan Kredivo Viet Nam,TP HCM,12.5
+Nhan Vien Ban Hang Ha Noi (Full Time / Part Time),Cong Ty TNHH Mot Thanh Vien Thuong Mai Va Dau Tu Lien A Chau,Ha Noi,6.5
+Nhan Vien Ban Hang Ha Noi (Full Time / Part Time),Cong Ty TNHH Mot Thanh Vien Thuong Mai Va Dau Tu Lien A Chau,TP HCM,6.5
+Nhan Vien Ban Hang Ha Noi (Full Time / Part Time),Cong Ty TNHH Mot Thanh Vien Thuong Mai Va Dau Tu Lien A Chau,Ba Ria - Vung Tau,6.5
+Nhan Vien Ban Hang Ha Noi (Full Time / Part Time),Cong Ty TNHH Mot Thanh Vien Thuong Mai Va Dau Tu Lien A Chau,Binh Duong,6.5
+Nhan Vien Ban Hang Ha Noi (Full Time / Part Time),Cong Ty TNHH Mot Thanh Vien Thuong Mai Va Dau Tu Lien A Chau,Dong Nai,6.5
+Board Of Management'S Interpreter,Cong Ty Co Phan Duoc Hau Giang,Can Tho,21.5
+"Nhan Vien QC Line -Thuc Pham (Lam Theo Ca) O Ben Cat, My Phuoc 1",Cong Ty TNHH Lotte Viet Nam,Binh Duong,9.0
+Chuyen Vien Ke Hoach Kinh Doanh (Fmcg -  Nha Trang),Cong Ty TNHH Thuc Pham Orion Vina,Khanh Hoa,15.0
+Giam Sat Ban Hang - Banh Keo (Soc Trang),Cong Ty TNHH Thuc Pham Orion Vina,Soc Trang,20.0
+Chuyen Vien Ke Hoach Kinh Doanh (Fmcg - Bac Ninh),Cong Ty TNHH Thuc Pham Orion Vina,Bac Ninh,15.0
+Nhan Vien Van Hanh Thuong Mai (Trade Operation Officer) _Thoi Vu 6 Thang,Cong ty CP Chuoi Thuc Pham TH,Ha Noi,9.5
+Nhan Vien Van Hanh Thuong Mai (Trade Operation Officer) _Thoi Vu 6 Thang,Cong ty CP Chuoi Thuc Pham TH,TP HCM,9.5
+Nhan Vien Phuc Vu,Cong Ty TNHH La Cam (He Thong Tra Sua Va Xien Que Hot&Cold),TP HCM,5.5
+Nhan Vien Pha Che (He Thong Tra Sua Hot&cold),Cong Ty TNHH La Cam (He Thong Tra Sua Va Xien Que Hot&Cold),TP HCM,6.0
+Nhan Vien Thong Ke - Nhan Viec Ngay,Cong Ty TNHH Thuc Pham Dary,TP HCM,12.0
+Ke Toan Gia Thanh - Nhan Viec Ngay,Cong Ty TNHH Thuc Pham Dary,TP HCM,14.5
+Nhan Vien Giao Hang Tai Mien Trung,Cong Ty TNHH Shopee Express,Nghe An,11.0
+Nhan Vien Giao Hang Tai Mien Trung,Cong Ty TNHH Shopee Express,Quang Binh,11.0
+Nhan Vien Giao Hang Tai Mien Trung,Cong Ty TNHH Shopee Express,Quang Nam,11.0
+Nhan Vien Giao Hang Tai Mien Trung,Cong Ty TNHH Shopee Express,Quang Ngai,11.0
+Nhan Vien Giao Hang Tai Mien Trung,Cong Ty TNHH Shopee Express,Dak Nong,11.0
+Nhan Vien Giao Hang Tai Mien Dong Nam Bo,Cong Ty TNHH Shopee Express,Binh Duong,11.0
+Nhan Vien Giao Hang Tai Mien Dong Nam Bo,Cong Ty TNHH Shopee Express,Binh Phuoc,11.0
+Nhan Vien Giao Hang Tai Mien Dong Nam Bo,Cong Ty TNHH Shopee Express,Tay Ninh,11.0
+Nhan Vien Giao Hang Tai Mien Dong Nam Bo,Cong Ty TNHH Shopee Express,Dong Nai,11.0
+Nhan Vien Giao Hang Tai Mien Tay Nam Bo,Cong Ty TNHH Shopee Express,Long An,11.0
+Nhan Vien Kho Giao Nhan Tai Mien Trung Va Mien Nam,Cong Ty TNHH Shopee Express,TP HCM,8.5
+Nhan Vien Kho Giao Nhan Tai Mien Trung Va Mien Nam,Cong Ty TNHH Shopee Express,Lam Dong,8.5
+Nhan Vien Kho Giao Nhan Tai Mien Trung Va Mien Nam,Cong Ty TNHH Shopee Express,Dong Nai,8.5
+Truong Tram Giao Nhan Tai Mien Trung Va Mien Nam,Cong Ty TNHH Shopee Express,TP HCM,10.0
+Truong Tram Giao Nhan Tai Mien Trung Va Mien Nam,Cong Ty TNHH Shopee Express,Long An,10.0
+Truong Tram Giao Nhan Tai Mien Trung Va Mien Nam,Cong Ty TNHH Shopee Express,Quang Nam,10.0
+Truong Tram Giao Nhan Tai Mien Trung Va Mien Nam,Cong Ty TNHH Shopee Express,Tay Ninh,10.0
+Truong Tram Giao Nhan Tai Mien Trung Va Mien Nam,Cong Ty TNHH Shopee Express,Dong Nai,10.0
+Nhan Vien Giao Hang Tai Mien Bac,Cong Ty TNHH Shopee Express,Bac Giang,11.0
+Nhan Vien Giao Hang Tai Mien Bac,Cong Ty TNHH Shopee Express,Hoa Binh,11.0
+Nhan Vien Giao Hang Tai Mien Bac,Cong Ty TNHH Shopee Express,Hung Yen,11.0
+Nhan Vien Giao Hang Tai Mien Bac,Cong Ty TNHH Shopee Express,Lao Cai,11.0
+Nhan Vien Giao Hang Tai Mien Bac,Cong Ty TNHH Shopee Express,Phu Tho,11.0
+Nhan Vien Giao Hang Tai Ha Noi,Cong Ty TNHH Shopee Express,Ha Noi,11.0
+Nhan Vien Kho Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Hai Duong,8.5
+Nhan Vien Kho Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Lao Cai,8.5
+Nhan Vien Kho Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Phu Tho,8.5
+Nhan Vien Kho Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Thanh Hoa,8.5
+Nhan Vien Kho Giao Nhan Tai Ha Noi,Cong Ty TNHH Shopee Express,Ha Noi,8.5
+Truong Tram Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Cao Bang,10.0
+Truong Tram Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Hai Phong,10.0
+Truong Tram Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Hung Yen,10.0
+Truong Tram Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Nam Dinh,10.0
+Truong Tram Giao Nhan Tai Mien Bac,Cong Ty TNHH Shopee Express,Quang Ninh,10.0
+Truong Tram Giao Nhan Tai Ha Noi,Cong Ty TNHH Shopee Express,Ha Noi,10.0
+Nhan Vien Thu Ngan,Cong Ty TNHH Thuong Mai Vhc - Sieu Thi Dien May Hc,Ha Noi,7.0
+Nhan Vien Ke Toan Kho Biet Tieng Hoa,Cong Ty TNHH MTV Cong Nghiep D&a Viet Nam,Long An,11.5
+"Vietinbank Ha Noi, Bac Giang, Bac Ninh - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Ha Noi,25.0
+"Vietinbank Ha Noi, Bac Giang, Bac Ninh - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Bac Giang,25.0
+"Vietinbank Ha Noi, Bac Giang, Bac Ninh - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Bac Ninh,25.0
+"Vietinbank Ha Noi, Bac Giang, Bac Ninh - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Lai Chau,25.0
+"Vietinbank Ha Noi, Bac Giang, Bac Ninh - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Lang Son,25.0
+Junior Digital Marketing (Contract 12 Months),Cong Ty TNHH Bao Hiem Nhan Tho Fwd Viet Nam,TP HCM,9.0
+Nhan Vien Ke Toan - Lam Viec Theo Hop Dong 8 Thang,Cong Ty TNHH Bao Hiem Nhan Tho Fwd Viet Nam,TP HCM,10.0
+Chuyen Vien Kinh Doanh,Cong Ty Co Phan Dau Tu Thiet Bi Tham My Osaka,TP HCM,22.5
+"Nhan Vien Ban Hang (Full Time) - Quan 2, Quan 3, Quan 7",Cong Ty TNHH Paris Baguette Viet Nam,TP HCM,7.0
+Giam Doc Dieu Hanh (Nu),Cong Ty Co Phan Van Chuyen Gia Bao,Ha Noi,40.0
+Can Bo Ky Thuat Noi Nghiep,Cong Ty TNHH Xay Dung Tu Lap,Ha Tinh,16.0
+Can Bo Ky Thuat Noi Nghiep,Cong Ty TNHH Xay Dung Tu Lap,Lai Chau,16.0
+Can Bo Ky Thuat Noi Nghiep,Cong Ty TNHH Xay Dung Tu Lap,Phu Tho,16.0
+Can Bo Ky Thuat Noi Nghiep,Cong Ty TNHH Xay Dung Tu Lap,Phu Yen,16.0
+Chu Quan San Xuat Biet Tieng Trung Tot,Cong Ty TNHH AAC Technologies Viet Nam,Bac Ninh,27.5
+"Nhan Vien Bep Banh (Quan 3, Quan 7)",Cong Ty TNHH Paris Baguette Viet Nam,TP HCM,7.0
+Quan Ly Trinh Duoc Thu Nhap 30-40 Trieu,Cong Ty Co Phan Duoc Pham Ecoland,Ha Noi,35.0
+Cong Tac Vien Livestream,Cong Ty Co Phan Cong Nghe Sen Do,TP HCM,8.5
+Trinh Duoc Vien Thu Nhap 25-40 Trieu,Cong Ty Co Phan Duoc Pham Ecoland,Ha Noi,25.5
+Ky Su Xay Dung (Lam Viec Tai Van Phong & Cong Trinh),Cong Ty Co Phan Xay Dung Cong Nghiep Chi Thanh,TP HCM,17.5
+Tai Xe Lai Oto,Cong Ty Co Phan Van Tai Ao Shipping,TP HCM,9.5
+Giao Vien Tieu Hoc,Cong Ty TNHH Giao Duc Duy Thinh,TP HCM,11.0
+Pho Hieu Truong Chuyen Mon Trung Hoc,Cong Ty TNHH Giao Duc Duy Thinh,TP HCM,25.0
+Oversea Purchasing (Chuyen Vien Mua Hang Nuoc Ngoai),Cong Ty Co Phan BT INTERNATIONAL,TP HCM,15.0
+Ke Toan Noi Bo (Di Lam Ngay),Cong Ty Co Phan Dau Tu Va Phat Trien Lac Hong,Ha Noi,11.5
+Nhan Vien Tu Van Ban Hang Tai Trung Tam Thuong Mai (Nhan Viec Ngay),Cong Ty TNHH Triple Tree Aroma,Ha Noi,7.5
+Nhan Vien Tu Van Ban Hang Tai Trung Tam Thuong Mai (Nhan Viec Ngay),Cong Ty TNHH Triple Tree Aroma,TP HCM,7.5
+Nhan Vien Tu Van Ban Hang Tai Trung Tam Thuong Mai (Nhan Viec Ngay),Cong Ty TNHH Triple Tree Aroma,Bac Ninh,7.5
+Nhan Vien Tu Van Ban Hang Tai Trung Tam Thuong Mai (Nhan Viec Ngay),Cong Ty TNHH Triple Tree Aroma,Nghe An,7.5
+Nhan Vien Tu Van Tai Van Phong (Telesales),Thien Chau Media,TP HCM,8.0
+Ke Toan Cong No Phai Tra - Tscd - Ccdc,Cong ty Co Phan Vacxin Viet Nam,TP HCM,12.5
+Nhan Vien Ban Hang Cua Hang / Sieu Thi,Cong Ty  TNHH Dao Hai San,TP HCM,7.0
+QA Leader,Cong ty TNHH co khi Manh Quang,Ha Noi,16.0
+Cong Nhan Nganh May,(Xi Nghiep May Do Quan Doi) Cong Ty TNHH MTV Tong Cong Ty 28,TP HCM,12.5
+"Nhan Vien Cua Hang Kohnan Japan_Quan 1, Quan 7",Cong Ty TNHH Kohnan Viet Nam,TP HCM,7.0
+Nhan Vien Telesale Cham Soc Khach Hang,Cong Ty Co Phan Dat Duoc,TP HCM,12.5
+Nhan Vien Telesale Cham Soc Khach Hang,Cong Ty Co Phan Dat Duoc,Khanh Hoa,12.5
+"Truong Ban Marketing & Kinh Doanh Tai (Ho Chi Minh, Ha Noi, Can Tho)",Cong Ty TNHH Appsheet Viet Nam,Ha Noi,25.0
+"Truong Ban Marketing & Kinh Doanh Tai (Ho Chi Minh, Ha Noi, Can Tho)",Cong Ty TNHH Appsheet Viet Nam,TP HCM,25.0
+"Truong Ban Marketing & Kinh Doanh Tai (Ho Chi Minh, Ha Noi, Can Tho)",Cong Ty TNHH Appsheet Viet Nam,Can Tho,25.0
+Nhan Vien Xu Ly Ho So Biet Tieng Anh Luong Toi 20 Trieu / Thang,"Cong Ty TNHH Tu Van Du Hoc, Dao Tao Ngoai Ngu Va Dich Vu Visa Vingate Global",Ha Noi,13.0
+Nhan Vien Ban Hang (Dien - Nuoc - Vat Lieu Xay Dung),CONG TY TNHH ALEN,TP HCM,11.5
+Nhan Vien Ban Hang (Dien - Nuoc - Vat Lieu Xay Dung),CONG TY TNHH ALEN,Ba Ria - Vung Tau,11.5
+Nhan Vien Ban Hang (Dien - Nuoc - Vat Lieu Xay Dung),CONG TY TNHH ALEN,Binh Duong,11.5
+Nhan Vien Ban Hang (Dien - Nuoc - Vat Lieu Xay Dung),CONG TY TNHH ALEN,Can Tho,11.5
+Nhan Vien Ban Hang (Dien - Nuoc - Vat Lieu Xay Dung),CONG TY TNHH ALEN,Dong Nai,11.5
+Truong Nhom Thu Hoi No Hien Truong,Cong Ty TNHH Atm Online Vietnam,TP HCM,16.0
+Ke Toan Kho (Nhan Viec Sau Tet),Cong Ty Tnhh San Xuat Thuong Mai Hung Thinh Sai Gon,TP HCM,8.5
+Nhan Vien QC - Tp.HCM,Cong TY TNHH Thuong Mai Tuong Van,TP HCM,8.5
+Truong Ca - To Truong Nha Hang,Cong Ty TNHH Kgfood,TP HCM,10.5
+Ke Toan Tong Hop,Cong Ty TNHH Tue Cat,Long An,12.5
+Ke Toan Truong - Ha Noi,Cong Ty TNHH Spm Mien Nam,Ha Noi,17.5
+Nhan Vien Ke Toan Tong Hop,Cong Ty TNHH May Quoc Te Viet Nam Nhat Ban,TP HCM,16.0
+Chuyen Vien Ho Tro Khach Hang Thu Nhap Len Den 15Tr,Cong Ty Co Phan Cong Nghe Bookingcare,Ha Noi,11.5
+Le Tan Van Phong - Phong Van Di Lam Ngay (Co The Nhan Viec Truoc Tet),Cong Ty Co Phan Vien Thong Dong Duong,Ha Noi,8.5
+Nhan Vien Ky Thuat Giam Sat. (Dien Cong Nghiep),Cong Ty TNHH XD TM KT T&t,Ba Ria - Vung Tau,10.0
+Nhan Vien Kinh Doanh,Cong Ty TNHH Ban Le Phuong Nam,TP HCM,8.5
+Nhan Vien Mua Hang,Cong Ty TNHH Sks Furniture,Binh Duong,15.0
+Nhan Vien Chung Tu Xuat Nhap Khau,Cong Ty Co Phan Tap Doan Sai Gon Tien Doan,TP HCM,12.5
+"Ky Su Xay Dung Cong Trinh (Giao Thong, Thuy Loi, Cang Bien, May Xay Dung), Chua Co Kinh Nghiem Duoc Dao Tao",Cong Ty CP Cau Duong 10,Can Tho,15.0
+"Ky Su Xay Dung Cong Trinh (Giao Thong, Thuy Loi, Cang Bien, May Xay Dung), Chua Co Kinh Nghiem Duoc Dao Tao",Cong Ty CP Cau Duong 10,Kien Giang,15.0
+"Ky Su Xay Dung Cong Trinh (Giao Thong, Thuy Loi, Cang Bien, May Xay Dung), Chua Co Kinh Nghiem Duoc Dao Tao",Cong Ty CP Cau Duong 10,Tra Vinh,15.0
+Nhan Vien Bao Ve,Cong Ty TNHH P&C Warehouse Logistics,Binh Duong,8.5
+Nhan Vien Dich Vu Khach Hang Ngan Hang,Lienvietpostbank - Ngan Hang Buu Dien Lien Viet,Ha Noi,13.0
+Nhan Vien Ke Toan Tong Hop (Chuyen Nganh Logistics),Cong Ty TNHH TT Global Cargo,TP HCM,9.5
+Nhan Vien Tu Van Khoa Hoc,Cong Ty TNHH Dich Vu Giao Duc Poly,TP HCM,14.0
+Chuyen Vien Thu Hoi No Qua Dien Thoai,Cong Ty TNHH Atm Online Vietnam,TP HCM,18.5
 Digital Marketing Executive,Opus Saigon & Hoi An Sense (Cong Ty TNHH TM Va DV Sai Gon Phuong Dong),TP HCM,12.5
+Quan Ly Nha Hang Dookki Aeon Binh Tan (Biet Tieng Han),Cong Ty TNHH Young Jun F&b,TP HCM,13.5
+"Nhan Vien CSKH - Ruby Tay Ho (Kenh Email, Fanpage, Dien Thoai)",Cong Ty TNHH Cong Nghe Dich Vu Ruby,Ha Noi,10.5
+"Nhan Vien CSKH - Ruby Tay Ho (Kenh Email, Fanpage, Dien Thoai)",Cong Ty TNHH Cong Nghe Dich Vu Ruby,TP HCM,10.5
+Nhan Vien Kinh Doanh,Cong Ty TNHH MTV Ky Thuat Tl Cong,TP HCM,15.0
+Nhan Vien Kinh Doanh,Cong Ty TNHH MTV Ky Thuat Tl Cong,Binh Duong,15.0
+Ky Su M&E,Cong Ty TNHH Mot Thanh Vien Elek,TP HCM,17.5
+Ky Su M&E,Cong Ty TNHH Mot Thanh Vien Elek,Binh Duong,17.5
+"Can Bo Ky Thuat Hien Truong Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Ha Tinh,16.0
+"Can Bo Ky Thuat Hien Truong Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Nghe An,16.0
+"Can Bo Ky Thuat Hien Truong Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Quang Binh,16.0
+"Can Bo Ky Thuat Hien Truong Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Quang Tri,16.0
+"Can Bo Ky Thuat Hien Truong Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Thua Thien Hue,16.0
+"Chi Huy Cong Trinh (Giam Doc Ban Dieu Hanh) - Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Ha Tinh,40.0
+"Chi Huy Cong Trinh (Giam Doc Ban Dieu Hanh) - Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Nghe An,40.0
+"Chi Huy Cong Trinh (Giam Doc Ban Dieu Hanh) - Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Quang Binh,40.0
+"Chi Huy Cong Trinh (Giam Doc Ban Dieu Hanh) - Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Quang Tri,40.0
+"Chi Huy Cong Trinh (Giam Doc Ban Dieu Hanh) - Tai Quang Binh, Ha Tinh",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Thua Thien Hue,40.0
+Nhan Vien Dich Vu Ky Thuat May Moc (Di Lam Ngay Hoac Sau Tet),Cong Ty CP May Va Phu Tung T&c,Ha Noi,11.0
+Nhan Vien Ke Toan Du An,Cong Ty TNHH Bao Bi Giay Viet Trung,TP HCM,9.0
+Nhan Vien Ke Toan Du An,Cong Ty TNHH Bao Bi Giay Viet Trung,Long An,9.0
+"Ke Toan Cong Truong Tai Quang Binh, Ha Tinh, Nghe An",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Ha Tinh,14.5
+"Ke Toan Cong Truong Tai Quang Binh, Ha Tinh, Nghe An",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Nghe An,14.5
+"Ke Toan Cong Truong Tai Quang Binh, Ha Tinh, Nghe An",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Quang Binh,14.5
+"Ke Toan Cong Truong Tai Quang Binh, Ha Tinh, Nghe An",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Quang Tri,14.5
+"Ke Toan Cong Truong Tai Quang Binh, Ha Tinh, Nghe An",Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Thua Thien Hue,14.5
+Can Bo Ky Thuat Trac Dac,Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Ha Tinh,16.0
+Can Bo Ky Thuat Trac Dac,Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Nghe An,16.0
+Can Bo Ky Thuat Trac Dac,Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Quang Binh,16.0
+Can Bo Ky Thuat Trac Dac,Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Quang Tri,16.0
+Can Bo Ky Thuat Trac Dac,Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Thua Thien Hue,16.0
+Can Bo Ke Hoach Ky Thuat Tai Ha Noi,Cong Ty 36.20 - Chi Nhanh Tong Cong Ty 36 - Ctcp,Ha Noi,17.5
+Tro Ly Biet Bien Phien Dich (Tieng Anh +Tieng Nhat),Cong Ty TNHH Zeng Hsing Industrial,Binh Duong,25.0
+"Giam Sat Nha Hang - Quan 2, Quan 5",Cong Ty Co Phan Dau Tu Vien Ngoc Moi,TP HCM,11.0
+Nhan Vien Ban Hang Thoi Trang Mlb Tai Vincom Ba Trieu Va Aeon Ha Dong,Cong Ty Co Phan Maison Retail Management International,Ha Noi,10.0
+Ke Toan Cong Trinh,Cong Ty TNHH Xay Dung Thuong Mai Va Che Bien Lam San Thang Long,Ha Noi,9.0
+Nhan Vien Phong Quan Ly Chat Luong Tai Hai Duong,Cong Ty TNHH Thiet Bi Hoa Chat Nakagawa Viet Nam,Hai Duong,11.0
+Cua Hang Truong Nhan Viec Ngay (Tp. HCM Va Ha Noi),Cong Ty TNHH Triple Tree Aroma,Ha Noi,12.0
+Cua Hang Truong Nhan Viec Ngay (Tp. HCM Va Ha Noi),Cong Ty TNHH Triple Tree Aroma,TP HCM,12.0
+[Ha Noi] Nhan Vien Bao Tri Cua Hang TH Truemart,Cong ty CP Chuoi Thuc Pham TH,Ha Noi,10.5
+Ke Toan Truong - Huyen Nha Be,Cong Ty TNHH Thuong Mai Nhat Thong,TP HCM,19.0
+Nhan Vien Bep - Di Lam Ngay,CONG TY CP TM DV TRA CA PHE VN - THE COFFEE HOUSE,TP HCM,7.5
+Nhan Vien Van Hanh May,Cong Ty TNHH Nestle Viet Nam,Dong Nai,8.5
+Hue - Nhan Vien Phat Trien Thi Truong (Phu Trach Kenh Dai Ly),Cong Ty TNHH Nabati Viet Nam,Thua Thien Hue,11.0
+Ha Tinh - Giam Sat Ban Hang Kenh GT Banh Nabati,Cong Ty TNHH Nabati Viet Nam,Ha Tinh,13.0
+Nhan Vien Hanh Chinh Tong Hop,Tap Doan Tan A Dai Thanh,Ha Noi,7.5
 Nhan Vien Ky Thuat IT Phan Cung,Cong Ty TNHH Khoa Hoc Ky Thuat Tuong Huu,Da Nang,10.0
+Nhan Vien Kinh Doanh Thi Truong - Bac Trung Bo,CONG TY TNHH SAINT- GOBAIN VIET NAM,Quang Nam,16.0
+Nhan Vien Kinh Doanh Thi Truong - Bac Trung Bo,CONG TY TNHH SAINT- GOBAIN VIET NAM,Quang Ngai,16.0
+Nhan Vien Kinh Doanh Thi Truong - Bac Trung Bo,CONG TY TNHH SAINT- GOBAIN VIET NAM,Quang Tri,16.0
+Nhan Vien Kinh Doanh Thi Truong - Bac Trung Bo,CONG TY TNHH SAINT- GOBAIN VIET NAM,Da Nang,16.0
+Ke Toan Tong Hop,Cong Ty TNHH Phat Trien Dau Tu Va San Xuat Thai Duong,TP HCM,13.5
+"Vinbus - Chuyen Vien An Ninh An Toan, Thanh Tra Tuyen",Cong Ty TNHH Dich Vu Van Tai Sinh Thai Vinbus,Ha Noi,12.5
+Vinbus - Chuyen Vien Marketing,Cong Ty TNHH Dich Vu Van Tai Sinh Thai Vinbus,Ha Noi,12.5
+Vinbus - Tiep Vien Xe Buyt Dien,Cong Ty TNHH Dich Vu Van Tai Sinh Thai Vinbus,Ha Noi,12.5
+Lai  Xe Hang D - E Tai Ha Noi - Di Lam Ngay,Cong Ty TNHH MTV Van Tai Va Du Lich Jac,Ha Noi,11.5
 Chuyen Vien IT Ho Tro Marketing,Cong Ty TNHH Knight Logistics,TP HCM,9.0
-Nhan Vien IT,Cong Ty TNHH Thuong Mai Dich Vu Son Hung,TP HCM,18.5
+Nhan Vien Van Phong (Di Lam Truoc Tet),CONG TY TRACH NHIEM HUU HAN MOT THANH VIEN NGOC DANH O TO,TP HCM,8.5
+Nhan Vien Van Hanh May Phay CNC - Co The Phong Van Va Nhan Viec Sau Tet,Cong Ty TNHH MTV Mai Fa,Binh Duong,11.5
+Trinh Duoc Vien,Cong Ty TNHH Thiet Bi Y Te An Duoc,TP HCM,17.5
+Trinh Duoc Vien,Cong Ty TNHH Thiet Bi Y Te An Duoc,Long An,17.5
+Ky Su Co Khi  - (Co The Phong Van Va Nhan Viec Sau Tet),Cong Ty TNHH MTV Mai Fa,Binh Duong,17.5
+Nhan Vien Ke Toan Noi Bo (Di Lam Ngay),Cong Ty Co Phan Xay Dung Va Xuat Nhap Khau Hth,Ha Noi,9.0
+Ke Toan Truong,Cong Ty TNHH Tbes,TP HCM,19.0
+Nhan Vien Kinh Doanh Kenh Truyen Thong (GT) Khu Vuc TPHCM,Cong Ty TNHH Lien And Alliance,TP HCM,11.5
+Nhan Vien Kinh Doanh Kenh Truyen Thong (GT) Khu Vuc TPHCM,Cong Ty TNHH Lien And Alliance,Binh Duong,11.5
+Nhan Vien Kinh Doanh Kenh Truyen Thong (GT) Khu Vuc TPHCM,Cong Ty TNHH Lien And Alliance,Dong Nai,11.5
+Nhan Vien Kinh Doanh Chuyen Tuyen Dai Loan Di Lam Sau Tet,Cong Ty Co Phan Dich Vu Thuong Mai XNK Quy Nam Sai Gon,TP HCM,25.0
+Nu Nhan Vien Content Marketing,Cong Ty TNHH Thuong Mai - Che Tao May Ba Mien,TP HCM,10.0
+Nhan Vien Kinh Doanh,Cong Ty CP Granddesign Viet Nam,Ha Noi,17.5
+Chuyen Vien Quan He Khach Hang / Relationship Manager (Co The Qua Tet Di Lam),Cong Ty Tnhh Bao Hiem Nhan Tho Aia Viet Nam,TP HCM,22.5
+Chuyen Vien To Chuc Su Kien,Cong Ty Cp Dau Tu X,TP HCM,9.0
+"Giao Vien Tieu Hoc - Tai Quan 9, Thu Duc (Di Lam Ngay Hoac Qua Tet Di Lam)",Cong Ty TNHH Phat Trien Nang Luc Tri Tue,TP HCM,8.5
 Nhan Vien Ky Thuat May Tinh - Camera - Lam Viec Tai Ha Nam,Cong Ty TNHH Cong Nghe So Hoang Anh,Ha Noi,8.5
 Nhan Vien Ky Thuat May Tinh - Camera - Lam Viec Tai Ha Nam,Cong Ty TNHH Cong Nghe So Hoang Anh,Ha Nam,8.5
+Nhan Vien Kinh Doanh Tai Chinh - Di Lam Sau Tet,Cong Ty TNHH Call Center Artemis,TP HCM,20.0
 Nhan Vien Hoan Cong Quyet Toan,Cong Ty Co Phan Ffc,Ha Noi,10.0
 Nhan Vien Hoan Cong Quyet Toan,Cong Ty Co Phan Ffc,TP HCM,10.0
+Nhan Vien Chay Quang Cao (Facebook Ads Va Tiktok Ads) - Luong Tu 30 - 40Tr,Cong ty Co Phan Tham My Vien Saigonstar,TP HCM,35.0
+Nhan Vien Kinh Doanh Online,Cong Ty Co Phan Thuong Mai Va Phat Trien Cong Nghe P&l Viet Nam,Ha Noi,14.0
+Nhan Vien Pha Che - Barista (Di Lam Ngay),Cong Ty TNHH Collective,TP HCM,9.0
+"Nhan Vien Kinh Doanh Phat Trien Thi Truong (HCM, Binh Duong)",Cong Ty TNHH San Xuat Va Thuong Mai Diep Tan Phat,TP HCM,18.5
+"Nhan Vien Kinh Doanh Phat Trien Thi Truong (HCM, Binh Duong)",Cong Ty TNHH San Xuat Va Thuong Mai Diep Tan Phat,Binh Duong,18.5
+Tho Han (Di Lam Ngay),Cong Ty TNHH Laser Viet,TP HCM,10.5
+Ke Toan Noi Bo - Ha Noi (Di Lam Ngay),Cong Ty TNHH Thuong Mai Dau Tu Ssi Viet Nam,Ha Noi,11.5
+Ke Toan Thanh Toan,Cong ty TNHH MTV Chuyen Phat Nhanh Thuan Phong - CN Tay Nguyen (J&T Express),Dak Lak,9.0
+Chuyen Vien Ke Toan Thue - Co Hoi Cho Ke Toan Hanh Nghe Thuc Thu,Cong Ty Co Phan Dai Ly Thue Chan Nhan,TP HCM,7.5
 Nhan Vien Ky Thuat Vien Thong - Thu Nhap Den 20Tr - Khong Yeu Cau Kinh Nghiem,CONG TY TNHH HA TANG VIEN THONG MIEN BAC,Ha Noi,16.0
-Nhan Vien Marketing,Cong Ty Trach Nhiem Huu Han Mot Thanh Vien Xuat Nhap Khau Bike Life,TP HCM,13.5
+Ky Su Xay Dung Dan Dung Va Cong Nghiep,Cong ty TNHH Tu Van - Xay Dung Minh Khang,Binh Dinh,8.5
+Giam Doc Kinh Doanh Tai Phu Tho,Cong Ty TNHH Hoc Vien Giao Duc Quoc Te G - School,Phu Tho,35.0
+Nhan Vien Bao Tri Co Khi,"Chi Nhanh Cong ty TNHH Calofic Tai Hiep Phuoc, TPHCM",TP HCM,10.0
+Nhan Vien Van Phong Biet Tieng Anh Hoac Tieng Trung Co Ban (Lam Viec Ngay Sau Tet),Cong Ty TNHH Chi Hung,Binh Duong,8.5
+Nhan Vien Mua Hang Nhap Khau (Biet Tieng Anh),Cong Ty Co Phan Nhua Hoa Sen,Ba Ria - Vung Tau,11.0
+[Thai Binh] - Giam Sat Ban Hang Thi Truong (Kenh GT),Nha May Sua Dau Nanh Viet Nam Vinasoy,Thai Binh,19.5
+Nhan Vien Ke Toan (Tp Ho Chi Minh),Truong Dai Hoc Cong Nghe Thanh Pho Ho Chi Minh,TP HCM,11.5
+Nhan Vien Hanh Chinh Le Tan Luong Den 12 Trieu,Cong Ty Co Phan Tap Doan Minh Anh,Ha Noi,10.0
+[Thanh Xuan - Ha Noi] Quan Ly Bep Nha Hang Ushi Mania Prenium,Cong Ty TNHH Toridoll V Lotus,Ha Noi,14.0
+Leader Marketing,Cua Hang Thoi Trang Nam - J.A.N Shop,TP HCM,17.5
+Nhan Vien Cham Soc Khach Hang [HCM],Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,TP HCM,12.5
+[HCM] Phuc Vu Nha Hang Part Time Tai The Pizza Company - Thoi Vu Tet,CONG TY CP PIZZA NGON,TP HCM,1.5
+Nhan Vien Thu Kho,Cong ty TNHH TM SX XD Thanh Cong Thanh,Long An,10.0
+Trinh Duoc Vien (Cac Tinh Mien Dong - Tay Nguyen),Cong Ty TNHH Merap Trading,Binh Phuoc,16.0
+Trinh Duoc Vien (Cac Tinh Mien Dong - Tay Nguyen),Cong Ty TNHH Merap Trading,Lam Dong,16.0
+Trinh Duoc Vien (Cac Tinh Mien Dong - Tay Nguyen),Cong Ty TNHH Merap Trading,Tay Ninh,16.0
+Trinh Duoc Vien (Cac Tinh Mien Dong - Tay Nguyen),Cong Ty TNHH Merap Trading,Dak Nong,16.0
+Trinh Duoc Vien (Cac Tinh Mien Dong - Tay Nguyen),Cong Ty TNHH Merap Trading,Dong Nai,16.0
+Nhan Vien Kinh Doanh Thi Truong - Mien Bac,Cong Ty TNHH TM DV Xnk Grove Viet Nam,Ha Noi,11.5
+Nhan Vien Kinh Doanh Thi Truong - Mien Bac,Cong Ty TNHH TM DV Xnk Grove Viet Nam,Hai Duong,11.5
+Nhan Vien Kinh Doanh Thi Truong - Mien Bac,Cong Ty TNHH TM DV Xnk Grove Viet Nam,Hai Phong,11.5
+Nhan Vien Kinh Doanh Thi Truong - Mien Bac,Cong Ty TNHH TM DV Xnk Grove Viet Nam,Hung Yen,11.5
+Nhan Vien Kinh Doanh Thi Truong - Mien Bac,Cong Ty TNHH TM DV Xnk Grove Viet Nam,Thai Binh,11.5
+Giam Doc San Xuat,Cong ty TNHH TM SX XD Thanh Cong Thanh,Long An,21.5
+[HCM] Nhan Vien Nhac No Qua Dien Thoai,Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,TP HCM,17.5
+(Quan 3) Nhan Vien Hoc Vu Biet Tieng Anh,Emg Education Jsc,TP HCM,8.0
+"Trinh Duoc Vien Kenh Nha Thuoc (Binh Thuan, Binh Duong Va Toan Bo Khu Vuc Mekong)",Cong Ty TNHH Mega Lifesciences (Viet Nam),Binh Duong,17.5
+"Trinh Duoc Vien Kenh Nha Thuoc (Binh Thuan, Binh Duong Va Toan Bo Khu Vuc Mekong)",Cong Ty TNHH Mega Lifesciences (Viet Nam),Binh Thuan,17.5
+"Trinh Duoc Vien Kenh Nha Thuoc (Binh Thuan, Binh Duong Va Toan Bo Khu Vuc Mekong)",Cong Ty TNHH Mega Lifesciences (Viet Nam),Long An,17.5
+"Trinh Duoc Vien Kenh Nha Thuoc (Binh Thuan, Binh Duong Va Toan Bo Khu Vuc Mekong)",Cong Ty TNHH Mega Lifesciences (Viet Nam),Tien Giang,17.5
+"Trinh Duoc Vien Kenh Nha Thuoc (Binh Thuan, Binh Duong Va Toan Bo Khu Vuc Mekong)",Cong Ty TNHH Mega Lifesciences (Viet Nam),Dong Nai,17.5
+Giao Vien Tieu Hoc Truong Quoc Te,Cong Ty CP DT Pt Giao Duc Quoc Te Hoang Gia,TP HCM,12.5
+Ke Toan Doanh Thu,Sakura Montessori International School_Cong Ty TNHH Phat Trien Giao Duc Viet Nhat,TP HCM,11.5
+Nhan Vien Nhac Han Thanh Toan Qua Dien Thoai (Phong Van Ngay - Nhan Viec Sau Tet),Cong Ty TNHH Nhut Tan Thanh Phat,TP HCM,22.5
+Nhan Vien Ban Hang Tu Van My Pham (Innisfree / Sulwhasoo / Laneige),Cong Ty TNHH Amorepacific Viet Nam,TP HCM,7.5
+Nhan Vien Van Hanh May - Lam Viec Tai Cu Chi Va Q5,Tong Cong Ty Co Phan Bia - Ruou - Nuoc Giai Khat Sai Gon,TP HCM,8.5
+Nhan Vien Kinh Doanh (Nhan Viec Sau Tet),CONG TY TNHH NGUYEN QUANG SAI GON O TO ( HYUN DAI KINH DUONG VUONG),TP HCM,13.0
+"Nhan Vien Ban Hang Pepsi Tai Ha Noi, Thai Nguyen Va Cac Tinh Lan Can",NPP SUNTORY PEPSICO,Ha Noi,15.0
+"Nhan Vien Ban Hang Pepsi Tai Ha Noi, Thai Nguyen Va Cac Tinh Lan Can",NPP SUNTORY PEPSICO,Hai Duong,15.0
+"Nhan Vien Ban Hang Pepsi Tai Ha Noi, Thai Nguyen Va Cac Tinh Lan Can",NPP SUNTORY PEPSICO,Hai Phong,15.0
+"Nhan Vien Ban Hang Pepsi Tai Ha Noi, Thai Nguyen Va Cac Tinh Lan Can",NPP SUNTORY PEPSICO,Quang Ninh,15.0
+"Nhan Vien Ban Hang Pepsi Tai Ha Noi, Thai Nguyen Va Cac Tinh Lan Can",NPP SUNTORY PEPSICO,Thai Nguyen,15.0
+Ky Su Cau Duong,Cong Ty CP Dau Tu Phat Trien Do Thi Va Khu Cn,Ha Noi,17.5
+Ky Su Cau Duong,Cong Ty CP Dau Tu Phat Trien Do Thi Va Khu Cn,Ha Tinh,17.5
+Ky Su Cau Duong,Cong Ty CP Dau Tu Phat Trien Do Thi Va Khu Cn,Khanh Hoa,17.5
+Giao Dich Vien - Kienlongbank (Tp. HCM),Ngan Hang Thuong Mai Co Phan Kien Long,TP HCM,8.5
+Nhan Vien / Chuyen Vien Khach Hang Ca Nhan / Doanh Nghiep - HCM,Ngan Hang Thuong Mai Co Phan Kien Long,TP HCM,8.5
+Chuyen Vien Kiem Soat Noi Bo - Hoi So,Ngan Hang Thuong Mai Co Phan Kien Long,Ha Noi,19.0
+Brand Manager,Cong Ty Co Phan Lothamilk,TP HCM,26.5
+Giao Dich Vien - Kienlongbank An Thoi (Phu Quoc),Ngan Hang Thuong Mai Co Phan Kien Long,Kien Giang,8.5
+Nhan Vien Ky Thuat Trai Heo (Lam Tai Dak Lak),Cong Ty TNHH De Heus,Dak Lak,8.5
+Ky Su Giam Sat Cong Trinh,Cong Ty TNHH TM DV XD Phung Hoang Gia,Lam Dong,16.0
+Ky Su Giam Sat Cong Trinh,Cong Ty TNHH TM DV XD Phung Hoang Gia,Toan quoc,16.0
+Giam Sat Quan Ly Chat Luong,Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,Ha Noi,20.0
+Giam Sat Quan Ly Chat Luong,Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,Hung Yen,20.0
+Chuyen Vien Van Hanh Ban Hang - Digital Sales (Hd 08 Thang),Cong Ty TNHH Bao Hiem Nhan Tho Generali Viet Nam,TP HCM,12.5
+Nhan Vien Kinh Doanh (Hoang Mai - Hn),Cong Ty TNHH Ltf Viet Nam,Ha Noi,11.5
+Chuyen Vien Bao Tri - Van Phong HCM,Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,TP HCM,12.0
+Truong Bo Phan Nghiep Vu The - Khoi Dich Vu Ngan Hang So,Ngan Hang TMCP Viet Nam Thuong Tin,TP HCM,27.5
+Nhan Vien Kinh Doanh,Cong Ty Co Phan Weploy Vietnam,TP HCM,11.5
+Trinh Duoc Vien OTC Dia Ban Binh Thuan,Cong Ty TNHH Duoc Pham A Au,Binh Thuan,13.0
+Trinh Duoc Vien OTC Dia Ban Binh Thuan,Cong Ty TNHH Duoc Pham A Au,Binh Dinh,13.0
+Trinh Duoc Vien OTC Dia Ban Binh Thuan,Cong Ty TNHH Duoc Pham A Au,Dong Nai,13.0
+Chi Huy Truong -Ky Su Dien MEP,Cong Ty TNHH Dau Tu Xay Dung Thuong Mai B.S,TP HCM,17.0
+Chi Huy Truong -Ky Su Dien MEP,Cong Ty TNHH Dau Tu Xay Dung Thuong Mai B.S,Binh Duong,17.0
+Manager Inbound / Outbound / Mice,Cong Ty Co Phan Thuong Mai Va Dich Vu Quoc Te Dai Viet,Ha Noi,50.0
+Nhan Vien Thiet Ke Do Hoa,Cong Ty TNHH E.LAND Viet Nam,TP HCM,13.0
+Vietinbank Ca Mau / Bac Lieu - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang,Cong Ty TNHH Manulife (Viet Nam),Bac Lieu,25.0
+Vietinbank Ca Mau / Bac Lieu - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang,Cong Ty TNHH Manulife (Viet Nam),Ca Mau,25.0
+Ke Toan Tong Hop,Cong Ty TNHH Agri Vma,Ha Noi,15.0
+"Nhan Vien Kinh Doanh (Nghi Thu 7, Chu Nhat)",Cong Ty TNHH Trang Trang December,Ha Noi,29.0
+Ki Thuat Vien Lap Dat Phu Kien Va Sua Chua Cac Dong Xe Tu 150 - 1000Cc,Sai Gon Maxspeed,TP HCM,10.0
+Nhan Vien Phu Trach Ky Thuat & Kinh Doanh,Cong Ty TNHH Phat Trien Cong Nghe Moi Truong Gia Hung,TP HCM,9.0
+Nhan Vien Phu Trach Ky Thuat & Kinh Doanh,Cong Ty TNHH Phat Trien Cong Nghe Moi Truong Gia Hung,Lam Dong,9.0
+Ky Su Xay Dung Cau Duong,Cong ty TNHH Nhat Minh,Binh Dinh,14.0
+Nhan Vien Ban Hang,Cua Hang Lung Linh Store,Ha Noi,8.5
+Nhan Vien Dieu Phoi Van Tai (Thanh Tri) Di Lam Ngay,Van Tai Pro,Ha Noi,8.5
+Nhan Vien Fqa,Cong Ty TNHH May - In - Theu M&j,TP HCM,11.0
+Truong Bo Phan Phat Trien Dai Ly / Kenh Phan Phoi (B2B) Smart Home,Cong Ty Co Phan Dien Thong Minh Bien Phuc,Quang Nam,15.0
+Truong Bo Phan Phat Trien Dai Ly / Kenh Phan Phoi (B2B) Smart Home,Cong Ty Co Phan Dien Thong Minh Bien Phuc,Thua Thien Hue,15.0
+Truong Bo Phan Phat Trien Dai Ly / Kenh Phan Phoi (B2B) Smart Home,Cong Ty Co Phan Dien Thong Minh Bien Phuc,Da Nang,15.0
+Chuyen Vien Marketing Tong Hop - Di Lam Ngay,Cong Ty TNHH Duoc Pham Bao Tam An,TP HCM,15.5
+Truong Nhom Ke Toan (Uu Tien Tung Lam Cong Ty Dich Vu Ke Toan),Cong Ty TNHH Dich Vu Tu Van Thue Hinh Lam,TP HCM,16.0
+Truong Nhom Ke Toan (Uu Tien Tung Lam Cong Ty Dich Vu Ke Toan),Cong Ty TNHH Dich Vu Tu Van Thue Hinh Lam,Binh Duong,16.0
+Nhan Vien Phuc Vu Full-Time Quan 7 (Nha Hang Llaollao),Cong Ty TNHH Jed,TP HCM,7.5
+Nhan Vien Phuc Vu (Uu Tien Co Kinh Nghiem Nha Hang Cao Cap),Cong Ty Co Phan Nang Restaurant,TP HCM,7.5
+Nhan Vien Kinh Doanh (Luong Tren 10 Trieu),Cong Ty TNHH San Xuat - Cung Ung Vat Tu Nong Nghiep Xanh,TP HCM,20.0
+Nhan Vien Content Marketing,Shopbabyfun,Ha Noi,11.0
+Nhan Vien Dong Goi,Cong Ty TNHH Chuyen Don Toan Cau Ags,TP HCM,7.5
+Nhan Vien Ke Toan Kho,Cong Ty Co Phan Xuat Nhap Khau Toan Thang Food,Ha Noi,7.5
+Nhan Vien Ban Hang Thu Ngan Coopfood,Lien Hiep Hop Tac Xa TM TP Ho Chi Minh (Sai Gon Co-op),TP HCM,6.5
+"Vietinbank Ha Noi, Son La, Hai Phong - Tu Van Vien Tai Chinh Bao Hiem Tai Ngan Hang (Kenh Bancas)",Cong Ty TNHH Manulife (Viet Nam),Ha Noi,22.5
+"Vietinbank Ha Noi, Son La, Hai Phong - Tu Van Vien Tai Chinh Bao Hiem Tai Ngan Hang (Kenh Bancas)",Cong Ty TNHH Manulife (Viet Nam),Hai Phong,22.5
+"Vietinbank Ha Noi, Son La, Hai Phong - Tu Van Vien Tai Chinh Bao Hiem Tai Ngan Hang (Kenh Bancas)",Cong Ty TNHH Manulife (Viet Nam),Quang Ninh,22.5
+"Vietinbank Ha Noi, Son La, Hai Phong - Tu Van Vien Tai Chinh Bao Hiem Tai Ngan Hang (Kenh Bancas)",Cong Ty TNHH Manulife (Viet Nam),Son La,22.5
+"Vietinbank Ha Noi, Son La, Hai Phong - Tu Van Vien Tai Chinh Bao Hiem Tai Ngan Hang (Kenh Bancas)",Cong Ty TNHH Manulife (Viet Nam),Dien Bien,22.5
+Nhan Vien Ky Thuat / Senior Technician,Cong Ty TNHH Sotetsu International Viet Nam,TP HCM,9.0
+Nhan Vien Ky Thuat Bep,Lien Hiep Hop Tac Xa TM TP Ho Chi Minh (Sai Gon Co-op),TP HCM,6.5
+Nhan Vien Chung Tu - Thu Tuc Hai Quan,Cong Ty TNHH TL Inc,Ha Noi,11.0
+Nhan Vien Trien Khai Ban Ve (Di Lam Sau Tet Am Lich),Cong Ty TNHH Thuong Mai Va Xay Dung Bk-Home,Dong Thap,7.5
+Nhan Vien Ban Hang Nha Thuoc,Nha Thuoc Thanh 307,Hai Phong,9.0
+Ke Toan Tong Hop (Di Lam Truoc Hoac Lam Ngay Sau Tet),Cong Ty TNHH Thiet Bi Giao Duc Va Khoa Hoc Ky Thuat Ngan Gia,TP HCM,9.5
+Nhan Vien Kinh Doanh Thuoc Thu Y - Thu Y Thuy San (Thu Nhap Tu 10 Den 20 Trieu),Cong Ty TNHH Thuoc Thu Y A Chau,Binh Duong,15.0
+Nhan Vien Kinh Doanh Thuoc Thu Y - Thu Y Thuy San (Thu Nhap Tu 10 Den 20 Trieu),Cong Ty TNHH Thuoc Thu Y A Chau,Binh Phuoc,15.0
+Nhan Vien Kinh Doanh Thuoc Thu Y - Thu Y Thuy San (Thu Nhap Tu 10 Den 20 Trieu),Cong Ty TNHH Thuoc Thu Y A Chau,Khanh Hoa,15.0
+Nhan Vien Kinh Doanh Thuoc Thu Y - Thu Y Thuy San (Thu Nhap Tu 10 Den 20 Trieu),Cong Ty TNHH Thuoc Thu Y A Chau,Toan quoc,15.0
+Nhan Vien Kinh Doanh Thuoc Thu Y - Thu Y Thuy San (Thu Nhap Tu 10 Den 20 Trieu),Cong Ty TNHH Thuoc Thu Y A Chau,Dong Nai,15.0
+Nhan Vien Phien Dich Tieng Nhat,Cong Ty TNHH S.N.K. Vina,Ha Noi,8.5
+Trinh Duoc Vien OTC Tai Binh Duong,Cong Ty TNHH Duoc Pham A Au,Binh Duong,13.0
+Ke Toan Tong Hop,Cong Ty TNHH Thuong Mai Dich Vu Phat Trien Rong Viet,TP HCM,11.5
+Vietinbank Binh Thuan / Vung Tau - Nhan Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang,Cong Ty TNHH Manulife (Viet Nam),Ba Ria - Vung Tau,25.0
+Vietinbank Binh Thuan / Vung Tau - Nhan Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang,Cong Ty TNHH Manulife (Viet Nam),Binh Thuan,25.0
+Vietinbank Binh Thuan / Vung Tau - Nhan Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang,Cong Ty TNHH Manulife (Viet Nam),Ninh Thuan,25.0
+Duoc Si Nha Thuoc (Trung Cap),Nha Thuoc Kim Lien,TP HCM,8.5
+Giao Vien (Nha Trang),Cong Ty CP Ilearn,Khanh Hoa,8.5
+Nhan Vien Ke Toan Ban Hang,Cong Ty Co Phan Cong Nghe Tuoi Khang Thinh,TP HCM,8.5
+Nhan Vien Le Tan (10- 14 Trieu / Thang),Cong Ty CP Lexus Thang Long,Ha Noi,12.0
+Nhan Vien Kinh Doanh - Di Lam Ngay,Cong Ty Co Phan Quy Dau Tu Aninvest Capital,Thua Thien Hue,11.5
+Nhan Vien Ky Thuat Xay Dung Thi Cong,Cong Ty TNHH Hang Dat Khang Bac Ninh,Bac Giang,12.5
+Nhan Vien Bao Ve (Lam Viec Tai Vung Tau),Cong Ty Cpdv Bao Ve An Ninh Dau Khi Viet Nam- Chi Nhanh Mien Dong Nam Bo,TP HCM,8.5
+Nhan Vien Bao Ve (Lam Viec Tai Vung Tau),Cong Ty Cpdv Bao Ve An Ninh Dau Khi Viet Nam- Chi Nhanh Mien Dong Nam Bo,Ba Ria - Vung Tau,8.5
+Phien Dich Vien Tieng Trung - Tai Binh Tan,Cong Ty TNHH Hong Mon,TP HCM,9.5
+Nhan Vien Hanh Chinh Nhan Su,Cong Ty Co Phan Kinh Doanh Bat Dong San Cat Tuong Land,Can Tho,11.5
+Nhan Vien Bao Ve (Hoan Kiem - Ha Noi) - Nghi Chu Nhat,Cong Ty Co Phan Dich Vu Bao Ve Chuyen Nghiep An Binh,Ha Noi,7.5
+Kien Truc Su Thiet Ke Noi That - Luong Len Den 20 Trieu,Cong Ty Co Phan Xay Dung Cong Trinh Thanh Minh,Ha Noi,16.0
+Nhan Vien Tuyen Dung,Cong Ty TNHH May Theu Giay An Phuoc,TP HCM,12.5
+Pho Phong Kinh Doanh,Cong Ty CP Khai Thac Va Dau Tu Phu Doanh,Ha Tinh,14.0
+Nhan Vien Kiem Hang QC Co Khi - Binh Duong,Cong Ty TNHH Co Khi Chinh Xac Kyodai,Binh Duong,8.5
+Nhan Vien Kinh Doanh Phat Trien Thi Truong,Cong Ty Co Phan Cong Nghiep Nikko Viet Nam,Ha Noi,14.0
+Chuyen Vien Phat Trien Thi Truong Xuat Nhap Khau,Cong Ty Co Phan Tap Doan Mekong Holdings,Ha Noi,17.5
+Cong Nhan May,Cong Ty Co Phan Cung Ung Dich Vu Hang Khong,Ha Noi,7.0
+Chuyen Vien Phat Trien Kinh Doanh,Cong Ty Co Phan Cung Ung Nhan Luc Toan Cau Nic,Ha Noi,17.5
+Nhan Vien Phong Ke Hoach Ky Thuat (Di Lam Ngay),Cong Ty Co Phan Dau Tu Va Phat Trien Lac Hong,Ha Noi,12.5
+Nhan Vien Ky Thuat Dien,Cong Ty TNHH Kim Nguu,TP HCM,12.5
+Nhan Vien Ke Toan - Giao Tiep Duoc Tieng Anh,Khu Do Thi Nam Thang Long - Ciputra Hanoi International City,Ha Noi,6.0
+Nhan Vien Theo Doi Don Hang (Merchandiser),Cong Ty TNHH Sbgear Vina,TP HCM,12.5
+Nhan Vien Kinh Doanh Noi That (Khong Yeu Cau Kinh Nghiem),CONG TY TNHH TAP DOAN RITA VO,TP HCM,10.0
+Nhan Vien Kinh Doanh Noi That (Khong Yeu Cau Kinh Nghiem),CONG TY TNHH TAP DOAN RITA VO,Binh Duong,10.0
+Nhan Vien Kinh Doanh (Nhan Viec Ngay Hoac Sau Tet),Cong Ty TNHH Mass Transport Express (Viet Nam),TP HCM,12.5
+Nhan Vien Kinh Doanh (Nhan Viec Ngay Hoac Sau Tet),Cong Ty TNHH Mass Transport Express (Viet Nam),Hai Phong,12.5
+Tro Ly Kinh Doanh - Assistant Sales Support (Nhan Viec Ngay Hoac Nhan Viec Sau Tet),Cong Ty TNHH Mass Transport Express (Viet Nam),TP HCM,12.5
+"(Quan 1, HCM) Ky Su Thiet Ke Co Khi",Cong Ty TNHH Thiet Bi Ots Viet Nam,TP HCM,11.0
+Ky Thuat San Xuat Nganh Go,Cong Ty TNHH TM & SX Khai Phong,TP HCM,13.5
+Ke Toan Tong Hop,Cong Ty Co Phan Dau Tu Xay Dung Ha Tien,TP HCM,17.0
+Chuyen Vien/Nv Ke Toan Thue Can Giuoc Long An Thu Nhap 14-15 Trieu / Thang,Cong Ty TNHH Mot Thanh Vien HR Tri Viet,TP HCM,15.0
+Chuyen Vien/Nv Ke Toan Thue Can Giuoc Long An Thu Nhap 14-15 Trieu / Thang,Cong Ty TNHH Mot Thanh Vien HR Tri Viet,Long An,15.0
+Ke Toan Thue Lam Viec Tai Nam Tu Liem Ha Noi,Cong Ty TNHH Thuong Mai Va Xuat Nhap Khau Nam Hoa,Ha Noi,16.0
+Nhan Vien Kinh Doanh Tu Van BDS (Thu Nhap 10-80 Trieu),Cong Ty Co Phan Viet Nhan Bac Ninh,Ha Noi,45.0
+Nhan Vien Kinh Doanh Tu Van BDS (Thu Nhap 10-80 Trieu),Cong Ty Co Phan Viet Nhan Bac Ninh,Bac Ninh,45.0
+Nhan Vien Kinh Doanh Tu Van BDS (Thu Nhap 10-80 Trieu),Cong Ty Co Phan Viet Nhan Bac Ninh,Hai Duong,45.0
+Nhan Vien Kinh Doanh Tu Van BDS (Thu Nhap 10-80 Trieu),Cong Ty Co Phan Viet Nhan Bac Ninh,Hung Yen,45.0
+Nhan Vien Kinh Doanh Tai Hai Phong,Cong Ty TNHH Cong Nghe Thang May T&t,Hai Phong,22.5
+Dieu Duong Nha Khoa (Khong Yeu Cau Kinh Nghiem) - Ra Tet Di Lam,Nha Khoa Toan Tam,Ha Noi,13.5
+Le Tan Hanh Chinh- Nhan Viec Truoc Tet,Cong Ty Tnhh Tu Phuong Tony,TP HCM,8.5
+Nhan Vien Cham Soc Khach Hang Online (Nhan Viec Sau Tet),Cong Ty Co Phan Cong Ket Noi Sato,TP HCM,9.0
+Nhan Su Biet Tieng Hoa,Cong Ty TNHH Chuoi Cung Ung Thuc Pham Jin Yang,TP HCM,8.5
+Nhan Vien Ban Hang,Cong Ty Co Phan Phat Trien Quoc Te Au My,Ha Noi,7.5
+Nhan Vien Kinh Doanh (Thu Viec 17 Trieu),Cong Ty TNHH Thuy Sam,Binh Duong,19.0
+Nhan Vien Kinh Doanh,Cong Ty Co Phan Kinh Doanh Bat Dong San Cat Tuong Land,Can Tho,25.0
+Nhan Vien Marketing - Quan 7 ( Thu Nhap Tren 12 Trieu),Cong Ty Trach Nhiem Huu Han Mot Thanh Vien Xuat Nhap Khau Bike Life,TP HCM,13.5
+"Sale Admin (Phong Van Truoc, Nhan Viec Sau Tet)",Cong Ty Co Phan Yabe,TP HCM,9.5
+Nhan Vien Phuc Vu Nha Hang (Co The Nhan Viec SAU TET),Cong Ty TNHH An Khang Vung Tau,Ba Ria - Vung Tau,7.5
+Ky Su Ket Cau,Cong Ty Co Phan Indcon,Ha Noi,15.0
+Nhan Vien Tu Van Tai Chinh Khong Yeu Cau Kinh Nghiem,Emc Marketing,TP HCM,15.0
+Nhan Vien Thu Hoi No Truc Tiep Hung Yen,Cong Ty Tai Chinh TNHH Hd Saison,Hung Yen,20.0
 Chuyen Vien IT Helpdesk Tai 519 Kim Ma - Ba Dinh - Ha Noi,Cong Ty Tai Chinh TNHH Hd Saison,Ha Noi,9.5
+Nhan Vien Kinh Doanh Biet Tieng Anh - Phong Van Sau Tet,Cong Ty TNHH Chosun Vina,Dong Nai,11.0
+Nhan Vien Ky Thuat Xay Dung (Nhan Viec Ngay Hoac Sau Tet),Cong Ty TNHH Kien Truc Xay Dung Anh Nguyen,Dong Nai,12.5
+Kien Truc Su,Cong Ty TNHH Kien Truc Xay Dung Anh Nguyen,Dong Nai,17.5
 "Nhan Vien Ky Thuat (Khong Can Kinh Nghiem, HCM - Can Tho)",Cong Ty Tnhh Uniq,TP HCM,7.5
 "Nhan Vien Ky Thuat (Khong Can Kinh Nghiem, HCM - Can Tho)",Cong Ty Tnhh Uniq,Can Tho,7.5
-Nhan Vien IT,Cong Ty TNHH Bao Bi Giay Viet Trung,TP HCM,12.5
-Nhan Vien IT,Cong Ty TNHH Bao Bi Giay Viet Trung,Long An,12.5
+[HCM] Nhan Vien Tu Van Tuyen Sinh,Arena Multimedia,TP HCM,10.0
+"Nhan Vien Giai Quyet Khieu Nai (Phong Van Online, Nhan Viec Sau Tet)",Cong Ty TNHH Viet My -Ssu,TP HCM,7.5
+Nhan Vien Kinh Doanh Thuong Mai Quoc Te,Cong Ty Co Phan Tap Doan Sai Gon Tien Doan,TP HCM,12.5
+Nhan Vien Kinh Doanh Xuat Nhap Khau,Cong Ty Co Phan Tap Doan Sai Gon Tien Doan,TP HCM,12.5
+"Nhan Vien Thu Hoi No - Ca Mau, Bac Lieu",Cong Ty Tai Chinh TNHH Hd Saison,Bac Lieu,20.0
+"Nhan Vien Thu Hoi No - Ca Mau, Bac Lieu",Cong Ty Tai Chinh TNHH Hd Saison,Ca Mau,20.0
+"Nhan Vien Thu Hoi No Truc Tiep- An Giang, Kien Giang",Cong Ty Tai Chinh TNHH Hd Saison,An Giang,20.0
+"Nhan Vien Thu Hoi No Truc Tiep- An Giang, Kien Giang",Cong Ty Tai Chinh TNHH Hd Saison,Kien Giang,20.0
+Nhan Vien Thu Hoi No Truc Tiep Toan Quoc,Cong Ty Tai Chinh TNHH Hd Saison,TP HCM,20.0
+Nhan Vien Thu Hoi No Truc Tiep Toan Quoc,Cong Ty Tai Chinh TNHH Hd Saison,An Giang,20.0
+Nhan Vien Thu Hoi No Truc Tiep Toan Quoc,Cong Ty Tai Chinh TNHH Hd Saison,Gia Lai,20.0
+Nhan Vien Thu Hoi No Truc Tiep Toan Quoc,Cong Ty Tai Chinh TNHH Hd Saison,Khanh Hoa,20.0
+Nhan Vien Thu Hoi No Truc Tiep Toan Quoc,Cong Ty Tai Chinh TNHH Hd Saison,Kien Giang,20.0
+Nhan Vien Ke Toan Di Lam Ngay,Cong Ty TNHH Phuong Quan Vina,Long An,9.0
+Truong Phong Kinh Doanh,AIA Exchange Bien Hoa,Dong Nai,34.0
+Chuyen Vien Phat Trien Thi Truong Nhat Ban (Tim Kiem Dau Ngoai Thi Truong Xkld Nhat Ban),Cong Ty Co Phan Dau Tu Thuan An Dmc,Ha Noi,23.5
+Chuyen Vien Phat Trien Thi Truong Nhat Ban (Tim Kiem Dau Ngoai Thi Truong Xkld Nhat Ban),Cong Ty Co Phan Dau Tu Thuan An Dmc,TP HCM,23.5
+Chuyen Vien Phat Trien Thi Truong Nhat Ban (Tim Kiem Dau Ngoai Thi Truong Xkld Nhat Ban),Cong Ty Co Phan Dau Tu Thuan An Dmc,Hai Duong,23.5
+Chuyen Vien Phat Trien Thi Truong Nhat Ban (Tim Kiem Dau Ngoai Thi Truong Xkld Nhat Ban),Cong Ty Co Phan Dau Tu Thuan An Dmc,Thanh Hoa,23.5
+Chuyen Vien Phat Trien Thi Truong Nhat Ban (Tim Kiem Dau Ngoai Thi Truong Xkld Nhat Ban),Cong Ty Co Phan Dau Tu Thuan An Dmc,Da Nang,23.5
+Chuyen Vien Tuyen Dung Nhan Su,Namaste Yoga Da Lat,Lam Dong,12.5
+Ke Toan Thue Tai Hai Phong (Di Lam Ngay),Cong Ty TNHH Thuong Mai Van Tai Dong Nam,Hai Phong,11.0
+Nhan Vien Ke Toan,Cong Ty TNHH Bao Bi Giay Viet Trung,TP HCM,9.0
+Nhan Vien Ke Toan,Cong Ty TNHH Bao Bi Giay Viet Trung,Long An,9.0
+Nhan Vien Ke Toan Kiem Soat Noi Bo - Du An,Cong Ty TNHH Tap Doan Dau Tu Hoa Sen,Lam Dong,10.0
+Nhan Vien Ke Toan Kiem Soat Noi Bo - Du An,Cong Ty TNHH Tap Doan Dau Tu Hoa Sen,Dong Nai,10.0
+Nhan Vien Dich Vu Truyen Thong / Communication Service Executive,Cong Ty TNHH TM DV Tan Hiep Phat,Binh Duong,10.5
+Nhan Vien Mua Hang - May Moc Thiet Bi / Purchasing Executive - Mro,Cong Ty TNHH TM DV Tan Hiep Phat,Binh Duong,11.0
+Center Manager,Cong Ty TNHH Dich Vu Giao Duc Poly,TP HCM,19.0
+Chuyen Vien Thu Hoi No Hien Truong (Nam),Cong Ty TNHH Atm Online Vietnam,TP HCM,16.0
+Nhan Vien Thu Hoi No - Can Tho,Cong Ty Tai Chinh TNHH Hd Saison,Can Tho,17.5
+Tro Ly Giam Doc - Thu Nhap Tu 15 Trieu / Thang,Cong Ty Tnhh Bmi Restaurant,Can Tho,22.5
+Ke Toan Noi Bo,Cong Ty TNHH Vat Lieu Xay Dung Hoang Dang,Dong Nai,8.5
+Ky Su Cong Trinh,Cong Ty TNHH Vat Lieu Xay Dung Hoang Dang,Dong Nai,8.5
+Nhan Vien An Ninh / Bao Ve Lam Viec Tai Cac Toa Nha,Cong Ty Co Phan Dich Vu Bao Ve Hang Phat,Ha Noi,9.0
 Chuyen Vien Quan Tri He Thong Thu Nhap Tren 18 Trieu,Cong Ty Co Phan Htc Vien Thong Quoc Te,Ha Noi,21.5
+Tho Xo Khuyen,Cong Ty TNHH Nnd Studio,TP HCM,10.0
+"Lai Xe Bang D, E Biet Tieng Anh Hoac Tieng Nhat",Cong Ty TNHH Dich Vu Logitem Viet Nam Mien Bac,Ha Noi,11.0
+Nhan Vien Giao Hang,Cong Ty TNHH Nen Tang Thanh Cong Quoc Te Viet Nam,TP HCM,8.0
+Nhan Vien Meadia Creator,Cong Ty Co Phan Phat Trien Thuong Mai Va Dich Vu Ms,TP HCM,12.5
+Nhan Vien Thu Hoi No Truc Tiep Tai Cao Bang,Cong Ty Tai Chinh TNHH Hd Saison,Cao Bang,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Cao Bang,Cong Ty Tai Chinh TNHH Hd Saison,Lang Son,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Cao Bang,Cong Ty Tai Chinh TNHH Hd Saison,Son La,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Thanh Hoa,Cong Ty Tai Chinh TNHH Hd Saison,Thanh Hoa,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Nam Dinh,Cong Ty Tai Chinh TNHH Hd Saison,Nam Dinh,20.0
+Nhan Vien Van Hanh Gia Cong May Tien -Phay CNC,Cong ty TNHH Khoan SX-TM-DV Tien Phong,Dong Nai,12.5
+Bien Tap Vien (Linh Vuc Tham My) Tai HCM,Cong Ty TNHH Klain,TP HCM,14.5
+Nhan Vien Kinh Doanh (Van Ep),Cong Ty TNHH XD & SX Mdf Hai Duong,Binh Duong,8.5
+Sales Export,Cong Ty TNHH XD & SX Mdf Hai Duong,Binh Duong,12.5
+Nhan Vien Telesales Thu Nhap Tu 15 Toi 40 Trieu,Cong Ty Co Phan Dich Vu Va Truyen Thong Mobi Next,Ha Noi,27.5
+Ky Thuat Vien Xoa Bop An Huyet (Khong Can Kinh Nghiem),CONG TY TNHH HONG TUOI 233,TP HCM,19.0
+Ke Toan Thu,Cong ty TNHH MTV Chuyen Phat Nhanh Thuan Phong - CN Tay Nguyen (J&T Express),Dak Lak,9.0
+Thuc Tap Sinh Tiem Nang,Ngan Hang Thuong Mai Co Phan Tien Phong (TPBank),Ha Noi,1.5
+Nhan Vien Phuc Vu - Fulltime & Parttime - Tai Quan 4,Billiards And Coffee Q4,TP HCM,7.0
+Nhan Vien Giao Hang Tai Bac Giang,Cong Ty TNHH Shopee Express,Bac Giang,11.0
+Nhan Vien Giao Hang Tai Bac Ninh,Cong Ty TNHH Shopee Express,Bac Ninh,11.0
+Nhan Vien Giao Hang Tai Nam Dinh,Cong Ty TNHH Shopee Express,Nam Dinh,11.0
+Nhan Vien Giao Hang Tai Long An,Cong Ty TNHH Shopee Express,Long An,11.0
+Nhan Vien Giao Hang Tai Kien Giang,Cong Ty TNHH Shopee Express,Kien Giang,11.0
+Nhan Vien Giao Hang Tai Binh Duong,Cong Ty TNHH Shopee Express,Binh Duong,11.0
+Nhan Vien Giao Hang Tai Dong Nai,Cong Ty TNHH Shopee Express,Dong Nai,11.0
+Nhan Vien Giao Hang Tai Ba Ria - Vung Tau,Cong Ty TNHH Shopee Express,Ba Ria - Vung Tau,11.0
+Nhan Vien Kho Giao Nhan Tai Kon Tum,Cong Ty TNHH Shopee Express,Kon Tum,8.5
+Nhan Vien Kho Giao Nhan Tai Tay Ninh,Cong Ty TNHH Shopee Express,Tay Ninh,8.5
+Nhan Vien Kho Giao Nhan Tai Binh Duong,Cong Ty TNHH Shopee Express,Binh Duong,8.5
+Nhan Vien Kho Giao Nhan Tai Dong Nai,Cong Ty TNHH Shopee Express,Dong Nai,8.5
+Nhan Vien Kho Phan Loai Tai Bac Ninh,Cong Ty TNHH Shopee Express,Bac Ninh,9.5
+Outdoor Furniture - QC Supervisor (Giam Sat QC) - Lam Viec Tai Ben Tre,Cong Ty TNHH An Viet Thinh,Ben Tre,25.0
+Truong Tram Giao Nhan Tai Binh Duong,Cong Ty TNHH Shopee Express,Binh Duong,10.0
+Truong Tram Giao Nhan Tai Dong Nai,Cong Ty TNHH Shopee Express,Dong Nai,10.0
+Nhan Vien Giao Hang Tai Hai Phong,Cong Ty TNHH Shopee Express,Hai Phong,11.0
+Nhan Vien Giao Hang Tai Vinh Phuc,Cong Ty TNHH Shopee Express,Vinh Phuc,11.0
+Nhan Vien Giao Hang Tai Phu Tho,Cong Ty TNHH Shopee Express,Phu Tho,11.0
+Nhan Vien Kho Giao Nhan Tai Hai Duong,Cong Ty TNHH Shopee Express,Hai Duong,8.5
+Nhan Vien Kho Giao Nhan Tai Phu Tho,Cong Ty TNHH Shopee Express,Phu Tho,8.5
+Nhan Vien Kho Giao Nhan Tai Hung Yen,Cong Ty TNHH Shopee Express,Hung Yen,8.5
+Nhan Vien Kho Giao Nhan Tai Lao Cai,Cong Ty TNHH Shopee Express,Lao Cai,8.5
+Nhan Vien Kho Giao Nhan - Ha Noi,Cong Ty TNHH Shopee Express,Ha Noi,8.5
+Nhan Vien Kho Giao Nhan Tai Lam Dong,Cong Ty TNHH Shopee Express,Lam Dong,8.5
+Nhan Vien Dieu Duong,Phong Kham Da Lieu Tao Do - Red Apple (Cong Ty TNHH Phong Kham Chuyen Khoa Da Lieu Tao Do),TP HCM,11.0
+Nhan Vien Ban Hang Kenh Dai Ly - Binh Phuoc,Cong Ty TNHH Nuoc Giai Khat Coca-Cola Viet Nam,Binh Phuoc,10.0
+Giam Sat Ban Hang - Bac Giang,Cong Ty TNHH Nuoc Giai Khat Suntory Pepsico Viet Nam,Bac Giang,27.0
+Digital Marketing (Mang Audio Book),Vega Corporation (Cong Ty Co Phan Bach Minh),Ha Noi,14.0
+Waka_Nhan Vien Phat Trien Dich Vu (Khong Yeu Cau Kinh Nghiem),Vega Corporation (Cong Ty Co Phan Bach Minh),Ha Noi,8.5
+Truong Nhom Market Research Luong 15 - 25Tr / Thang,Vega Corporation (Cong Ty Co Phan Bach Minh),Ha Noi,20.0
+Chuyen Vien Xu Ly Khung Hoang Truyen Thong Luong 15 - 25Tr / Thang,Vega Corporation (Cong Ty Co Phan Bach Minh),Ha Noi,20.0
+Nhan Vien Phien Dich Tieng Trung Biet Ke ToanZhao Pin Yi Ming Nu Fan Yi Dong Hui Ji You Xian Kao Lu ,Cong Ty TNHH Xuat Nhap Khau Trung Tin Phat,TP HCM,12.5
+"Nhan Vien Ban Hang Tai Benh Vien Tu Du, benh vien Le Van Viet, benh vien Le Van Thinh TPHCM",Cong Ty TNHH Cong Dong Bau,TP HCM,6.0
+Nhan Vien Kinh Doanh Du An (Project Sales Executive),Cong Ty Co Phan Thuong Mai Va Ky Thuat Nds,TP HCM,12.5
+Giao Vien Tieng Anh,Cong Ty TNHH Bup Sen,Quang Ngai,9.5
+Ke Toan Thue (Di Lam Sau Tet),Cong Ty TNHH San Xuat - Thuong Mai Va Dich Vu Ngo Dang,Thai Binh,13.5
+Ky Su Co Dien (Nhon Trach -Dong Nai),Cong Ty TNHH MTV TM DV Dong Thang,Dong Nai,15.5
+Packaging Assistant,Cong Ty TNHH Bao Bi Alpla (Viet Nam),TP HCM,9.0
+Nhan Vien Thiet Ke In An,Cong Ty TNHH Cach Anh,Binh Duong,11.5
+Nhan Vien Ke Toan Tong Hop,Cong Ty TNHH Aristeel,TP HCM,9.0
+Chuyen Vien Hanh Chinh Nhan Su Tong Hop,Cong Ty TNHH Nuoc Giai Khat Aloefield,Long An,10.5
+Nhan Vien Ky Thuat Van Hanh May CNC (Nganh San Xuat Noi That),Cong Ty Co Phan San Xuat Thuong Mai Va Dau Tu ADH,TP HCM,10.5
+Vietinbank Ninh Thuan / Binh Thuan - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang,Cong Ty TNHH Manulife (Viet Nam),Binh Thuan,25.0
+Vietinbank Ninh Thuan / Binh Thuan - Chuyen Vien Tu Van Tai Chinh Kenh Lien Ket Ngan Hang,Cong Ty TNHH Manulife (Viet Nam),Ninh Thuan,25.0
+Dau Gia Vien,Cong Ty Dau Gia Hop Danh Khai Bao,TP HCM,11.0
+Tro Ly (Biet Nghiep Vu Ke Toan),Cong Ty TNHH Thuong Mai Dich Vu Quang Cao La Do,TP HCM,7.0
+Nhan Vien Barista Lam Duoc Tet (Full Time / Part Time) - Quan 11,Cong Ty Co Phan Thuc Pham Cakewalk,TP HCM,5.5
+Thu Ky Nghiep Vu Nghe Luat,Cong Ty Dau Gia Hop Danh Go Cong,Tien Giang,8.5
+Doi Dua Vang - Chuyen Vien Tuyen Dung,Cong ty TNHH Che bien thuc pham Dong Do,Ha Noi,10.5
+Chuyen Vien Mua Hang,Cong Ty Co Phan Hoang Gia Pha Le,Dong Nai,17.5
+Ky Thuat Vien Van Hanh May - Vsip Bac Ninh,Cong Ty TNHH Nuoc Giai Khat Suntory Pepsico Viet Nam,Bac Ninh,12.5
+Can Bo Ky Thuat Ha Tang Giao Thong - Di Lam Ngay Sau Tet Nguyen Dan,Cong Ty Co PhanTu Van Dau Tu Xay Dung Do Thi An Khanh,Phu Tho,16.5
+Giao Vien Tieng Anh,Cong Ty Co Phan Dao Tao Va Du Hoc Edutrust,Ha Noi,17.5
+Ky Thuat Vien Tai Phong Kham,Cong Ty Tnhh Mtv Phuc Hoa Beauty,TP HCM,8.5
+Ke Toan Thu Mua,Cong Ty TNHH Dich Vu Giai Tri TNT Group,TP HCM,8.5
+"Nhan Vien Kho - Ho Tro La Quan Ao, Xep Hang Hoa",Veston Binh Minh - Cong Ty TNHH Thoi Trang May Binh Minh,Ha Noi,8.5
+Chuyen Vien Phan Tich Hoat Dong Thu No,Cong Ty Tai Chinh TNHH Hd Saison,TP HCM,13.5
+Nhan Vien Ky Thuat Oto Dieu Hanh Doan Xe,CTy Co Phan Van Tai Toan Cau Viet Nam,Hai Phong,16.0
+Nhan Vien Xuat Nhap Khau - Lam Viec Tai Tp. Bac Ninh,Cong Ty TNHH Seojin System Vina,Bac Ninh,13.5
+Chuyen Gia San Xuat Nem Lo Xo,Chi Nhanh Cong Ty Co Phan Everpia,Dong Nai,16.5
+Nhan Vien Ban Hang Thi Truong,Co So So Tom Sa Doi,Ha Noi,14.0
+Nhan Vien Kinh Doanh (Sale- Marketing),Vega Corporation (Cong Ty Co Phan Bach Minh),Ha Noi,9.0
+Nhan Vien Kinh Doanh B2B Tai HCM,Cong Ty TNHH Yakult Viet Nam,TP HCM,11.0
 Nhan Vien IT Phan Mem  (Tester / QC) Tai HCM,Cong Ty TNHH Yakult Viet Nam,TP HCM,9.5
+Nhan Vien Khu Vui Choi (Aeon Mall Hai Phong),Cong Ty TNHH Aeon Fantasy Viet Nam,Hai Phong,6.5
+Nhan Vien Ky Thuat Toa Nha,Cong Ty Co Phan Quan Ly Bat Dong San Quoc Te,Ha Noi,9.0
+Nhan Vien Thu Mua Biet Tieng Trung,Cong Ty TNHH Thuong Mai Dich Vu Anh Em Ae,TP HCM,11.5
+Nhan Vien An Ninh - Toa Nha Tap Doan Muong Thanh,Cong Ty CP Tap Doan Muong Thanh,Ha Noi,7.5
+Nhan Vien Bao Ve - Hanh Ly,Nha Khach Quan Doi (Army Hotel),Ha Noi,6.0
+Nhan Vien Kho Duoc Vacxin Tai Hau Nghia Long An,Cong ty Co Phan Vacxin Viet Nam,Long An,10.0
+Nhan Vien Hoa Duoc Thiet Bi Y Te,Cong Ty Co Phan Bio - Pham,Ha Noi,12.5
+Nhan Vien Kiem Nghiem,Cong Ty TNHH Dua Dang Khoa,Ben Tre,7.5
 Nhan Vien Kinh Doanh,Cong Ty Co Phan Cong Nghe Oryza Systems,TP HCM,9.5
 Nhan Vien Kinh Doanh,Cong Ty Co Phan Cong Nghe Oryza Systems,Binh Duong,9.5
+Dat Xanh - Nhan Vien Lai Cano,Cong Ty Co Phan Tap Doan Dat Xanh,TP HCM,11.0
+Nhan Vien Tu Van Ban My Pham (Co The Nhan Viec Sau Tet),Cong Ty TNHH Milensea Connection,Khanh Hoa,13.5
+Nhan Vien Tap Vu,Cho Cu Food& Beer,TP HCM,8.5
+"Nhan Vien Thu Hoi No Truc Tiep Mien Trung_ Khu Vuc Quang Nam, Quang Ngai",Cong Ty Tai Chinh TNHH Hd Saison,Quang Nam,20.0
+"Nhan Vien Thu Hoi No Truc Tiep Mien Trung_ Khu Vuc Quang Nam, Quang Ngai",Cong Ty Tai Chinh TNHH Hd Saison,Quang Ngai,20.0
+Phien Dich Tieng Han - Tn Upto 20Tr / Thang,Cong Ty Co Phan Thiet Ke Kien Truc- Noi That- Xay Dung AAA,Ha Noi,17.5
+Nhan Vien Tu Van Bao Hiem_Dong Thap,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,TP HCM,8.5
+Hoa Vien Thiet Ke Mau Gach Men,Cong Ty Co Phan Be Tong Ha Thanh,Dong Thap,10.5
+Chuyen Vien Mua Hang Va Du An,Cong Ty Co Phan Nang Luong Va Dich Vu Hoa Huong Duong,Ha Noi,12.5
+Nhan Vien Ke Toan Noi Bo (Ha Noi),Cong Ty Co Phan Nang Luong Va Dich Vu Hoa Huong Duong,Ha Noi,8.5
+Nhan Vien Dieu Duong,Cong Ty Co Phan Nang Luong Va Dich Vu Hoa Huong Duong,Ha Noi,8.5
 Nhan Vien Kinh Doanh (Nhan Viec Sau Tet),CN Da Nang - Cong Ty CP Vien Thong Fpt,Da Nang,12.5
-Chuyen Vien Van Hanh Phan Mem.,Tap Doan Tan A Dai Thanh,Ha Noi,11.0
+Ky Su Thiet Ke Co (Co Khi),Cong Ty CP Thiet Ke Va Che Tao May Hanode,Ha Noi,8.5
+Nhan Vien Telesales - Cao Lanh Dong Thap,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,An Giang,9.5
+Nhan Vien Telesales - Cao Lanh Dong Thap,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,Long An,9.5
+Nhan Vien Telesales - Cao Lanh Dong Thap,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,Tien Giang,9.5
+Nhan Vien Telesales - Cao Lanh Dong Thap,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,Vinh Long,9.5
+Nhan Vien Telesales - Cao Lanh Dong Thap,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,Dong Thap,9.5
+Nhan Vien Thiet Ke Noi That,Cong Ty Co Phan Dau Tu Kien Truc Xay Dung Thiet Thach,TP HCM,11.0
+Nhan Vien Tiep Thi Truc Tiep,Cong Ty Tai Chinh TNHH Hd Saison,Hai Phong,20.0
+Nhan Vien Tiep Thi Truc Tiep,Cong Ty Tai Chinh TNHH Hd Saison,Hoa Binh,20.0
+Nhan Vien Tiep Thi Truc Tiep,Cong Ty Tai Chinh TNHH Hd Saison,Hung Yen,20.0
+Nhan Vien Tiep Thi Truc Tiep,Cong Ty Tai Chinh TNHH Hd Saison,Nam Dinh,20.0
+Nhan Vien Tiep Thi Truc Tiep,Cong Ty Tai Chinh TNHH Hd Saison,Thai Nguyen,20.0
+Nhan Vien Thu Hoi No Truc Tiep Thu Nhap 20-25 Trieu,Cong Ty Tai Chinh TNHH Hd Saison,Hai Phong,20.0
+Nhan Vien Thu Hoi No Truc Tiep Thu Nhap 20-25 Trieu,Cong Ty Tai Chinh TNHH Hd Saison,Hoa Binh,20.0
+Nhan Vien Thu Hoi No Truc Tiep Thu Nhap 20-25 Trieu,Cong Ty Tai Chinh TNHH Hd Saison,Hung Yen,20.0
+Nhan Vien Thu Hoi No Truc Tiep Thu Nhap 20-25 Trieu,Cong Ty Tai Chinh TNHH Hd Saison,Nam Dinh,20.0
+Nhan Vien Thu Hoi No Truc Tiep Thu Nhap 20-25 Trieu,Cong Ty Tai Chinh TNHH Hd Saison,Thai Nguyen,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Dia Ban - Toan Thanh Pho Ha Noi,Cong Ty Tai Chinh TNHH Hd Saison,Ha Noi,20.0
+Truong Nhom Thu Hoi No Truc Tiep Khu Vuc Ha Noi,Cong Ty Tai Chinh TNHH Hd Saison,Ha Noi,25.0
+Giam Sat Thu Hoi No Truc Tiep Tai Dia Ban Mien Bac,Cong Ty Tai Chinh TNHH Hd Saison,Ha Noi,34.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Ha Giang,Cong Ty Tai Chinh TNHH Hd Saison,Ha Giang,17.5
+Nhan Vien Thu Hoi No Truc Tiep Tai Ha Giang,Cong Ty Tai Chinh TNHH Hd Saison,Ha Nam,17.5
+Nhan Vien Thu Hoi No Truc Tiep Tai Ha Giang,Cong Ty Tai Chinh TNHH Hd Saison,Son La,17.5
+Nhan Vien Thu Hoi No Truc Tiep Tai Ha Nam,Cong Ty Tai Chinh TNHH Hd Saison,Ha Giang,17.5
+Nhan Vien Thu Hoi No Truc Tiep Tai Ha Nam,Cong Ty Tai Chinh TNHH Hd Saison,Ha Nam,17.5
+Nhan Vien Thu Hoi No Truc Tiep Tai Ha Nam,Cong Ty Tai Chinh TNHH Hd Saison,Son La,17.5
+Le Tan Khach San - Nam,Cong Ty TNHH Khach San Va Van Phong Lam Viec A - 1 Vy-Eastin Grand Hotel Saigon,TP HCM,7.0
+Ke Toan Ban Hang,Shop Thoi Trang Nara,Thua Thien Hue,7.5
+Ke Toan Ban Hang,Shop Thoi Trang Nara,Toan quoc,7.5
+Nhan Vien Phat Trien Thi Truong,Shop Thoi Trang Nara,Thua Thien Hue,12.5
+Nhan Vien Phat Trien Thi Truong,Shop Thoi Trang Nara,Toan quoc,12.5
+Ke Toan Tong Hop,Cong Ty Co Phan CMP Fibalite Viet Nam,Ha Noi,17.0
+Nhan Vien Ke Toan - Long An (Tieng Trung),Cong Ty TNHH Hong Mon,Long An,8.5
+"Nhan Vien Ky Thuat Sua Chua, Bao Duong O To (Luong 10-15 Trieu)",Cong Ty TNHH Kinh Doanh Thuong Mai Va Dich Vu Vinfast,Lai Chau,13.5
+"Nhan Vien Ky Thuat Sua Chua, Bao Duong O To (Luong 10-15 Trieu)",Cong Ty TNHH Kinh Doanh Thuong Mai Va Dich Vu Vinfast,Lao Cai,13.5
+"Nhan Vien Ky Thuat Sua Chua, Bao Duong O To (Luong 10-15 Trieu)",Cong Ty TNHH Kinh Doanh Thuong Mai Va Dich Vu Vinfast,Son La,13.5
+"Nhan Vien Ky Thuat Sua Chua, Bao Duong O To (Luong 10-15 Trieu)",Cong Ty TNHH Kinh Doanh Thuong Mai Va Dich Vu Vinfast,Yen Bai,13.5
+"Nhan Vien Ky Thuat Sua Chua, Bao Duong O To (Luong 10-15 Trieu)",Cong Ty TNHH Kinh Doanh Thuong Mai Va Dich Vu Vinfast,Dien Bien,13.5
+Truong Phong Giao Nhan Khai Bao Hai Quan,Cong ty TNHH Thuong Mai va Van Tai An Pha Tran,TP HCM,12.5
+Giam Sat Ban Hang - Phu Tho / Vinh Phuc,Cong Ty TNHH Nuoc Giai Khat Suntory Pepsico Viet Nam,Phu Tho,28.5
+Nhan Vien QC Linh  Vuc Noi That San Vuon (Lam Viec Tai Ben Tre),Cong Ty TNHH An Viet Thinh,Ben Tre,14.0
+Nhan Vien Dieu Duong Tai Bau Bang Binh Duong,Cong ty Co Phan Vacxin Viet Nam,Binh Duong,10.0
+Nhan Vien Dieu Duong Tai Bau Bang Binh Duong,Cong ty Co Phan Vacxin Viet Nam,Binh Phuoc,10.0
+Nhan Vien Dieu Duong Tai Bau Bang Binh Duong,Cong ty Co Phan Vacxin Viet Nam,Tay Ninh,10.0
 Nhan Vien IT Phan Mem,Cn Tai Tp. Ho Chi Minh - Cong Ty Co Phan Van Tai Va Xep Do Hai An,TP HCM,11.5
-Nhan Vien Ky Thuat - Bao Hanh Di Lam Ngay,Cong Ty TNHH Dich Vu So Hop Quan,Bac Ninh,10.0
-"NV IT (Biet Tieng Trung, Biet Phan Mem+SQL, Uu Tien Biet Lineex)",Cong Ty TNHH Day Khoa Keo Keen Ching,TP HCM,11.0
-Go Phu Thanh - Nhan Vien Quan Ly Du Lieu,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),TP HCM,5.5
-Nhan Vien Thiet Ke Web  - Lam Viec Online Tai Nha,"VN Printing, Inc",TP HCM,14.5
-Nhan Vien IT (Phan Mem),Cong Ty TNHH Pouyuen Viet Nam,TP HCM,16.5
-Nhan Vien Thuong Mai Dien Tu - IT,Cong Ty CP Sai Gon Tam Tam,TP HCM,8.5
-Nhan Vien IT Helpdesk- Ho Chi Minh,Cong Ty Co Phan Thuong Mai Va Dau Tu Cong Nghe Vien Thong Moi,TP HCM,8.5
-Nhan Vien Ky Thuat Phan Mem Ban Hang Va Camera,Cong Ty TNHH Cong Nghe Viet 24H,TP HCM,10.0
-Nhan Vien Thiet Ke Video Editor Tai Lac Trung Ha Noi (Di Lam Ngay),Cong Ty Co Phan Quoc Te Smart Choice,Ha Noi,10.0
-Nhan Vien IT (Thanh Thao Tieng Anh),CONG TY TNHH PARK CORP. (VIET NAM),Tay Ninh,12.0
-Nhan Vien Cong Nghe Thong Tin (IT),CONG TY TNHH PARK CORP. (VIET NAM),Tay Ninh,7.0
-Nhan Vien IT -Marketing Online,Cong Ty Co Phan O To Sao Tay Nam,Can Tho,12.5
-Ky Thuat Vien - Vtvcab Khanh Hoa,Chi Nhanh Cong Ty Co Phan Tong Cong Ty Truyen Hinh Cap Viet Nam Tai Tinh Khanh Hoa,Khanh Hoa,8.5
-Chuyen Vien Cong Nghe Thong Tin - IT,Cong Ty Co Phan Bao Bi Bien Hoa,Dong Nai,17.5
-Ky Thuat Vien Cong Nghe Thong Tin Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,Ha Noi,10.5
-Ky Thuat Vien Cong Nghe Thong Tin Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,TP HCM,10.5
-Leader Marketing,Cua Hang Thoi Trang Nam - J.A.N Shop,TP HCM,17.5
-Nhan Vien IT Khong Can Kinh Nghiem (Co Nhan Thuc Tap Sinh),Cong Ty TNHH Tong Hop  Quoc Te Golden Nq,TP HCM,16.0
-Nhan Vien IT Phan Cung,Cong Ty Co Phan Dau Tu Va Cong Nghiep Tan Tao - Tap Doan Tan Tao (Itaco),Long An,8.5
-Nhan Vien Ky Thuat May Tinh - May In - Camera Tai Thanh Tri (Di Lam Sau Tet),Cong Ty TNHH Thuong Mai Va Dich Vu Shc,Ha Noi,11.0
-Nhan Vien Buu Ta Lam Viec Tai Ha Noi (Luong 10-30 Trieu),Chi Nhanh Buu Chinh Viettel Ha Noi - Tong Cong Ty Co Phan Buu Chinh Viettel,Ha Noi,20.0
+Thu Quy Biet Tieng Trung,Chi Nhanh Binh Duong - Cong Ty TNHH Hoang Giai,Binh Duong,12.5
+Nhan Vien Phien Dich Tieng Han,Cong Ty TNHH O To Soosan Viet Nam -  Chi Nhanh Dong Nai,Dong Nai,16.5
+Ky Thuat Vien Sua Chua May Moc (Di Lam Ngay),Cong Ty TNHH U-Mac Viet Nam,Ha Noi,9.5
+Nhan Vien Dieu Phoi Xe Tai (Linehaul Coordinator) - Nghe An - Vinh,Cong Ty TNHH Shopee Express,Nghe An,9.0
+Nhan Vien Thu Mua Vai (Long An),Cong Ty TNHH SX TM We Viet Nam,Long An,10.0
+Truong Phong Ke Toan - Binh Dinh,Cn Cong Ty TNHH Xay Dung Hoa My Tai Binh Dinh,Binh Dinh,13.5
+Nhan Vien Phuc Vu Nha Hang Lua Dai Viet Tai Pho Tay Bui Vien,Cong  Ty TNHH Hao Hung - Nha  Hang  Lua  Dai  Viet,TP HCM,7.5
+To Truong Chuyen May,Cong Ty Co Phan San Xuat - Thuong Mai - Dich Vu - Xuat Nhap Khau Long Thanh,TP HCM,12.5
+Chuyen Vien Phap Ly - Xu Ly Tin Dung Qua Han,Cong Ty Tnhh Dich Vu Tu Van Chi Anh,Binh Dinh,8.5
+Trinh Duoc Vien Kenh Nha Thuoc - Benh Vien - Phong Kham,Cong Ty TNHH Novelty Power Vietnam,TP HCM,9.0
+"Nhan Vien Co Khi (Hoai Duc, Ha Noi)",Cong Ty TNHH Thiet Bi Cong Nghe Binh Minh,Ha Noi,12.5
+Tro Ly Ke Toan (Biet Tieng Trung),Cong Ty TNHH TM Dich Vu Huyen Phong,TP HCM,11.5
+Ky Su M&E,Cong Ty CP Khai Thac Xay Dung Van Tai Phuong Nam,Khanh Hoa,16.5
+Truong Phong Kinh Doanh ( Ra Tet Di Lam ),Cong Ty Co Phan O To Vu Linh,Ha Noi,27.5
+Truong Phong Kinh Doanh ( Ra Tet Di Lam ),Cong Ty Co Phan O To Vu Linh,Bac Ninh,27.5
+Van Hanh Che Bien Lam Viec O Long An,Cong Ty TNHH Nuoc Giai Khat Aloefield,Long An,10.5
+Cong Nhan Lap Dat Nhom Kinh,Cong Ty TNHH Dau Tu Xay Dung San Xuat Thuong Mai An Phu Thinh,TP HCM,11.0
+Duoc Si - Nghien Cuu Va Phat Trien San Pham,Cong Ty Co Phan Duoc Pham Viet Duc,Ha Noi,20.0
+"Giam Sat Ban Hang - Khu Vuc Sapa, Lao Cai",Cong Ty TNHH Nuoc Giai Khat Suntory Pepsico Viet Nam,Lao Cai,25.0
+Ky Su Trac Dac - Thu Nhap Tren 22Tr,Cong Ty Co Phan Xay Lap Xuan Mai,Ha Noi,23.5
+"Nhan  Vien Thu Hoi No Tai Dia Ban - Cac Quan, Huyen Ha Noi",Cong Ty Tai Chinh TNHH Hd Saison,Ha Noi,22.5
+"Nhan Vien Ky Su Du An (Dien Tu, Dien Lanh Cong Nghiep)",Cong Ty Co Phan San Xuat Loc Khi Viet,Binh Duong,15.0
+Ke Toan Tong Hop,Cong Ty CP Dau Tu Va Phat Trien Dich Vu Tong Hop Van Hien,Ha Noi,14.5
+Thu Ngan Nha Hang,Cong Ty CP Dau Tu Va Phat Trien Dich Vu Tong Hop Van Hien,Ha Noi,7.0
+Nhan Vien Cua Hang Cafe (Barista),Cong Ty TNHH Alpha Plus,TP HCM,8.0
+Nhan Vien Cua Hang Cafe (Barista),Cong Ty TNHH Alpha Plus,Binh Duong,8.0
+"Ke Toan Truong Tong Hop Xay Dung, Co Dien, BDS, Nha Thau",Cong Ty Co Phan Ky Thuong The Ky,Ha Noi,15.5
+Ke Toan Thue,Chi Nhanh Cong Ty Co Phan Everpia,Dong Nai,11.0
+Big C Thang Long - Nhan Vien Quay Rau Cu Trai Cay,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Ha Noi,6.0
+Go Phu Thanh -  Nhan Vien Ban Hang Quay Ca,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),TP HCM,5.5
+Go Phu Thanh - Nhan Vien Quay Dong Lanh Tang Cuong Tet,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),TP HCM,6.5
+Go Buon Ma Thuot - Nhan Vien Quay Sushi,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Dak Lak,4.5
+Go Phu Thanh - Tho Nghe Che Bien Thuc An San,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),TP HCM,5.5
+Big C Mien Dong_Nhan Vien Thu Ngan,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),TP HCM,5.5
+Big C Thanh Hoa - Nhan Vien Thu Ngan Thoi Vu Tet,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Thanh Hoa,6.0
+"Go Bac Giang_ Nhan Vien Quay Banh My, Banh Ngot",He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Bac Giang,5.5
+Go Bac Giang_Nhan Vien Quan Ly Du Lieu Hop Dong 6 Thang,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Bac Giang,5.5
+Go Phu Thanh - Nhan Vien An Ninh,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),TP HCM,5.5
+Go Bac Giang _ Nhan Vien Thu Ngan,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Bac Giang,4.5
+Sieu Thi Go!Hue - Nhan Vien Thoi Vu Tet Hang Thuc Pham Tuoi Song,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Thua Thien Hue,5.5
+Nhan Vien Ban Hang Lam Thoi Vu Tet,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Binh Dinh,5.5
+Security Manager Store Go! Big C - [South / North],He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Ha Noi,11.5
+Security Manager Store Go! Big C - [South / North],He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Tra Vinh,11.5
+Go Bac Giang_Nhan Vien Kho Giao Nhan,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Bac Giang,4.5
+"Nhan Vien Ban Hang (Full / Part Time-Q2, Q7)",Cong Ty TNHH Paris Baguette Viet Nam,TP HCM,7.0
+Big C Thang Long - Nhan Vien Banh My Banh Ngot,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Ha Noi,6.0
+Truong Nhom Kinh Doanh,Cong Ty Co Phan Impac,Ha Noi,50.0
+Go Hue - Nhan Vien Thoi Vu Tet 2023 - Di Lam Ngay,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Thua Thien Hue,6.5
+Nhan Vien Bep Sandwich (Quan 7),Cong Ty TNHH Paris Baguette Viet Nam,TP HCM,6.0
+"Nhan Vien Phu Bep (Q2, Q7)",Cong Ty TNHH Paris Baguette Viet Nam,TP HCM,7.0
+Go Bac Giang_Nhan Vien Soan Hang Theo Don,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Bac Giang,4.5
+Go! Phu Thanh - Thu Ky Giam Doc,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),TP HCM,8.0
+Go Bac Giang_Nhan Vien Quay Thoi Trang Hop Dong 6 Thang,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Bac Giang,4.5
+Nhan Vien Tu Van Ban Hang Co Ho Tro Luong Cung,Cong Ty TNHH Thiet Bi Hinh Anh Yen Tam,Ha Noi,12.5
+Nhan Vien Tu Van Ban Hang Co Ho Tro Luong Cung,Cong Ty TNHH Thiet Bi Hinh Anh Yen Tam,TP HCM,12.5
+Event Assistant - Nganh Hang Duoc Pham - Hop Dong 1 Nam,Abbott Viet Nam,TP HCM,12.0
+[Dong Nai - Dong Thap - HCM] Chuyen Vien Quan He Khach Hang Ca Nhan,ABBank - Ngan Hang TMCP An Binh,TP HCM,11.0
+[Dong Nai - Dong Thap - HCM] Chuyen Vien Quan He Khach Hang Ca Nhan,ABBank - Ngan Hang TMCP An Binh,Toan quoc,11.0
+[Dong Nai - Dong Thap - HCM] Chuyen Vien Quan He Khach Hang Ca Nhan,ABBank - Ngan Hang TMCP An Binh,Dong Nai,11.0
+[Dong Nai - Dong Thap - HCM] Chuyen Vien Quan He Khach Hang Ca Nhan,ABBank - Ngan Hang TMCP An Binh,Dong Thap,11.0
+Lao Dong Pho Thong Van Hanh May,Cong Ty TNHH Thiet Ke Che Tao Khang Thinh,TP HCM,14.0
+Nhan Vien Video Editor,Cong Ty TNHH Orro Home,TP HCM,12.5
+Iso Staff / Nhan Vien Iso,Cong Ty TNHH Astee Horie VN,Binh Duong,12.0
+"Nhan Vien Sale Online, Khong Co Kinh Nghiem Duoc Dao Tao 100% (Luong Upto 15 Trieu / Th)",Cong Ty TNHH Nong San Dung Ha,Ha Noi,11.0
+"Nhan Vien Sale Online, Khong Co Kinh Nghiem Duoc Dao Tao 100% (Luong Upto 15 Trieu / Th)",Cong Ty TNHH Nong San Dung Ha,TP HCM,11.0
+Nhan Vien Hanh Chinh Van Phong,Cong Ty Co Phan Dau Tu Phat Trien Van Hoa Va Do Thi,Ha Noi,7.0
 Nhan Vien IT,Cong Ty Co Phan Xay Dung The Thao Tinh Phu Qui,TP HCM,9.0
 Nhan Vien Quan Tri He Thong,Fashion Minh Thu (Cong ty TNHH TM Thoi Trang Minh Thu),TP HCM,13.5
+Nhan Vien Ban Hang Thu Ngan,Cong Ty TNHH SX TM DV Nhat Minh Bakery,TP HCM,8.0
+Nhan Vien Van Phong (Lam Viec Tai Duc Hoa - Long An),Cong Ty TNHH May Tai-Yuan,Long An,7.0
+"Nhan Vien Ban Hang Thoi Trang Cao Cap (Quan 1, Quan 2, Quan 7)",Cong Ty TNHH Thoi Trang & My Pham Au Chau,TP HCM,8.0
+Tro Ly Du An (Luong 10 - 25 Tr / Thang),Cong Ty Co Phan Tap Doan Giai Phap Viet Nam,Ha Noi,17.5
+Tro Ly Chu Tich Hdqt (12-25 Trieu),Cong Ty Co Phan Tap Doan Giai Phap Viet Nam,Ha Noi,18.5
+Truong Phong Marketing,Cong Ty TNHH Mot Thanh Vien Dau Tu Va Phat Trien Cong Nghe Vi Son,TP HCM,17.5
+Nhan Vien Nghien Cuu Phat Trien San Pham (RD),Cong Ty TNHH Vina Pride Seafoods,TP HCM,17.0
+Nhan Vien Nghien Cuu Phat Trien San Pham (RD),Cong Ty TNHH Vina Pride Seafoods,Long An,17.0
 "Nhan Vien Ky Thuat Tai Bien Hoa, Dong Nai",He Thong Ban Le Viettel Store,Dong Nai,8.5
-Chuyen Vien Truyen Thong,Cong Ty Co Phan Vpmilk,TP HCM,12.5
+"Nhan Vien Ban Hang Tai Thu Dau Mot, Ben Cat, Binh Duong",He Thong Ban Le Viettel Store,Binh Duong,8.5
+Nhan Vien Cham Soc Khach Hang,Cong Ty Co Phan Phan Phoi Thuc Pham Truy Xuat Nguon Goc An Phat,Ha Noi,12.5
+Quan Ly San Xuat,Cong Ty Co Phan Phan Phoi Thuc Pham Truy Xuat Nguon Goc An Phat,Ha Noi,17.5
+"Trinh Duoc Vien (Thuc Pham Chuc Nang, My Pham) - An Giang, Can Tho, TPHCM",Cong Ty TNHH Mega Lifesciences (Viet Nam),TP HCM,17.5
+"Trinh Duoc Vien (Thuc Pham Chuc Nang, My Pham) - An Giang, Can Tho, TPHCM",Cong Ty TNHH Mega Lifesciences (Viet Nam),An Giang,17.5
+"Trinh Duoc Vien (Thuc Pham Chuc Nang, My Pham) - An Giang, Can Tho, TPHCM",Cong Ty TNHH Mega Lifesciences (Viet Nam),Can Tho,17.5
+"Nhan Vien HSE (Pccc, Atld, Moi Truong)",Cong Ty TNHH Chosun Vina,Dong Nai,12.5
+Giao Vu,Trung Tam Dao Tao Hoc Sinh Gioi Khoi Nguyen,TP HCM,7.5
+Brand Assistant - Pharmaceuticals - Work At Binh Duong,Abbott Viet Nam,Binh Duong,10.5
+Nhan Vien Dat Lich Hen Su Kien (Khong Chot Sale - Chi Lam Viec Tai Van Phong) Thu Nhap Tu 12 - 20 Trieu,Cong Ty Co Phan Cau Lac Bo Ky Nghi Viet Nam,Ha Noi,16.0
+"Nhan Vien Van Hanh May CNC - Khong Yeu Cau Kinh Nghiem, Bang Cap",Cong Ty TNHH Khuon Chinh Xac Natec,TP HCM,10.0
+Nhan Vien Ky Thuat Dien (Lam Viec Tai Ha Noi),Cong Ty TNHH Thuong Mai Dien Tu Tin Hoc Ei,Ha Noi,10.0
+Leader Telesale / Truong Nhom Tu Van - Thu Nhap Trung Binh 15-25 Trieu / Thang,Cong Ty Co Phan Duoc Pham Sakura,Ha Noi,18.5
+To Truong Dich Vu Khach Hang - Tai Dong Nai,Cong Ty Co Phan Bao Bi Bien Hoa,Dong Nai,17.5
+Nhan Vien Phu Bep (Cang Hang Khong Quoc Te Tan Son Nhat),Cong Ty Co Phan Dich Vu Hang Khong Taseco Sai Gon,TP HCM,9.0
+Nhan Vien Pha Che (Cang Hang Khong Quoc Te Tan Son Nhat),Cong Ty Co Phan Dich Vu Hang Khong Taseco Sai Gon,TP HCM,9.0
+Nhan Vien Ban Hang - Lam Dong,Cong Ty TNHH Koikeya Viet Nam,Lam Dong,9.0
+Nhan Vien Ban Hang - Lam Dong,Cong Ty TNHH Koikeya Viet Nam,Toan quoc,9.0
+Trinh Duoc Vien,Cong Ty TNHH Mot Thanh Vien Duoc Pham Va Thiet Bi Y Te Khang Tri,TP HCM,13.5
+Nhan Vien Marketing Online Mua Ban Sua Chua May Tinh,Benh Vien May Tinh Net - Ngoc Le,TP HCM,14.0
+[HCM] - Ke Toan Thuong Mai Dien Tu,Cong Ty Co Phan Maison Retail Management International,TP HCM,8.5
+Nhan Vien Tu Van Ban Ve May Bay (Booker),Cong Ty TNHH Du Lich Lien Ket Toan Cau,TP HCM,13.5
+Nhan Vien Tu Van,Cong Ty TNHH A Plus Market,TP HCM,16.0
+Nhan Vien Ke Toan (Mitsubishi An Dan Ha Noi - Long Bien),Cong Ty Co Phan Dau Tu Thuong Mai An Dan Ha Noi,Ha Noi,10.5
+Nhan Vien Phat Trien Thi Truong (HCM),Cong Ty TNHH Dau Tu SX Va Xnk Minh Duc,TP HCM,15.0
+Chuyen Vien Bao Cao Quyet Toan Xuat Nhap Khau,Cong Ty TNHH Npv Express & Logistics,TP HCM,21.5
+Nhan Vien Kinh Doanh Luong 15-20 Trieu - Di Lam Ngay Tai Binh Thanh - HCM,Cong Ty TNHH Healthy Homes Viet Nam,TP HCM,17.5
+"Nhan Vien Van Hanh San Thuong Mai Dien Tu Shopee, Lazada, Tiki...",Cong Ty TNHH Bumas,Ha Noi,8.0
+Nhan Vien Kinh Doanh Thu Nhap Len Den 10 Trieu / Thang,Cong Ty TNHH MTV Quy Tieu Dung Thanh Hoa,Thanh Hoa,13.5
+Tai Xe Lai Xe 15 Cho - Di Lam Ngay,Cong Ty TNHH Ha Hoang,Ha Noi,8.5
+Tho Co Khi,Cong Ty TNHH Co Khi & Xay Dung The Ky,Binh Duong,8.5
+Cua Hang Truong Co.Opsmile,Lien Hiep Hop Tac Xa TM TP Ho Chi Minh (Sai Gon Co-op),TP HCM,9.5
+Ky Su Kinh Doanh,Cong Ty TNHH Deviwas,Ha Noi,17.5
+Nhan Vien Dieu Hanh Tour (Operator),Cong Ty TNHH MTV Du Ngoan The Gioi,TP HCM,12.5
+Ke Toan Truong,Cong Ty TNHH MTV Ket Cau Thep Chuong Duong,Dong Nai,17.5
+Nhan Vien Thu Hoi No (Thu Nhap 12 - 15 Trieu),Cong Ty TNHH Viaconto,TP HCM,13.5
+Quan Ly Bep An Cong Nghiep (Thu Nhap 10-15 Trieu),Kizuna Group (Cong Ty TNHH Thuong Mai - Dich Vu Hoa Mai),TP HCM,12.5
+Quan Ly Bep An Cong Nghiep (Thu Nhap 10-15 Trieu),Kizuna Group (Cong Ty TNHH Thuong Mai - Dich Vu Hoa Mai),Bac Ninh,12.5
+Quan Ly Bep An Cong Nghiep (Thu Nhap 10-15 Trieu),Kizuna Group (Cong Ty TNHH Thuong Mai - Dich Vu Hoa Mai),Hai Duong,12.5
+Quan Ly Bep An Cong Nghiep (Thu Nhap 10-15 Trieu),Kizuna Group (Cong Ty TNHH Thuong Mai - Dich Vu Hoa Mai),Hai Phong,12.5
+Quan Ly Bep An Cong Nghiep (Thu Nhap 10-15 Trieu),Kizuna Group (Cong Ty TNHH Thuong Mai - Dich Vu Hoa Mai),Hung Yen,12.5
+Bep Truong - Bep Chinh Bep Cong Nghiep (Thu Nhap 10-15 Trieu),Kizuna Group (Cong Ty TNHH Thuong Mai - Dich Vu Hoa Mai),TP HCM,12.5
+Bep Truong - Bep Chinh Bep Cong Nghiep (Thu Nhap 10-15 Trieu),Kizuna Group (Cong Ty TNHH Thuong Mai - Dich Vu Hoa Mai),Binh Duong,12.5
+Bep Truong - Bep Chinh Bep Cong Nghiep (Thu Nhap 10-15 Trieu),Kizuna Group (Cong Ty TNHH Thuong Mai - Dich Vu Hoa Mai),Dong Nai,12.5
+Nhan Vien IT (Phan Mem),Cong Ty TNHH Pouyuen Viet Nam,TP HCM,16.5
+Nhan Vien Kinh Doanh (Kenh Giao Hang Tan Nha) Tai HCM,Cong Ty TNHH Yakult Viet Nam,TP HCM,12.0
+Nhan Vien Kinh Doanh [Dong Nai],Cong Ty TNHH San Xuat Toan Cau Lixil Viet Nam,Dong Nai,8.5
+Nhan Vien Ke Toan,Cong Ty TNHH San Xuat Toan Cau Lixil Viet Nam,Dong Nai,10.0
+Nhan Vien Cham Soc Khach Hang,Cong Ty TNHH Dich Vu Va Quan Ly Bat Dong San Tan Tam,Ha Noi,10.0
+Nhan Vien Kinh Doanh - Lam Viec Tai Kcn Viet Huong (Biet Tieng Trung),Cong ty Co phan Viet Huong,Binh Duong,17.5
+Tro Ly Giam Doc - Muc Luong Len Den 15 Trieu (Tai Thanh Pho Ho Chi Minh),Cong Ty Co Phan Nang Luong Xanh Chau A,TP HCM,11.5
+Nhan Vien Ke Toan Kho,Cong Ty TNHH Thuong Mai Xuat Nhap Khau Quoc Te Minh Giang,Hai Phong,12.5
+Ke Toan Truong,Cong Ty Co Phan Thuong Mai Vps,Ha Noi,14.0
+Nhan Vien Tu Van Tuyen Sinh - Ha Noi,Truong Mam Non Tu Thuc Nhung Ngon Tay Bay (Flying Fingers School),Ha Noi,7.0
+Nhan Vien Thuong Mai Dien Tu - IT,Cong Ty CP Sai Gon Tam Tam,TP HCM,8.5
+Sale Admin,Cong Ty TNHH Hoa Viet,TP HCM,11.0
+Truong Nhom PG Activation Thoi Vu 6 Thang,Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,Ha Noi,9.5
+Truong Nhom PG Activation Thoi Vu 6 Thang,Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,TP HCM,9.5
+Truong Nhom PG Activation Thoi Vu 6 Thang,Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,Binh Duong,9.5
+Truong Nhom PG Activation Thoi Vu 6 Thang,Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,Nam Dinh,9.5
+Truong Nhom PG Activation Thoi Vu 6 Thang,Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,Ninh Binh,9.5
+Nhan Vien Tu Van Tin Dung (Khong Can Kinh Nghiem),Shinhan Finace,TP HCM,14.0
+Officer Leader - Tieng Nhat - Ha Noi (1000 - 1200 Usd),Cong Ty TNHH Phat Trien Nhan Luc Quoc Gia Hrvalu,Ha Noi,23.0
+Sales Tour Inbound,Cong Ty TNHH Dich Vu Va Du Lich Vietnam Travel Expert,Ha Noi,16.0
+Giao Vien Mam Non - Aeon Binh Tan,Mam Non Song Ngu - Golden Window Kids,TP HCM,8.5
+Nhan Vien Kinh Doanh - Sales Executive,Cong Ty TNHH Yue Fong,TP HCM,13.5
+[HCM - Ha Noi - Dong Nam Bo] - Kimbery Clark - Nhan Vien Tu Van Ban Hang - Kenh Sieu Thi,Talentnet Corporation (Cong Ty CP Ket Noi Nhan Tai),Ha Noi,8.5
+[HCM - Ha Noi - Dong Nam Bo] - Kimbery Clark - Nhan Vien Tu Van Ban Hang - Kenh Sieu Thi,Talentnet Corporation (Cong Ty CP Ket Noi Nhan Tai),TP HCM,8.5
+[HCM - Ha Noi - Dong Nam Bo] - Kimbery Clark - Nhan Vien Tu Van Ban Hang - Kenh Sieu Thi,Talentnet Corporation (Cong Ty CP Ket Noi Nhan Tai),Binh Duong,8.5
+[HCM - Ha Noi - Dong Nam Bo] - Kimbery Clark - Nhan Vien Tu Van Ban Hang - Kenh Sieu Thi,Talentnet Corporation (Cong Ty CP Ket Noi Nhan Tai),Tay Ninh,8.5
+Ke Toan Tong Hop Luong Co The 20 Trieu,Cong Ty Co Phan Cong Nghiep Nacomec,Ha Noi,17.5
+Ke Toan Noi Bo,Cong Ty Co Phan Lu Hanh Du Lich Hung Vuong,Ha Noi,11.5
+Ky Su Phong Chay Chua Chay (15 - 20 Trieu),Cong Ty Co Phan Tap Doan Cong Nghiep Viet,Ha Noi,17.5
+Senior Telesales Trainer Specialist,Cong Ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,TP HCM,17.0
+"Nhan Vien Kinh Doanh (Cho Tot Xe) - Nghi Thu 7, Cn",Cong Ty Tnhh Cho Tot,Ha Noi,11.5
+Kien Truc Su - Thiet Ke Cac Cong Trinh Dan Dung,Cong Ty Co Phan Tu Van Thiet Ke Xay Dung Dan Dung Va Cong Nghiep Ha Noi,Ha Noi,16.0
+"Nhan Vien Kinh Doanh, Nghi Thu 7 & Cn, Luong Cb 12Tr / Thang",Cong Ty Co Phan Cnv Holdings,TP HCM,21.5
+Nhan Vien Dieu Hanh Tour Inbound,Cong Ty TNHH Mot Thanh Vien Dich Vu Du Lich Sao Viet Nam,Ha Noi,9.5
+Kiem Toan Vien- Ba Ria - Vung Tau,Cong Ty TNHH Kiem Toan Fac - Chi Nhanh De Nhat,Ba Ria - Vung Tau,22.5
+"Nhan Vien Trang Tri Su Kien Sinh Nhat, Khai Truong",Cong Ty TNHH Thuong Mai Loli,Ha Noi,11.0
+"Nhan Vien Kho Tai Ben Luc, Long An",Cong Ty Co Phan Giai Phap Ky Thuat Nam Viet,Long An,8.5
+Ke Toan Cong No Thu Nhap Tu 10 Trieu - 12 Trieu,Cong Ty Co Phan Xay Dung Cong Nghe Tuan Hung,Ha Noi,11.0
+Tai Xe Lai Xe Buyt Dau D Tro Len,Saigonbus - Cong Ty CP Xe Khach Sai Gon,TP HCM,11.5
+Nhan Vien Tu Van Qua Dien Thoai,Cong Ty TNHH Quess Corp Viet Nam,TP HCM,16.0
+Nhan Vien Bao Tri - Bao Duong Dien (HCM),Cong Ty TNHH Aeon Fantasy Viet Nam,TP HCM,8.5
+Nhan Vien Van Hanh Khu Vui Choi,Cong Ty TNHH Aeon Fantasy Viet Nam,Ha Noi,9.0
+Nhan Vien Van Hanh Khu Vui Choi,Cong Ty TNHH Aeon Fantasy Viet Nam,Hai Phong,9.0
+[Dai-Ichi Life Vietnam] Nhan Vien Tu Van Khach Hang Tai Tan Phu,Cong Ty TNHH MTV An Phat Cuong Thinh (Dai-Ichi Chi Nhanh Binh Tan),TP HCM,12.5
+Chuyen Vien Phat Trien Thi Truong Mang Xay Dung Nha Cong Nghiep (Biet Tieng Trung),Cong Ty TNHH Tap Doan Xay Dung Delta,Ha Noi,22.5
+Nhan Vien Ban Xang Tai Go Vap,Cong Ty TNHH TM DV Hdtv,TP HCM,7.5
+Ky Su Thiet Ke Co Khi Thu Nhap Tren 20 Trieu,Cong Ty TNHH Cit Vina,Bac Ninh,20.0
+Ky Su Thuy Loi - Giao Thong Tai Cong Trinh Va Tai Van Phong O Nghe An,Cong Ty TNHH Minh Quang,Nghe An,10.0
+"Nhan Vien Ban Hang Nha Sach Tai Long Bien, Ha Noi",Cong Ty Co Phan Van Hoa Va Truyen Thong Hung Tri,Ha Noi,7.0
+Nhan Vien Tu Van Tuyen Sinh Quan 2 - Quan 7 - Quan 9,Cong Ty Co Phan Giao Duc Ca Chua Do,TP HCM,11.0
+Giao Vien Mam Non (Quan 2- Quan 7- Quan 9) Di Lam Ngay,Cong Ty Co Phan Giao Duc Ca Chua Do,TP HCM,8.5
+Chuyen Vien Tu Van Tai Chinh Bancassurance Tai Binh Phuoc / Tay Ninh / Binh Duong (Vietcombank),Cong Ty Bao Hiem Nhan Tho Fwd Viet Nam,Binh Duong,20.0
+Chuyen Vien Tu Van Tai Chinh Bancassurance Tai Binh Phuoc / Tay Ninh / Binh Duong (Vietcombank),Cong Ty Bao Hiem Nhan Tho Fwd Viet Nam,Binh Phuoc,20.0
+Chuyen Vien Tu Van Tai Chinh Bancassurance Tai Binh Phuoc / Tay Ninh / Binh Duong (Vietcombank),Cong Ty Bao Hiem Nhan Tho Fwd Viet Nam,Tay Ninh,20.0
+Nhan Vien Tu Van Ban Hang O To Mazda Thu Nhap 15-20 Trieu / Thang,Mazda Lang Ha,Ha Noi,17.5
+"Nhan Vien Ke Hoach San Xuat [ Tu Son, Bac Ninh]",Cong Ty TNHH Thiet Bi Dien 3C Cong Nghiep,Bac Ninh,8.5
+Nhan Vien Giao Nhan Hang Hoa (Tai Ha Noi) Di Lam Ngay,Cong Ty TNHH Bay Quoc Te,Ha Noi,11.0
+Ke Toan Khai Bao Thue,Cong Ty TNHH Nhua Vi Hung,TP HCM,9.0
+Nhan Vien Tu Van Tai Van Phong (Khong Yeu Cau Kinh Nghiem),Cong Ty TNHH MTV Mt Finance,Hai Phong,14.0
+NV Cham Soc Khach Hang (Lam Tai Cat Linh - Ba Dinh),Cong Ty TNHH Transcosmos Viet Nam,Ha Noi,8.0
+Nhan Vien Ky Thuat Tu Dong Hoa,Cong Ty TNHH Advansol,Hai Phong,12.5
+Nhan Vien Content Marketing (Du Lich),Cong Ty Co Phan Nadova Group,Ha Noi,11.0
+Nhan Vien Ban Thuoc Tay - Uu Tien Duoc Moi Ra Truong,Nha Thuoc Lan Anh,TP HCM,7.5
+Ke Toan Tong Hop,Cong Ty Co Phan Dau Tu Dtc,Ha Noi,12.5
+Nhan Vien Ke Hoach,Cong Ty Co Phan Dau Tu Dtc,Ha Noi,12.5
+Ky Su Co Khi Thu Nhap Tu 10 - 15 Trieu / Thang,Cong Ty Co Phan Dau Tu Dtc,Ha Noi,12.5
+Tai Xe Lai Xe,Cong Ty Co Phan Dau Tu Dtc,Ha Noi,8.5
+"Brand Marketing Executive (Food, Confectionery Products)- Phu Nhuan, HCM",Cong Ty TNHH Lotte Viet Nam,TP HCM,19.0
+"Brand Marketing Specialist (Food, Confectionery Products)- Phu Nhuan, HCM",Cong Ty TNHH Lotte Viet Nam,TP HCM,12.0
+Demand Planner (Long An),Cong Ty TNHH Nutreco International (Viet Nam),Long An,25.0
+Quan Ly San Xuat (Ha Nam) Phong Van Di Lam Sau Tet,Cong Ty Co Phan Co Khi Truong Giang,Ha Nam,15.0
+Ky Thuat Vien Lap Trinh File CNC Noi That,Cong Ty TNHH Xay Dung-Thiet Ke-Trang Tri Noi That Phu Thuan,Long An,15.5
+Nhan Vien Ky Thuat Co Dien Tu (Lam Tai Q.11),Cong Ty TNHH TM Quoc Te De Duong,TP HCM,9.0
+Nhan Vien Phu Trach PR - Marketing - Content (Linh Vuc Nghe Thuat - Thoi Trang - Giai Tri),Cong Ty Co Phan Tap Doan Khat Vong Viet Nam,Ha Noi,8.5
+"Ky Su Dien, Dien Lanh, Co Khi (Chap Nhan Tho Phu) Tai Da Lat, Buon Me Thuot, Nha Trang",Cong Ty Co Phan Ky Thuat - Thuong Mai Thuan Phong,Khanh Hoa,10.5
+"Ky Su Dien, Dien Lanh, Co Khi (Chap Nhan Tho Phu) Tai Da Lat, Buon Me Thuot, Nha Trang",Cong Ty Co Phan Ky Thuat - Thuong Mai Thuan Phong,Lam Dong,10.5
+"Ky Su Dien, Dien Lanh, Co Khi (Chap Nhan Tho Phu) Tai Da Lat, Buon Me Thuot, Nha Trang",Cong Ty Co Phan Ky Thuat - Thuong Mai Thuan Phong,Dak Lak,10.5
+Chuyen Vien Moi Truong Thu Nhap Len Den 12 Trieu,Cong Ty TNHH Thuong Mai Va Dau Tu Lhc Viet Nam,Ha Noi,10.5
+Thong Dich Vien Tieng Han,Cong Ty TNHH Kiss Viet Nam Apparel,Binh Duong,17.5
+Nhan Vien Tong Vu Kiem Nhap Ban Ve Nha Go Cad,Cong Ty TNHH Wood Luck Viet Nam,TP HCM,11.5
+Nhan Vien Kinh Doanh Dich Vu Oto,Cong Ty TNHH Lien Hop Van Tai Va Du Lich Vitraco,Da Nang,12.5
+[Phong Van Online - Nhan Viec Ngay] Nhan Vien Ban Hang Tai Trung Tam Sieu Thi Dien May Khu Vuc Mien Bac,Cong Ty TNHH TM Xnk Nguon Song Viet,Ha Noi,9.5
+[Phong Van Online - Nhan Viec Ngay] Nhan Vien Ban Hang Tai Trung Tam Sieu Thi Dien May Khu Vuc Mien Bac,Cong Ty TNHH TM Xnk Nguon Song Viet,Hai Duong,9.5
+[Phong Van Online - Nhan Viec Ngay] Nhan Vien Ban Hang Tai Trung Tam Sieu Thi Dien May Khu Vuc Mien Bac,Cong Ty TNHH TM Xnk Nguon Song Viet,Nghe An,9.5
+[Phong Van Online - Nhan Viec Ngay] Nhan Vien Ban Hang Tai Trung Tam Sieu Thi Dien May Khu Vuc Mien Bac,Cong Ty TNHH TM Xnk Nguon Song Viet,Quang Binh,9.5
+[Phong Van Online - Nhan Viec Ngay] Nhan Vien Ban Hang Tai Trung Tam Sieu Thi Dien May Khu Vuc Mien Bac,Cong Ty TNHH TM Xnk Nguon Song Viet,Quang Ninh,9.5
+Nam Nhan Vien Livestream / Quay Video Cho Trung Tam Tham My,CONG TY TNHH SAI GON NEW BEAUTY CENTER,TP HCM,12.5
+Dieu Duong Phu Mo (Trung Tam Tham My),CONG TY TNHH SAI GON NEW BEAUTY CENTER,TP HCM,11.5
+Bep Truong - Truong Mam Non,Cong Ty TNHH Dich Vu Giao Duc Kllk (Thanh Pho Ho Chi Minh),TP HCM,12.5
+Ke Toan Xuat Nhap Khau (Phong Van Di Lam Ngay),Cong Ty TNHH Eximani Viet Nam,Ha Noi,9.0
+"Ky Su Hien Truong, Thiet Ke Cau Duong",Cong Ty Tnhh Mot Thanh Vien Xay Dung Nam Thanh,Binh Phuoc,16.0
+Nhan Vien Kinh Doanh,Cong Ty Co Phan Dau Tu Xay Dung Toan Phat,Ha Noi,11.0
+(Nu) Nhan Vien Tu Van Ban Hang - Quan 12 - Di Lam Ngay,Cong Ty TNHH Thuong Mai Dich Vu Minh Phu Falico,TP HCM,11.0
+"Nhan Vien Kinh Doanh Vac Xin Tp HCM,  Nghe An",Cong Ty Co Phan Vac Xin Va Sinh Pham Nam Hung Viet,TP HCM,14.0
+"Nhan Vien Kinh Doanh Vac Xin Tp HCM,  Nghe An",Cong Ty Co Phan Vac Xin Va Sinh Pham Nam Hung Viet,Nghe An,14.0
+Nhan Vien Ky Thuat Phan Mem Ban Hang Va Camera,Cong Ty TNHH Cong Nghe Viet 24H,TP HCM,10.0
+"Kien Truc Su, Cong Trinh Dan Dung - Luong Up To 19Tr",Cong Ty TNHH Thiet Ke Toan Cau R Viet Nam,Ha Noi,15.5
+Nhan Vien Ban Hang Tai Sieu Thi - Di Lam Ngay,Cong Ty TNHH Cong Nghe Minh Khanh An,Ha Noi,7.0
+"Nhan Vien Ke Toan [ Phu Ly, Ha Nam ]",Cong Ty Co Phan Dinh Duong Vincofeed,Ha Nam,12.5
+"Nhan Vien Kinh Doanh - Lam Tai HCM, Ha Noi",Cong Ty TNHH Giai Phap Cong Nghe Kingcode,Ha Noi,19.0
+"Nhan Vien Kinh Doanh - Lam Tai HCM, Ha Noi",Cong Ty TNHH Giai Phap Cong Nghe Kingcode,TP HCM,19.0
+Nhan Vien Thiet Ke Noi That (Nganh Go),Cong Ty TNHH Scansia Pacific,Dong Nai,14.0
+Nhan Vien Pha Che Tai Binh Chanh,Cong Ty TNHH Thuong Mai Dich Vu Dau Tu Ly Gia,TP HCM,7.0
+Tong Quan Ly Bep,Cong Ty TNHH Thuong Mai Dich Vu Liber,TP HCM,32.5
+Ke Toan Truong Tiem Nang (Hung Yen) - Co The Nhan Viec Sau Tet,Cong Ty TNHH Tls Plastic,Ha Noi,15.0
+Ke Toan Truong Tiem Nang (Hung Yen) - Co The Nhan Viec Sau Tet,Cong Ty TNHH Tls Plastic,Hung Yen,15.0
+Trade Marketing,Cong Ty TNHH Thuong Mai Va Dich Vu Wonmom,TP HCM,24.0
+Nhan Vien Kinh Doanh Ban Phat Trien Chi Nhanh Vinh,Cong Ty TNHH Yakult Viet Nam,Nghe An,15.0
+Ke Toan Vien,Cong Ty Co Phan Xay Dung Va Co Dien A Dong,Ha Noi,8.5
+Nhan Vien Thiet Ke Video Editor Tai Lac Trung Ha Noi (Di Lam Ngay),Cong Ty Co Phan Quoc Te Smart Choice,Ha Noi,10.0
+Nhan Vien Content Marketing Tai Lac Trung Ha Noi (Di Lam Ngay),Cong Ty Co Phan Quoc Te Smart Choice,Ha Noi,10.0
+Nhan Vien Kinh Doanh Thi Truong (Ha Noi Va Cac Vung Lan Can),Cong Ty TNHH Thuong Mai Va Dich Vu My Dinh,Ha Noi,15.0
+Nam - Ke Toan Tong Hop (Bac Giang),Cong Ty TNHH Hoa Phu Invest,Ha Noi,12.5
+Nam - Ke Toan Tong Hop (Bac Giang),Cong Ty TNHH Hoa Phu Invest,Bac Giang,12.5
+Nhan Vien Kinh Doanh Son Thu Nhap Toi 30 Trieu (Nganh Son),Cong Ty Co Phan Tap Doan Son Spentes Viet Nam,Ha Noi,18.0
+Nhan Vien Tu Van BDS Tap Doan Hung Thinh Tai Quan 7 (Luong Cung Len Den 30Tr),Cong Ty Co Phan Tap Doan Hung Thinh,TP HCM,19.0
+Nhan Vien Ke Toan- Thu Nhap 10-15 Trieu,Cong Ty TNHH Hanwoong Vina,TP HCM,12.5
+"Nhan Vien Ke Toan (Factory Accountant)- Mp1, Ben Cat , Binh Duong",Cong Ty TNHH Lotte Viet Nam,Binh Duong,9.0
+Giam Doc Nhan Su Tai Ha Nam - Luong Co Ban 30 - 50 Trieu / Thang (Di Lam Truoc Hoac Sau Tet),Cong Ty Co Phan Chau Giang,Ha Noi,40.0
+Giam Doc Nhan Su Tai Ha Nam - Luong Co Ban 30 - 50 Trieu / Thang (Di Lam Truoc Hoac Sau Tet),Cong Ty Co Phan Chau Giang,Ha Nam,40.0
+Giam Doc Nhan Su Tai Ha Nam - Luong Co Ban 30 - 50 Trieu / Thang (Di Lam Truoc Hoac Sau Tet),Cong Ty Co Phan Chau Giang,Hung Yen,40.0
+Giam Doc Nhan Su Tai Ha Nam - Luong Co Ban 30 - 50 Trieu / Thang (Di Lam Truoc Hoac Sau Tet),Cong Ty Co Phan Chau Giang,Nam Dinh,40.0
+Giam Doc Nhan Su Tai Ha Nam - Luong Co Ban 30 - 50 Trieu / Thang (Di Lam Truoc Hoac Sau Tet),Cong Ty Co Phan Chau Giang,Ninh Binh,40.0
+[Vietinbank - Mien Bac] Chuyen Vien Tu Van - Ho Tro Khach Hang Tai Quay,Cong Ty TNHH Manulife (Viet Nam),Ha Noi,15.0
+[Vietinbank - Mien Bac] Chuyen Vien Tu Van - Ho Tro Khach Hang Tai Quay,Cong Ty TNHH Manulife (Viet Nam),Hung Yen,15.0
+[Vietinbank - Mien Bac] Chuyen Vien Tu Van - Ho Tro Khach Hang Tai Quay,Cong Ty TNHH Manulife (Viet Nam),Quang Binh,15.0
+[Vietinbank - Mien Bac] Chuyen Vien Tu Van - Ho Tro Khach Hang Tai Quay,Cong Ty TNHH Manulife (Viet Nam),Thai Nguyen,15.0
+Ke Toan Vien,Cong Ty TNHH San Xuat Thuong Mai Dich Vu Ton Thuan Phat,Can Tho,6.0
+Bac Sy Phu Khoa,Cong Ty TNHH Benh Vien Nam Hoc,Ha Noi,50.0
+Nhan Vien Kinh Doanh Sat Thep,Cong Ty TNHH Thep Trang Trung An,TP HCM,21.5
+Nhan Vien Kinh Doanh May Moc Thiet Bi Cong Nghiep (Nhan Viec Sau Tet),Cong Ty TNHH TM Cong Nghe Viet Thai T.T,TP HCM,20.0
+"Nhan Vien Kinh Doanh Thiet Bi Y Te - Tai Quang Ninh, Phu Tho, Ha Noi",Chi Nhanh - Cong Ty Co Phan Thiet Bi Y Sinh,Ha Noi,14.0
+"Nhan Vien Kinh Doanh Thiet Bi Y Te - Tai Quang Ninh, Phu Tho, Ha Noi",Chi Nhanh - Cong Ty Co Phan Thiet Bi Y Sinh,Phu Tho,14.0
+"Nhan Vien Kinh Doanh Thiet Bi Y Te - Tai Quang Ninh, Phu Tho, Ha Noi",Chi Nhanh - Cong Ty Co Phan Thiet Bi Y Sinh,Quang Ninh,14.0
+"Nhan Vien Kinh Doanh Thiet Bi Y Te - Tai Quang Ninh, Phu Tho, Ha Noi",Chi Nhanh - Cong Ty Co Phan Thiet Bi Y Sinh,Thai Nguyen,14.0
+"Nhan Vien Tu Van Dinh Duong - Ban Hang Tai Ngoc Hoi, Nam Tu Liem",Cong Ty Co Phan Thuc Pham Dinh Duong Nutifood Binh Duong,Ha Noi,9.0
+Nhan Vien Tiep Thi Va Cham Soc Khach Hang,Cong Ty Lien Doanh Trach Nhiem Huu Han Vietcombank-Bonday-Benthanh,TP HCM,12.5
+Nhan Vien Kinh Doanh Bat Dong San - Di Lam Ngay,Cong Ty TNHH Phat Trien Bat Dong San Zeta,TP HCM,8.0
+Nhan Vien Kinh Doanh 10-30 Trieu,Cong Ty TNHH Thuong Mai Dich Vu Xuat Nhap Khau San Xuat Va Phan Phoi Greennano,TP HCM,20.0
+"Nhan Vien Kinh Doanh Muc In, Hoa Chat Son, Dung Moi, Pu Foam",Cong Ty TNHH Hoa Chat Truong Phat,Ha Noi,15.0
+"Nhan Vien Kinh Doanh Muc In, Hoa Chat Son, Dung Moi, Pu Foam",Cong Ty TNHH Hoa Chat Truong Phat,Bac Ninh,15.0
+Ke Toan Tong Hop,Cong Ty TNHH Dong Phat Food,Vinh Long,12.5
+Nhan Vien Le Tan,Cong Ty TNHH Dong Phat Food,Vinh Long,9.5
+Chuyen Vien Tu Van Tuyen Sinh Trung Tam Tieng Anh (Thu Nhap Len Den Tren 20 Trieu),Cong Ty Co Phan Giao Duc Yonah Viet Nam,Ha Noi,13.0
+"Nhan Vien Kinh Doanh May Moc, Thiet Bi",Cong Ty TNHH Thuong Mai & Dich Vu Ky Thuat Nam Phat,Ha Noi,17.5
+"Nhan Vien Kinh Doanh May Moc, Thiet Bi",Cong Ty TNHH Thuong Mai & Dich Vu Ky Thuat Nam Phat,TP HCM,17.5
+Truong Nhom Kinh Doanh (Di Lam Ngay),Cong Ty TNHH Manulife (Viet Nam),TP HCM,26.5
+Nhan Vien Tap Vu - Tai Nha Be,Cong Ty TNHH MTV Phat Trien Thuong Mai Qua Tao Xanh,TP HCM,8.5
+Sales Supervisor (Linh Vuc Thang May) Tai Phu Quoc,Cong Ty TNHH Mekong Retail & Distribution,Kien Giang,35.0
+Nhan Vien Ke Toan,Cong Ty TNHH Thuong Mai Va Xuat Nhap Khau Anh Nhat,Thai Binh,6.0
+Nhan Vien Ke Toan Tong Hop - Di Lam Ngay,Cong Ty TNHH Xuat Nhap Khau Hoang Phat,Soc Trang,16.0
+"Nhan Vien Kinh Doanh - Quan Hoan Kiem, Ha Noi",Cong Ty Co Phan Dien Anh Truyen Hinh,Ha Noi,9.0
+Ky Thuat Vien Spa Quan Tan Phu - Di Lam Ngay,Cong Ty TNHH Thiet Bi Tham My Y Te Sai Gon,TP HCM,12.5
+Nhan Vien Marketing Ads (Duoc Dao Tao),Cong Ty Co Phan Hoc Vien Minh Tri Thanh,Ha Noi,21.0
+Nhan Vien Marketing Ads (Duoc Dao Tao),Cong Ty Co Phan Hoc Vien Minh Tri Thanh,Bac Ninh,21.0
+Nhan Vien May Mau,Nguyet Fashion,TP HCM,11.5
+"Nhan Vien Ke Toan Thong Ke San Xuat Tai Binh Giang, Hai Duong",Cong Ty Co Phan Vitek,Hai Duong,8.5
+Ky Su Trac Dac,Cong Ty Co Phan Xay Dung Va Xu Ly Nen Mong Hong Nguyen,TP HCM,12.5
+Ky Su Trac Dac,Cong Ty Co Phan Xay Dung Va Xu Ly Nen Mong Hong Nguyen,Binh Duong,12.5
+Ky Su Trac Dac,Cong Ty Co Phan Xay Dung Va Xu Ly Nen Mong Hong Nguyen,Dong Nai,12.5
+"Ky Su Nganh (Dien, Co Khi, O To) - Di Lam Tai Nhat",Cong Ty Co Phan Quoc Te Ett,Ha Noi,40.0
+"Ky Su Nganh (Dien, Co Khi, O To) - Di Lam Tai Nhat",Cong Ty Co Phan Quoc Te Ett,TP HCM,40.0
+"Ky Su Nganh (Dien, Co Khi, O To) - Di Lam Tai Nhat",Cong Ty Co Phan Quoc Te Ett,Bac Giang,40.0
+"Ky Su Nganh (Dien, Co Khi, O To) - Di Lam Tai Nhat",Cong Ty Co Phan Quoc Te Ett,Binh Duong,40.0
+"Ky Su Nganh (Dien, Co Khi, O To) - Di Lam Tai Nhat",Cong Ty Co Phan Quoc Te Ett,Toan quoc,40.0
+Nhan Vien Kinh Doanh Mang Phu Tung O To,Cong Ty Co Phan Xnk Phu Tung O To Mien Bac,Ha Noi,12.5
+Nhan Vien Kinh Doanh O To (Thu Nhap 10-30 Trieu - Di Lam Ngay),Cong ty TNHH Toyota Thanh Xuan,Ha Noi,20.0
+Phu Ta Nha Khoa (Tp Thu Duc),Cong Ty TNHH Phong Kham Chuyen Khoa Da Lieu Skinone,TP HCM,8.5
+Nhan Vien Kinh Doanh (15.000.000 - 20.000.000),Cong Ty TNHH Cong Nghe Fedi,Ha Noi,17.5
+Nhan Vien May Chat Chan (Uu Tien Co Kinh Nghiem),Cong Ty TNHH SX TM DV Kim Vinh Phu,TP HCM,11.0
+[Nam] Cong Nhan San Xuat Tai Ha Noi,Cong Ty Co Phan Cong Nghiep Tan Nhat Minh,Ha Noi,7.5
+Nhan Vien Thiet Ke Noi That,Cong Ty CP Thiet Ke Xay Dung Kien Truc Noi That Newhome,Ha Noi,11.0
+Nhan Vien Ky Thuat,Cong Ty TNHH Mecatec,Hung Yen,12.0
+Nhan Vien Kinh Doanh Dien Gia Dung / Dien Tu,Cong Ty TNHH San Xuat Va Dau Tu Akia,TP HCM,22.5
+Nhan Vien Kinh Doanh Duoc _ Vat Tu Y Te (Lam Tai Quan 10),Cong Ty TNHH Duoc Pham Thiet Bi Y Te Ki Ta Pi Da,TP HCM,12.5
+Cong Nhan Co Khi,Cong Ty TNHH MTV Seen Da Nang,Da Nang,11.0
+Nhan Vien Content Nganh Du Lich,Cong Ty TNHH Du Lich Quoc Te Trang An,Ha Noi,9.0
+Nhan Vien Bartender (Chuyen Nghiep),Cong Ty TNHH Dich Vu Giai Tri TNT Group,TP HCM,8.5
+Dau Bep A - Au (Bar / Lounge),Cong Ty TNHH Dich Vu Giai Tri TNT Group,TP HCM,13.5
+Dieu Duong Vien (Khong Yeu Cau Cao),Cong Ty Co Phan Nang Luong Va Dich Vu Hoa Huong Duong,Ha Noi,8.5
+Nhan Vien Ke Toan Noi Bo,Cong Ty Co Phan Nang Luong Va Dich Vu Hoa Huong Duong,Ha Noi,8.5
+Chuyen Vien Mua Hang Va Du An (Doi Ngoai),Cong Ty Co Phan Nang Luong Va Dich Vu Hoa Huong Duong,Ha Noi,12.5
+Truong Nhom Kinh Doanh (Luong 15 - 30 Trieu / Thang),Cong Ty TNHH Manulife (Viet Nam),Ha Noi,22.5
+"Ke Toan Tong Hop (Novaworld Phan Thiet, Xa Tien Thanh, Tp Phan Thiet)",Cong Ty TNHH CBRE (Viet Nam),Binh Thuan,13.5
+Chuyen Vien Kinh Doanh,Cong Ty Co Phan Do Thi Thong Minh Viet Nam,Da Nang,29.5
+Chuyen Vien Kinh Doanh (Co Luong Co Ban),Cong Ty Co Phan Do Thi Thong Minh Viet Nam,Quang Binh,16.0
+Chuyen Vien Kinh Doanh (Co Luong Co Ban),Cong Ty Co Phan Do Thi Thong Minh Viet Nam,Quang Ngai,16.0
+Chuyen Vien Kinh Doanh (Co Luong Co Ban),Cong Ty Co Phan Do Thi Thong Minh Viet Nam,Da Nang,16.0
+Nhan Vien Xuat Nhap Khau,Cong Ty TNHH Ky Thuat Top Opto,TP HCM,9.5
+Service Engineer - Lifting Device,Cong Ty Co Phan Thuong Mai Va Ky Thuat Nds,TP HCM,16.0
+Nhan Vien Bao Ve,Cong Ty TNHH Trung Tam Quoc Te,Ha Noi,7.0
+Ky Thuat Lap Dat - Bao Tri  (Khong Yeu Cau Kinh Nghiem),Cong ty co phan ky nghe Kingtech,Ha Noi,9.5
+Ha Noi - Nhan Vien Ban Hang Thoi Trang Tai Vincom Ba Trieu,Cong Ty Co Phan Maison Retail Management International,Ha Noi,8.0
+Ke Toan Truong,Cong Ty Co Phan Dau Tu - Phat Trien Do Thi An Phu,Da Nang,16.5
+Chuyen Vien Phap Che,Cong Ty Co Phan Dau Tu - Phat Trien Do Thi An Phu,Da Nang,11.5
+Tro Ly Phien Dich Tieng Trung,Cong Ty TNHH Xio Lift VN,TP HCM,11.0
+Ke Toan Tong Hop,Cong Ty TNHH TM Va DV Quoc Te Thien Thanh,Ha Noi,12.5
+Bac Si Thu Y,Audi Pet,TP HCM,20.0
+"Nhan Vien Ky Thuat (Cua Nhom, Cua Cuon) Uu Tien Sinh Vien Moi Ra Truong",Cong Ty Co Phan Nam Kim,Ha Noi,9.0
+"Nhan Vien Kinh Doanh Tai Thuong Tin, Ha Noi",Cong Ty Co Phan Cong Nghiep Va Thuong Mai Hoang Ha,Ha Noi,16.0
+Vung Tau - Giam Sat Ban Hang (Nhan Hang Gigi),Cong Ty Co Phan Maison Retail Management International,TP HCM,8.5
+Nhan Vien Ke Toan Thue - Di Lam Ngay,"Trung Tam Tu Van Va Chuyen Giao Cong Nghe Phong Chay, Chua Chay Va Cuu Nan, Cuu Ho",Ha Noi,9.0
+Nhan Vien Ke Toan Noi Bo,"Trung Tam Tu Van Va Chuyen Giao Cong Nghe Phong Chay, Chua Chay Va Cuu Nan, Cuu Ho",Ha Noi,10.0
+Nhan Vien Kinh Doanh Hang Tieu Dung,Cong Ty TNHH Zeus Technology,TP HCM,12.5
+Nhan Vien Kinh Doanh Hang Tieu Dung,Cong Ty TNHH Zeus Technology,An Giang,12.5
+Nhan Vien Kinh Doanh Hang Tieu Dung,Cong Ty TNHH Zeus Technology,Binh Duong,12.5
+Nhan Vien Kinh Doanh Hang Tieu Dung,Cong Ty TNHH Zeus Technology,Phu Yen,12.5
+Nhan Vien Kinh Doanh Hang Tieu Dung,Cong Ty TNHH Zeus Technology,Dong Nai,12.5
+Nhan Vien Kinh Doanh Phat Trien Thi Truong,Cong Ty TNHH Thuong Mai Quoc Te Harmon,Binh Duong,19.0
+Ky Thuat Vien Thiet Ke Phong Chay Chua Chay,Cong Ty TNHH MTV Thuong Mai Dich Vu Ky Thuat Pccc Minh Anh,TP HCM,12.5
+Nhan Vien Ke Toan Ban Hang,Cty CP Thuong Mai Dich Vu Tahico,Ha Noi,7.5
+"Nhan Vien Ke Toan Noi Bo (Lam O Dau Tieng, Binh Duong)",Cong Ty TNHH TM - SX Minh Thanh Phat,Binh Duong,8.5
+Nhan Vien Tu Van Nganh Moi Truong,Cong Ty Co Phan Xay Dung Cong Nghiep Va Do Thi A Chau,Ha Noi,12.5
+Quan Ly Kinh Doanh- Quan Ly Kenh Benh Vien,Cong Ty TNHH Phuoc Tho An Binh,Dak Lak,20.0
+Nhan Vien Cham Soc Khach Hang,Cong Ty TNHH Phuoc Tho An Binh,Dak Lak,12.5
+"To Truong / Giam Sat Kem Dairy Queen,swensen's",Cong Ty Co Phan Pizza Ngon,Ha Noi,7.5
+Nhan Vien Nu May Mau - Vpdd,Cong ty TNHH Bando Vina,TP HCM,10.5
+Giao Vien Tieng Nhat,Cong Ty Trach Nhiem Huu Han Dau Tu Va Giao Duc Quang Minh,TP HCM,12.5
+Giao Vien Tieng Nhat,Cong Ty Trach Nhiem Huu Han Dau Tu Va Giao Duc Quang Minh,Binh Duong,12.5
+Quan Ly Nhan Hang,Cong Ty TNHH Cong Nghe Biovagen Viet Nam,Ha Noi,20.0
+Bac Si Chan Doan Hinh Anh,Cong Ty TNHH Benh Vien Da Khoa Nhat Tan,An Giang,40.0
+Bac Si Chan Doan Hinh Anh,Cong Ty TNHH Benh Vien Da Khoa Nhat Tan,Can Tho,40.0
+Bac Si Chan Doan Hinh Anh,Cong Ty TNHH Benh Vien Da Khoa Nhat Tan,Kien Giang,40.0
+Bac Si Chan Doan Hinh Anh,Cong Ty TNHH Benh Vien Da Khoa Nhat Tan,Dong Thap,40.0
+"Nhan Vien Sua Chua, Lap Dat Va Bao Tri Thang May",Cong Ty TNHH Dich Vu - Thuong Mai - Ky Thuat Mai Tien Phong,TP HCM,12.5
+Nhan Vien Kinh Doanh Thuoc BVTV Va Phan Bon,Cong Ty Co Phan Hoc Mon,TP HCM,8.5
+Nhan Vien Ban Hang Online Kenh Thuong Mai Dien Tu Lam viec tai Binh Tan,Luc Hop Cafe,TP HCM,8.0
+Nhan Vien Kinh Doanh,Cong Ty TNHH Thiet Bi Cong Nghiep Au A,TP HCM,15.5
+Nhan Vien Quan Ly Don Hang / Merchandise,CONG TY TNHH PARK CORP. (VIET NAM),Tay Ninh,10.0
+Nhan Vien IT (Thanh Thao Tieng Anh),CONG TY TNHH PARK CORP. (VIET NAM),Tay Ninh,12.0
+Nhan Vien Cong Nghe Thong Tin (IT),CONG TY TNHH PARK CORP. (VIET NAM),Tay Ninh,7.0
+Tho In,Cong ty TNHH SX TM va DV QC Thai Son,TP HCM,6.0
+Nhan Vien Ban Hang Charles&keith Garden Mall Me Tri,Cong Ty Co Phan Maison Retail Management International,Ha Noi,7.5
+"Nhan Vien Ban Hang Thi Truong (Tan Phu / Long Khanh / Trang Bom, Dong Nai)",Abbott Viet Nam,Dong Nai,12.5
+Truong Nhom Marketing - Luong Tu 15Tr,"Seico.,jsc - Ctcp Nha Khung Thep Va Thiet Bi Cong Nghiep",Ha Noi,17.5
+Nhan Vien Tap Vu Quan Mi Cay - Quan 7 (Di Lam Ngay),Mi Cay Gochu Q7,TP HCM,6.5
+Nhan Vien Bep Chinh Nha Hang (Tp.Thu Duc),"HOA VIET JOINT VENTURE CORP., LTD",TP HCM,12.5
+Nhan Vien Ke Toan Thu Mua,Cong Ty TNHH MTV Co Khi Tai Nguyen,TP HCM,12.5
+"Vietinbank Ha Noi, Dien Bien, Son La - Tu Van Vien Tai Chinh Bao Hiem Lam Viec Tai Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Ha Noi,22.5
+"Vietinbank Ha Noi, Dien Bien, Son La - Tu Van Vien Tai Chinh Bao Hiem Lam Viec Tai Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Nghe An,22.5
+"Vietinbank Ha Noi, Dien Bien, Son La - Tu Van Vien Tai Chinh Bao Hiem Lam Viec Tai Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Phu Tho,22.5
+"Vietinbank Ha Noi, Dien Bien, Son La - Tu Van Vien Tai Chinh Bao Hiem Lam Viec Tai Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Son La,22.5
+"Vietinbank Ha Noi, Dien Bien, Son La - Tu Van Vien Tai Chinh Bao Hiem Lam Viec Tai Ngan Hang",Cong Ty TNHH Manulife (Viet Nam),Dien Bien,22.5
+Nhan Vien Thu Mua Trong Nganh Xay Dung - Di Lam Ngay (Bac Giang),Cong Ty TNHH MTV Phat Trien Xay Dung Trung Viet,Bac Giang,11.5
+QA Buyer - Biet Tieng Anh (Lam Viec Tai Thu Duc),Cong Ty TNHH Danu Vina,TP HCM,8.5
+Senior Legal Manager,Cong Ty Co Phan Galaxy Education,Ha Noi,50.0
+Nhan Vien Thiet Ke Kien Truc,Chi Nhanh Cong Ty TNHH Tu Van Thiet Ke Kien Truc Quy Hoach Tran Giang,TP HCM,11.0
+Nhan Vien Thiet Ke Kien Truc,Chi Nhanh Cong Ty TNHH Tu Van Thiet Ke Kien Truc Quy Hoach Tran Giang,Can Tho,11.0
+Nhan Vien Thiet Ke Kien Truc,Chi Nhanh Cong Ty TNHH Tu Van Thiet Ke Kien Truc Quy Hoach Tran Giang,Hau Giang,11.0
+Nhan Vien Thiet Ke Kien Truc,Chi Nhanh Cong Ty TNHH Tu Van Thiet Ke Kien Truc Quy Hoach Tran Giang,Vinh Long,11.0
+Nhan Vien Kinh Doanh - Nhan Viec Ngay,Cong Ty Co Phan Dai Minh Gia,TP HCM,16.5
+Nhan Vien Tu Van The Hoi Vien Thuong Hieu Jetts Fitness,California Fitness And Yoga Centers,TP HCM,10.5
+[Anh Ngu Quoc Te New Star] - Giao Vien Tieng Anh (10-20Trieu / Thang),Cong Ty TNHH Phat Trien Giao Duc Ly Dai Loi,Hai Phong,15.0
+Ky Thuat Vien Spa - Goi Dau Duong Sinh - Luong Tren 10 Trieu,Spa Dong Y Linh Dong Thu Duc,TP HCM,11.0
+"Nhan Vien Kinh Doanh - Khong Yeu Cau Kinh Nghiem (Phu Tho, Vinh Phuc, Son La)",Cong Ty Co Phan Kinh Doanh F88,Lao Cai,12.0
+"Nhan Vien Kinh Doanh - Khong Yeu Cau Kinh Nghiem (Phu Tho, Vinh Phuc, Son La)",Cong Ty Co Phan Kinh Doanh F88,Phu Tho,12.0
+"Nhan Vien Kinh Doanh - Khong Yeu Cau Kinh Nghiem (Phu Tho, Vinh Phuc, Son La)",Cong Ty Co Phan Kinh Doanh F88,Son La,12.0
+"Nhan Vien Kinh Doanh - Khong Yeu Cau Kinh Nghiem (Phu Tho, Vinh Phuc, Son La)",Cong Ty Co Phan Kinh Doanh F88,Vinh Phuc,12.0
+"Nhan Vien Kinh Doanh - Khong Yeu Cau Kinh Nghiem (Phu Tho, Vinh Phuc, Son La)",Cong Ty Co Phan Kinh Doanh F88,Yen Bai,12.0
+Nhan Vien Ky Thuat Rap,Cong Ty TNHH SX Thuong Mai Va Xay Dung Chan Lap,TP HCM,12.5
+Nhan Vien Kinh Doanh Thiet Bi Mang,Cong Ty TNHH Oripu,TP HCM,19.0
+Nhan Vien Kinh Doanh  Sat Thep / San Pham Kim Loai Tam  (Di Lam Ngay),Cong Ty TNHH Laser Viet,TP HCM,17.5
+Tho May / Ket Cuom,Cong Ty TNHH Mot Thanh Vien Thoi Trang Ky Nguyen Vang,TP HCM,12.5
+Nhan Vien Ky Thuat Co Khi Thu Nhap Len Den 12 Trieu / Thang,Cong Ty TNHH Mot Thanh Vien Co Khi Ha Noi,Bac Ninh,10.0
+Vincons 2 - Chuyen Vien Tuyen Dung (Khanh Hoa),Cong ty Co Phan Vinhomes,Khanh Hoa,17.5
+Vincons 2 - Chuyen Vien Dao Tao Tai Khanh Hoa,Cong ty Co Phan Vinhomes,Khanh Hoa,17.5
+Nhan Vien Kinh Doanh Phan Bon La - Di Lam Ngay (Thu Nhap Tren 15 Trieu),Cong ty TNHH kinh doanh thuong mai Tan Nong Phat,Ha Noi,22.5
+Ke Toan Truong - Luong toi 15tr,Cong Ty TNHH Lien Hop Van Tai Va Du Lich Vitraco,Da Nang,12.5
+Nhan Vien Kinh Doanh - Di Lam Ngay,Cn Tai Tp.HCM Cong Ty TNHH Phim Cach Nhiet Ngoi Sao (Tp. Ha Noi),TP HCM,22.5
+Nhan Vien Phuc Vu,Cho Cu Food& Beer,TP HCM,9.5
+Nhan Vien Bao Tri May May (Thoi Vu),Cong ty TNHH Bando Vina,TP HCM,5.0
+Truong Phong Nhan Su,Cty TNHH 1Tv SX-TM & DV Hoang Giang,Kien Giang,17.5
+Truong Phong Kinh Doanh Va Marketing,Cty TNHH 1Tv SX-TM & DV Hoang Giang,Kien Giang,25.0
+Nhan Vien Co Khi (Trung Cap Nghe),Cong Ty TNHH Co Khi Cong Nghiep Nam Thai,TP HCM,9.5
+Ky Su Khai Thac Mo,Cong Ty Co Phan Khai Thac Khoang San Hai Dang,Hai Phong,11.0
+Nhan Vien Trach Nhiem Xa Hoi (Csr),Cong Ty TNHH Sungjin Inc Vina,Binh Duong,11.0
+Nhan Vien Bao Ve - Giu Xe (Ca Sang Hoac Toi),Cong Ty TNHH Thuong Mai Dich Vu Cong Ich Van Trung,TP HCM,7.0
+Le Tan Kiem Thu Ngan,Cong Ty TNHH Thuong Mai Dich Vu Va Thuc Pham A - Au,Ha Noi,8.5
+Truong Tap Vu,Cong Ty TNHH Thuong Mai Dich Vu Va Thuc Pham A - Au,Ha Noi,8.0
+Truong Phong Kinh Doanh,Cong Ty TNHH Thuong Mai Dich Vu Va Thuc Pham A - Au,Ha Noi,12.5
+Bep Teppanyaki Bieu Dien,Cong Ty TNHH Thuong Mai Dich Vu Va Thuc Pham A - Au,Ha Noi,17.5
+"Ky Su Dieu Hanh Thi Cong (Phong Chay Chua Chay, Tang Ap Hut Khoi)",Cong Ty TNHH Pccc Van Xuan,Ha Noi,14.0
+"Ky Su Dieu Hanh Thi Cong (Phong Chay Chua Chay, Tang Ap Hut Khoi)",Cong Ty TNHH Pccc Van Xuan,Can Tho,14.0
+"Ky Su Dieu Hanh Thi Cong (Phong Chay Chua Chay, Tang Ap Hut Khoi)",Cong Ty TNHH Pccc Van Xuan,Hai Phong,14.0
+[HCM] Truong Ca Bep - Nha Hang Mi Ramen Ippudo (Quan 7),Cong ty Co phan Pizza 4Ps,TP HCM,11.0
+Nhan Vien Ky Thuat Dung May CNC,Cong Ty TNHH Vuong Tung,Binh Duong,10.0
+Nhan Vien Tu Van Tai Chinh Truc Tiep - Fccom - 3F096,Cong Ty Co Phan Quan Tri Nguon Nhan Luc Tntalent,Ba Ria - Vung Tau,12.5
+Nhan Vien Tu Van Tai Chinh Truc Tiep - Fccom - 3F096,Cong Ty Co Phan Quan Tri Nguon Nhan Luc Tntalent,Binh Thuan,12.5
+Nhan Vien Tu Van Tai Chinh Truc Tiep - Fccom - 3F096,Cong Ty Co Phan Quan Tri Nguon Nhan Luc Tntalent,Can Tho,12.5
+Nhan Vien Tu Van Tai Chinh Truc Tiep - Fccom - 3F096,Cong Ty Co Phan Quan Tri Nguon Nhan Luc Tntalent,Quang Nam,12.5
+Nhan Vien Tu Van Tai Chinh Truc Tiep - Fccom - 3F096,Cong Ty Co Phan Quan Tri Nguon Nhan Luc Tntalent,Dong Nai,12.5
+Chuyen Vien Kinh Doanh (Luong Co Ban 14 Trieu + Hoa Hong),Cong Ty TNHH Bao Hiem Nhan Tho AIA,TP HCM,22.0
+Nhan Vien Hanh Chinh Van Phong,Cong Ty Tnhh Mot Thanh Vien Lah Vina,Ha Noi,7.0
+Nhan Vien Kinh Doanh May Bom Nuoc,Cong Ty TNHH Thuong Mai Dich Vu Xuat Nhap Khau Kinh Xuyen,TP HCM,11.5
+Truong Phong Ky Thuat Che Tao,Cty TNHH Co Khi Chinh Xac Dai Nam Phat,Dong Nai,25.0
+Nhan Vien Tu Van Chung Khoan Thu Nhap 10-15 Trieu,Cong Ty CP Mua Ban Doanh Nghiep Va Ket Noi Dau Tu Quoc Te,Ha Noi,12.5
+Huong Dan Vien Thong Thao Tieng Anh Tai Cu Chi,Cong Ty TNHH Dich Vu Du Lich Westen Asian,TP HCM,31.0
+"Nhan Vien Thiet Ke Khuon Ep, Thoi Nhua",Cong Ty TNHH Mot Thanh Vien Nhua Gia Han,TP HCM,15.0
+Giam Doc San Kinh Doanh (Thu Nhap 30 - 50 Trieu),CTY CPDT BDS PHUC THINH,TP HCM,40.0
+Nhan Vien Quan Tri Website,Cong Ty TNHH TC Media,Da Nang,9.0
+Ky Su Nong Nghiep,Cong Ty TNHH Che Bien Thuc Pham Goc,Phu Tho,9.0
+Nhan Vien IT -Marketing Online,Cong Ty Co Phan O To Sao Tay Nam,Can Tho,12.5
+Nhan Vien Y Ta Spa,Chi Nhanh Cong Ty Co Phan Y Khoa Quoc Te Hth,TP HCM,10.0
+Nhan Vien Kinh Doanh Tieng Anh Hoac Tieng Trung Khong Ap Doanh So (Luong Khoi Diem Tu 12 - 15 Trieu / Thang),Cong Ty Co Phan Thiet Bi Va Dich Vu Cong Nghiep A Chau,Ha Noi,16.0
+Nhan Vien Kinh Doanh May Bom (Nhan Viec Sau Tet),Cong Ty TNHH Tan Thien Phuc,TP HCM,12.5
+Nhan Vien Cham Soc Sieu Thi,Cong Ty Co Phan Vinh Tien Ha Noi,Ha Noi,10.0
+"Nhan Vien Giao Hang Xe May - Hai Ba Trung, Ha Noi",Cong Ty TNHH Lotte Viet Nam,Ha Noi,6.5
+Tho Han- Tai Tay Ninh,Cong Ty TNHH Tapioca Viet Nam,TP HCM,8.5
+Tho Han- Tai Tay Ninh,Cong Ty TNHH Tapioca Viet Nam,Binh Duong,8.5
+Tho Han- Tai Tay Ninh,Cong Ty TNHH Tapioca Viet Nam,Tay Ninh,8.5
+Nhan Vien Ky Thuat Bao Tri (Vung Tau),Cong Ty TNHH CBRE (Viet Nam),Ba Ria - Vung Tau,8.0
+HCM - Sony - Nhan Vien Ban Hang (Cac Quan Huyen),Talentnet Corporation (Cong Ty CP Ket Noi Nhan Tai),TP HCM,8.5
+Nhan Vien Thu Kho - Di Lam Sau Tet Tai Nha Trang- Khanh Hoa,Cong Ty Co Phan Xay Lap Vat Tu Ky Thuat,Khanh Hoa,10.5
+Lao Dong Pho Thong Lam Viec Tai Nhat Ban,Cong Ty TNHH Nhan Luc Mirai,Nuoc ngoai,35.0
+Giao Vien - Binh Thanh / Quan 9,Cong Ty TNHH Giao Duc Cau Vong,TP HCM,18.5
+Nhan Vien Thu Hoi No Thi Truong - Mekong,Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,An Giang,17.5
+Nhan Vien Thu Hoi No Thi Truong - Mekong,Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Bac Lieu,17.5
+Nhan Vien Thu Hoi No Thi Truong - Mekong,Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Ca Mau,17.5
+Nhan Vien Thu Hoi No Thi Truong - Mekong,Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Kien Giang,17.5
+Nhan Vien Thu Hoi No Thi Truong - Mekong,Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Soc Trang,17.5
+Phien Dich Tieng Nhat (Phong Ke Toan),Cong Ty TNHH Sai Gon Stec,Binh Duong,12.5
+Ky Thuat Vien Bao Tri Dien - Nghe An - Di Lam Ngay,Cong Ty Co Phan Sua TH,Ha Tinh,8.5
+Ky Thuat Vien Bao Tri Dien - Nghe An - Di Lam Ngay,Cong Ty Co Phan Sua TH,Nghe An,8.5
+Nhan Vien Thu Mua / Cai Gou Guan Li Shi ,CONG TY TNHH TSRC (VIETNAM),Binh Duong,21.0
+Sale Admin - Luong Tu 10Tr,Cong Ty Co Phan Cong Nghiep Va Thuong Mai Cuong Thinh,TP HCM,12.5
+Nhan Vien Ke Toan - Di Lam Ngay,Cong Ty TNHH SX TM Xnk Jia Lina,Long An,8.5
+Nhan Vien Tu Van Bao Hiem Suc Khoe (Khong Yeu Cau Kinh Nghiem),Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,TP HCM,17.5
+Chuyen Vien Truyen Thong - PR Executive,Cong Ty Co Phan Vpmilk,TP HCM,15.0
 Nhan Vien SEO Marketing (Benh Vien Quoc Te Dna),Cong Ty Co Phan Benh Vien Da Khoa Quoc Te Dna,TP HCM,16.0
+Nhan Vien Kiem Tra Gia,Cong Ty CP Duoc Pham Pharmacity,TP HCM,8.0
+Unilever - Nhan Vien Giup Viec Phong Thi Nghiem,Talentnet Corporation (Cong Ty CP Ket Noi Nhan Tai),TP HCM,7.5
+Chuyen Vien Tuyen Dung (Mass Recruitment),Cong Ty Co Phan Misa,TP HCM,12.5
+Nhan Vien Ban Hang - Thu Ngan [Bac Lieu],Cong Ty Co Phan Tap Doan Thai Tuan,Bac Lieu,8.0
+Ke Toan Tong Hop,Cong Ty Co Phan Xay Lap Dien Luc 1,Ha Noi,10.5
+Chuyen Vien Tai Chinh - Ke Toan,Cong Ty Co Phan Tap Doan Anh Vinh,Dong Nai,14.0
+Quan Ly Trinh Duoc Vien Kenh OTC,Cong Ty TNHH Thuong Mai Y Phuc,Binh Thuan,17.5
+Quan Ly Trinh Duoc Vien Kenh OTC,Cong Ty TNHH Thuong Mai Y Phuc,Binh Dinh,17.5
+Quan Ly Trinh Duoc Vien Kenh OTC,Cong Ty TNHH Thuong Mai Y Phuc,Khanh Hoa,17.5
+Quan Ly Trinh Duoc Vien Kenh OTC,Cong Ty TNHH Thuong Mai Y Phuc,Phu Yen,17.5
+Quan Ly Trinh Duoc Vien Kenh OTC,Cong Ty TNHH Thuong Mai Y Phuc,Quang Ngai,17.5
+Chuyen Vien Cong Nghe Thong Tin - IT,Cong Ty Co Phan Bao Bi Bien Hoa,Dong Nai,17.5
+Tro Ly Giam Doc,Cong Ty TNHH Polytex Far Eastern (Viet Nam),Binh Duong,16.0
+"Ho Ly, Dieu Duong Lam Viec Tai Nhat Ban",Cong Ty TNHH Nhan Luc Mirai,Nuoc ngoai,35.0
+Nhan Vien Cham Soc Khach Hang (Tong Dai 247),Mcredit - Cong ty tai chinh TNHH MB Shinsei,Ha Noi,12.5
+Chuyen Vien Quan Ly Khach Hang Cap Cao - Life Portfolio Manager,Cong Ty TNHH BHNT Sun Life Viet Nam - De La Sol,Ha Noi,27.0
+Nhan Vien Thiet Ke,Cong Ty Co Phan Truyen Thong & Du Lich Phi,Ha Noi,8.5
+Lai Xe O To - Bang Lai Dau D,Cong Ty CP DT Avi,TP HCM,9.5
+[Quang Nam] - Giam Sat Kinh Doanh Kenh GT,Cong Ty Co Phan Mondelez Kinh Do Viet Nam,Quang Nam,19.0
+Nhan Vien Ban Hang Thoi Trang The Thao - Supersports,Cong Ty TNHH Mot Thanh Vien Thuong Mai Thoi Trang Tong Hop,Ha Noi,8.5
+Nhan Vien Ban Hang Thoi Trang The Thao - Supersports,Cong Ty TNHH Mot Thanh Vien Thuong Mai Thoi Trang Tong Hop,TP HCM,8.5
+Trinh Duoc Vien (Khu Vuc Mekong),Cong Ty TNHH Merap Trading,An Giang,16.0
+Trinh Duoc Vien (Khu Vuc Mekong),Cong Ty TNHH Merap Trading,Ca Mau,16.0
+Trinh Duoc Vien (Khu Vuc Mekong),Cong Ty TNHH Merap Trading,Long An,16.0
+Trinh Duoc Vien (Khu Vuc Mekong),Cong Ty TNHH Merap Trading,Soc Trang,16.0
+Trinh Duoc Vien (Khu Vuc Mekong),Cong Ty TNHH Merap Trading,Vinh Long,16.0
+Trinh Duoc Vien (Cac Tinh Mien Trung),Cong Ty TNHH Merap Trading,Binh Thuan,16.0
+Trinh Duoc Vien (Cac Tinh Mien Trung),Cong Ty TNHH Merap Trading,Kon Tum,16.0
+Trinh Duoc Vien (Cac Tinh Mien Trung),Cong Ty TNHH Merap Trading,Quang Binh,16.0
+Trinh Duoc Vien (Cac Tinh Mien Trung),Cong Ty TNHH Merap Trading,Quang Tri,16.0
+Trinh Duoc Vien (Cac Tinh Mien Trung),Cong Ty TNHH Merap Trading,Dak Lak,16.0
+Trinh Duoc Vien (Cac Tinh Mien Bac),Cong Ty TNHH Merap Trading,Bac Giang,16.0
+Trinh Duoc Vien (Cac Tinh Mien Bac),Cong Ty TNHH Merap Trading,Nam Dinh,16.0
+Trinh Duoc Vien (Cac Tinh Mien Bac),Cong Ty TNHH Merap Trading,Phu Tho,16.0
+Trinh Duoc Vien (Cac Tinh Mien Bac),Cong Ty TNHH Merap Trading,Thanh Hoa,16.0
+Trinh Duoc Vien (Cac Tinh Mien Bac),Cong Ty TNHH Merap Trading,Tuyen Quang,16.0
+Vinbus - Tai Xe Xe Buyt Dien Tai Ha Noi (Di Lam Ngay),Cong Ty TNHH Dich Vu Van Tai Sinh Thai Vinbus,Ha Noi,13.5
+Nhan Vien Ky Thuat Toa Nha - Di Lam Ngay,Cong Ty TNHH Mot Thanh Vien Dich Vu Tasco,Hai Phong,9.5
+[HCM] Nhan Vien Truc Tong Dai The Pizza Company - Part Time,CONG TY CP PIZZA NGON,TP HCM,2.5
+Tro Ly Phien Dich Tieng Trung,Cong Ty TNHH Tribeco Binh Duong,Binh Duong,12.5
+Nhan Vien Quan Ly Noi Tru (Chi Truc Ca Toi),Truong Trung Hoc Co So Va Trung Hoc Pho Thong Pham Ngu Lao,TP HCM,6.0
+Ky Thuat Vien Cong Nghe Thong Tin Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,Ha Noi,10.5
+Ky Thuat Vien Cong Nghe Thong Tin Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,TP HCM,10.5
+Nhan Vien HSE,Chi Nhanh Cong Ty CP Tan Phu Viet Nam,Dong Nai,10.0
+Nhan Vien Cuu Ho / Lifeguard,Cong Ty TNHH Delta - Valley Binh Thuan,Ba Ria - Vung Tau,8.5
+Bac Si Gay Me Hoi Suc,Cong Ty Co Phan Benh Vien Phu San Quoc Te Sai Gon,TP HCM,30.0
+Quan Ly Nha Hang - Kpub Hue,Cong Ty CP TM DV Cong Vang,Thua Thien Hue,11.5
+Nhan Vien Kinh Doanh Giao Hang Tan Nha Tai Phu Tho / Nam Dinh,Cong Ty TNHH Yakult Viet Nam,Nam Dinh,11.5
+Nhan Vien Kinh Doanh Giao Hang Tan Nha Tai Phu Tho / Nam Dinh,Cong Ty TNHH Yakult Viet Nam,Phu Tho,11.5
+Bac Si Noi (Benh Vien Dna Quan 5),Cong Ty Co Phan Benh Vien Da Khoa Quoc Te Dna,TP HCM,25.0
+Bep Chinh Nhat,Cong Ty CP TM DV Cong Vang,TP HCM,8.0
+Nhan Vien Giao Hang Bang Xe May,Cong Ty Co Phan Xuat Nhap Khau Toan Thang Food,Ha Noi,10.0
+"Giao Vien Mam Non - Tai Quan 7, Quan Binh Tan",Cong Ty CP DT Pt Giao Duc Quoc Te Hoang Gia,TP HCM,10.0
+Truong Vung Marketing Thi Truong Campuchia,Cong Ty Co Phan Phan Bon Binh Dien,TP HCM,25.0
+"Giao Dich Vien - Khu Vuc Vinh Phuc, Bac Ninh, Bac Giang",Ngan Hang TMCP Dong Nam A (Seabank),Bac Giang,20.0
+"Giao Dich Vien - Khu Vuc Vinh Phuc, Bac Ninh, Bac Giang",Ngan Hang TMCP Dong Nam A (Seabank),Bac Ninh,20.0
+"Giao Dich Vien - Khu Vuc Vinh Phuc, Bac Ninh, Bac Giang",Ngan Hang TMCP Dong Nam A (Seabank),Vinh Phuc,20.0
+Nhan Vien Dich Vu Khach Hang Tai Da Nang - Hop Dong 6 Thang,Cong Ty TNHH Bao Hiem Nhan Tho Generali Viet Nam,Da Nang,9.0
+Nhan Vien Ban Hang - Lam Thoi Vu Tet,Cong Ty TNHH Thoi Trang Anh Son A&s,Dong Nai,6.5
+Nhan Vien Ky Thuat San Xuat (IE) - Ky Su Co Khi,Cong Ty TNHH Thuy My Tu Viet Nam,Binh Duong,15.0
+Nhan Vien Tu Van - Thu Ngan Khong Kinh Nghiem,Linh Kien Quang Vinh,Ha Noi,10.0
+Dau Bep,Cong Ty Ajinomoto Viet Nam,Ha Noi,12.5
+Nhan Vien Cham Soc Cay Xanh (Canh Quan Chung Cu),Cong Ty Co Phan Monarch,TP HCM,6.5
+Giam Doc Cong Ty,Cong Ty CP XD Va TM Sai Gon 9,Bac Lieu,22.5
+Truong Nhom Tiep Thi Truc Tiep (Thu Nhap Tren 10Tr),Cong Ty TNHH Wall Street English,TP HCM,12.5
+Quan Ly Dich Vu Am Thuc - Lam Viec Tai Nha May Nestle Hung Yen,Cong Ty TNHH P.Dussmann Viet Nam,Hung Yen,12.5
+Trinh Duoc Vien (Benh Vien Quoc Te Dna),Cong Ty Co Phan Benh Vien Da Khoa Quoc Te Dna,TP HCM,10.0
+Nhan Vien Ban Hang Thi Truong - Tay Ninh,Abbott Viet Nam,Tay Ninh,12.5
+Ke Toan Kho Kiem Ho Tro Tiec Catering,Cong Ty TNHH An Uong Pha Anh Rang Chieu,TP HCM,9.0
+Tro Ly Tieng Trung - Di Lam Ngay,Cong Ty TNHH Xay Dung & Thiet Ke Noi That Dich Vu Thuong Mai ECT,Binh Duong,13.5
+Quan Doc Xuong Co Khi - Di Lam Sau Tet,Cong Ty Co Phan Vinh Phu,Binh Duong,25.0
+Vinhomes - Nhan Vien Ky Thuat Toa Nha,Cong ty Co Phan Vinhomes,Ha Noi,10.5
+Nhan Vien Ke Toan - Da Nang,Cong Ty TNHH MTV Dai Moc Xanh,Da Nang,8.0
+"Nu Ke Toan Noi Bo - Biet Tieng Trung - Lam Viec Tai Tan Uyen, Binh Duong",Cong Ty TNHH Freecode (Viet Nam),Binh Duong,16.0
+Lao Dong Lam Viec Tai Nhat Ban,Cong Ty TNHH Nhan Luc Mirai,Nuoc ngoai,35.0
+Internet / Online Marketing Executive,Cong Ty Co Phan May Cong Cu Va Phu Tung Vina,TP HCM,11.0
+Nhan Vien Ban Hang Vat Tu Nong Nghiep,Cong Ty Co Phan Tap Doan Loc Troi,Binh Phuoc,10.5
+Nhan Vien Ban Hang Vat Tu Nong Nghiep,Cong Ty Co Phan Tap Doan Loc Troi,Binh Thuan,10.5
+Nhan Vien Ban Hang Vat Tu Nong Nghiep,Cong Ty Co Phan Tap Doan Loc Troi,Binh Dinh,10.5
+Nhan Vien Ban Hang Vat Tu Nong Nghiep,Cong Ty Co Phan Tap Doan Loc Troi,Kien Giang,10.5
+Nhan Vien Ban Hang Vat Tu Nong Nghiep,Cong Ty Co Phan Tap Doan Loc Troi,Dong Nai,10.5
+Nhan Vien Thiet Ke Co Khi,Cong Ty TNHH Thuy My Tu Viet Nam,Binh Duong,21.0
+Ky Thuat Vien Chan Doan Hinh Anh,Cong Ty Co Phan Benh Vien Emcas,TP HCM,14.0
+"Phu Bep Tai Gusto Thai - Hoan Kiem, Hn",Nha Hang Gusto Thai - Cong Ty TNHH Kinh Doanh Dich Vu Thuong Mai Hpb,Ha Noi,8.5
+Nhan Vien Phu Kho Quan 12 (HCM),Cong ty Co Phan Tap Doan Dekko,TP HCM,7.0
+Nhan Vien Trien Khai Ky Thuat (Cad Kien Truc - Noi That),Cong Ty Co Phan Xhome Hai Phong,Hai Phong,12.5
+"Chuyen Vien Khach Hang Ca Nhan - Khu Vuc Bac Ninh, Hai Phong, Vinh Phuc",Ngan Hang TMCP Dong Nam A (Seabank),Bac Ninh,19.0
+"Chuyen Vien Khach Hang Ca Nhan - Khu Vuc Bac Ninh, Hai Phong, Vinh Phuc",Ngan Hang TMCP Dong Nam A (Seabank),Hai Phong,19.0
+"Chuyen Vien Khach Hang Ca Nhan - Khu Vuc Bac Ninh, Hai Phong, Vinh Phuc",Ngan Hang TMCP Dong Nam A (Seabank),Vinh Phuc,19.0
+Truong Nhom Giao Dich Vien / Kiem Soat Vien - Khu Vuc Ha Noi,Ngan Hang TMCP Dong Nam A (Seabank),Ha Noi,28.5
+Seabank - Chuyen Vien Khach Hang Ca Nhan - Khu vuc Ha Noi,Ngan Hang TMCP Dong Nam A (Seabank),Ha Noi,19.0
+Seabank - Chuyen Vien Khach Hang Ca Nhan - Khu vuc Ha Noi,Ngan Hang TMCP Dong Nam A (Seabank),Bac Giang,19.0
+Seabank - Chuyen Vien Khach Hang Ca Nhan - Khu vuc Ha Noi,Ngan Hang TMCP Dong Nam A (Seabank),Bac Ninh,19.0
+Seabank - Chuyen Vien Khach Hang Ca Nhan - Khu vuc Ha Noi,Ngan Hang TMCP Dong Nam A (Seabank),Hung Yen,19.0
+"Nhan Vien Tu Van Tuyen Sinh (Linh Vuc Xuat Khau Lao Dong, Du Hoc)",Cong Ty Co Phan Dau Tu Va Cung Ung Nhan Luc Quoc Te Trang An,Ha Noi,17.5
+Thu Ngan Nha Hang Boomerang - Quan 1,Cong Ty TNHH Vietcomindo,TP HCM,7.0
+[HCM ]- Kimberly Clark - Nhan Vien Ban Hang Kenh GT,Talentnet Corporation (Cong Ty CP Ket Noi Nhan Tai),TP HCM,8.5
+"Vincom - Nhan Vien Tap Vu, Ve Sinh Tai Trung Tam Thuong Mai  (Mien Bac)",Cong Ty Co Phan Vincom Retail,Ha Noi,8.5
+"Vincom - Nhan Vien Tap Vu, Ve Sinh Tai Trung Tam Thuong Mai  (Mien Bac)",Cong Ty Co Phan Vincom Retail,Ha Giang,8.5
+"Vincom - Nhan Vien Tap Vu, Ve Sinh Tai Trung Tam Thuong Mai  (Mien Bac)",Cong Ty Co Phan Vincom Retail,Hai Phong,8.5
+"Vincom - Nhan Vien Tap Vu, Ve Sinh Tai Trung Tam Thuong Mai  (Mien Bac)",Cong Ty Co Phan Vincom Retail,Phu Tho,8.5
+"Vincom - Nhan Vien Tap Vu, Ve Sinh Tai Trung Tam Thuong Mai  (Mien Bac)",Cong Ty Co Phan Vincom Retail,Dien Bien,8.5
+Vincom - Nhan Vien Bao Ve Tai Trung Tam Thuong Mai (Mb),Cong Ty Co Phan Vincom Retail,Ha Noi,8.5
+Vincom - Nhan Vien Bao Ve Tai Trung Tam Thuong Mai (Mb),Cong Ty Co Phan Vincom Retail,Hai Phong,8.5
+Vincom - Nhan Vien Bao Ve Tai Trung Tam Thuong Mai (Mb),Cong Ty Co Phan Vincom Retail,Lang Son,8.5
+Vincom - Nhan Vien Bao Ve Tai Trung Tam Thuong Mai (Mb),Cong Ty Co Phan Vincom Retail,Phu Tho,8.5
+Vincom - Nhan Vien Bao Ve Tai Trung Tam Thuong Mai (Mb),Cong Ty Co Phan Vincom Retail,Yen Bai,8.5
+Bac Si San Phu Khoa,Cong Ty Co Phan Benh Vien Phu San Quoc Te Sai Gon,TP HCM,32.5
+Chuyen Vien Kinh Doanh,Cong Ty TNHH Dreamer Viet Nam,TP HCM,12.5
+Collection Admin And Support,Cong Ty Co Phan Kredivo Viet Nam,TP HCM,12.5
+Nhan Vien Ke Toan Tong Hop,Cong Ty CP Soi Viet Tri,Binh Duong,13.5
+Phu Bep,Cong Ty CP TM DV Cong Vang,TP HCM,8.0
+Chuyen Vien Quan He Nha Dau Tu,Cong Ty Co Phan Soi The Ky,TP HCM,15.0
+Chuyen Vien Quan He Nha Dau Tu,Cong Ty Co Phan Soi The Ky,Tay Ninh,15.0
+Sales Executive,Cong Ty Tnhh Jungle Life Group,TP HCM,8.5
+Ke Toan Noi Bo - Di Lam Ngay,Cong Ty TNHH An Phu Linh,Hai Duong,8.5
+[Hai Phong] Nhan Vien Part-Time Cua Hang Moi,Cong Ty TNHH Jollibee Viet Nam,Hai Phong,2.0
+Pho Phong Kinh Doanh,Cong Ty Co Phan Duoc Pham 2 / 9,TP HCM,15.0
+Tu Van Tuyen Sinh - Khong Can Kinh Nghiem :,Cong Ty TNHH Dao Tao Va Dich Vu Minh Khang,TP HCM,7.0
+[Dong Nai] Duoc Si Ban Hang - Khong Yeu Cau Kinh Nghiem,Cong Ty CP Duoc Pham Pharmacity,Dong Nai,8.5
+Nhan Vien Thiet Ke Thoi Trang,Cong Ty TNHH May Theu Giay An Phuoc,TP HCM,15.0
+Giam Doc Phong Xu Ly No O To Mien Bac,Ngan Hang TMCP Quoc Te Viet Nam (VIB),Ha Noi,35.0
+"Chuyen Vien Kinh Doanh Tai Chinh Dau Tu (Thanh Hoa, Nghe An)",Ngan Hang TMCP Quoc Te Viet Nam (VIB),Nghe An,22.0
+"Chuyen Vien Kinh Doanh Tai Chinh Dau Tu (Thanh Hoa, Nghe An)",Ngan Hang TMCP Quoc Te Viet Nam (VIB),Thanh Hoa,22.0
+Ky Su Xay Dung Cau Duong / Thuy Loi,Cong Ty TNHH Xay Dung-Thuong Mai-Dich Vu Tin Nghia Xuyen Moc,Ba Ria - Vung Tau,12.5
+Nhan Vien Nghien Cuu Phoi Lieu,Cong Ty Co Phan Nong Duoc Hai,Long An,7.5
+Vung Tau - Nam Nhan Vien Ban Hang Kiem Thu Ngan Cua Hang Mlb Ba Cu,Cong Ty Co Phan Maison Retail Management International,Ba Ria - Vung Tau,6.0
+Truong Phong Thiet Ke - Ky Thuat He Thong Pccc,CONG TY CO PHAN SCT HOLDING,Binh Duong,30.0
+Quan Ly Nhom (Teamlead) Lam Viec Tai Hai Phong,Cong Ty Luat TNHH Brandco,Hai Phong,12.5
+Nhan Vien Kho Duoc Sy Tai Can Giuoc Long An,Cong ty Co Phan Vacxin Viet Nam,Long An,10.0
+Nhan Vien Ban Hang Kv HCM (Nhan Viec Ngay),Cong Ty CP Bong Bach Tuyet,TP HCM,7.5
+Nhan Vien Kiem Soat Chat Luong - Tap Doan Phap,Cong Ty TNHH Camso Viet Nam,Binh Duong,9.0
+"Nhan Vien Kinh Doanh - Tai Gia Lam, Ha Noi (Co The Di Lam Truoc Hoac Sau Tet)",Cong Ty Co Phan Inox Tan Dat,Ha Noi,15.0
+"Giao Vien / Tro Giang Tieng Anh (Popodoo Smart English Chi Nhanh Phuoc Long, Binh Phuoc)",Cong Ty TNHH MTV Giao Duc Thanh Giang,Binh Phuoc,14.5
+Nhan Vien Tu Van Tuyen Sinh - Ila Ha Noi,Cong Ty TNHH Ila Viet Nam,Ha Noi,11.0
+Chuyen Vien Kiem Soat Noi Bo,Cong Ty Co Phan Tap Doan Deo Ca,TP HCM,20.0
+Nhan Vien Van Hanh May San Xuat - Khau Pha Che Siro (Lam Viec Theo 3 Ca) - Ha Noi,Cong Ty TNHH Nuoc Giai Khat Coca-Cola Viet Nam,Ha Noi,8.5
+Nhan Vien Van Hanh San Xuat - Ha Noi,Cong Ty TNHH Nuoc Giai Khat Coca-Cola Viet Nam,Ha Noi,8.5
+Chuyen Vien Marketing Lam Viec Tai Kieu Ky- Gia Lam - Ha Noi,Cong Ty Co Phan Inox Tan Dat,Ha Noi,22.5
+Nhan Vien Tu Van Tuyen Sinh [Ila Ha Noi],Cong Ty TNHH Ila Viet Nam,Ha Noi,11.0
+Vinhomes - Chuyen Vien Kiem Soat Chat Luong (Cong Truong),Cong ty Co Phan Vinhomes,Ha Noi,25.0
+Vinhomes - Chuyen Vien Kiem Soat Chat Luong (Cong Truong),Cong ty Co Phan Vinhomes,Hung Yen,25.0
+Giam Sat Ban Hang - Ha Noi (Thoi Vu 8 Thang),Cong Ty TNHH Nuoc Giai Khat Coca-Cola Viet Nam,Ha Noi,17.5
+Nhan Vien Kiem Soat Chat Luong (Lam Theo Ca 8 Tieng),Cong Ty TNHH Nuoc Giai Khat Coca-Cola Viet Nam,Ha Noi,9.5
+Giao Vien Day Tin Hoc Van Phong (Co The Nhan Viec Sau Tet),Cong ty TNHH Tu van & Dao Tao Dai Duong,TP HCM,12.0
+Nhan Vien Kiem Thu Phan Mem - Tp.HCM,Cong Ty CP Dich Vu Kim My,TP HCM,12.5
+Nhan Vien Van Phong Biet Tieng Trung - Quan 9,Cong Ty Tnhh Dich Vu Thuong Mai Va Xuat Nhap Khau Viet Anh,TP HCM,9.5
+Giao Dich Vien - Vinh Long (Tra On),Ngan Hang Thuong Mai Co Phan Kien Long,Vinh Long,7.5
+Truong Nhom Chat Luong,Cong Ty TNHH AAC Technologies Viet Nam,Bac Ninh,30.0
+Nhan Vien Ho Tro Kinh Doanh Toan Quoc - Di Lam Sau Tet,Home Credit Viet Nam,Ha Noi,31.0
+Nhan Vien Ho Tro Kinh Doanh Toan Quoc - Di Lam Sau Tet,Home Credit Viet Nam,TP HCM,31.0
+Nhan Vien Ho Tro Kinh Doanh Toan Quoc - Di Lam Sau Tet,Home Credit Viet Nam,Binh Duong,31.0
+Nhan Vien Ho Tro Kinh Doanh Toan Quoc - Di Lam Sau Tet,Home Credit Viet Nam,Can Tho,31.0
+Nhan Vien Ho Tro Kinh Doanh Toan Quoc - Di Lam Sau Tet,Home Credit Viet Nam,Thua Thien Hue,31.0
+Ha Noi - Le Tan (Chi Tuyen Nu) - Lam Tu T2 - T6,Cong Ty Co Phan Maison Retail Management International,Ha Noi,7.5
+Ke Toan Truong,Cong Ty Co Phan Quoc Te Tavina,TP HCM,25.0
+Chuyen Vien Xu Ly No Qua Dien Thoai Khu Vuc Ha Noi.,Cong Ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Ha Noi,17.5
+Cong Tac Vien Nhan Su (Lam Fulltime T2 - T6) Di Lam Ngay Sau Tet,Cong Ty Co Phan Kinh Doanh F88,TP HCM,5.5
+Ke Toan Tong Hop,Cong Ty CP Gach Op Lat Hoa Binh Minh,Lam Dong,9.0
+Quan Ly Tinh - Mien Dong,Cong Ty TNHH Duoc Pham A Au,Ba Ria - Vung Tau,20.0
+Quan Ly Tinh - Mien Dong,Cong Ty TNHH Duoc Pham A Au,Binh Duong,20.0
+Quan Ly Tinh - Mien Dong,Cong Ty TNHH Duoc Pham A Au,Binh Thuan,20.0
+Quan Ly Tinh - Mien Dong,Cong Ty TNHH Duoc Pham A Au,Tay Ninh,20.0
+Quan Ly Tinh - Mien Dong,Cong Ty TNHH Duoc Pham A Au,Dong Nai,20.0
+Nhan Vien Phien Dich Tieng Trung Biet Ke Toan,Cong Ty TNHH Xuat Nhap Khau Trung Tin Phat,TP HCM,12.5
+Chu Tri Thiet Ke Kien Truc Cong Trinh (Thu Nhap 20 - 30 Trieu),Cong ty CP Dau Tu Xay Dung Ban Thach,TP HCM,25.0
+Nhan Vien Ky Thuat - Nganh Bo Mach Ban Dan,Cong Ty TNHH V-Probes Holdings,TP HCM,8.0
+Nhan Vien Thu Hoi No Thi Truong [Mekong],Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,An Giang,17.5
+Nhan Vien Thu Hoi No Thi Truong [Mekong],Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Bac Lieu,17.5
+Nhan Vien Thu Hoi No Thi Truong [Mekong],Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Ca Mau,17.5
+Nhan Vien Thu Hoi No Thi Truong [Mekong],Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Kien Giang,17.5
+Nhan Vien Thu Hoi No Thi Truong [Mekong],Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,Soc Trang,17.5
+Nhan Vien Ky Thuat Dien Tu Dong Hoa,Cong Ty Co Phan San Xuat Thuong Mai Va Dich Vu Az,Ha Noi,11.0
+Chuyen Vien Thu Mua Tai Da Nang,Aden Viet Nam -  Cong Ty TNHH Quan Ly Tai San Ky Thuat Aden (Viet Nam),Da Nang,9.0
+Nhan Vien Kinh Doanh Thi Truong,Cong Ty TNHH Thuong Mai Y Phuc,TP HCM,12.0
+Nhan Vien Kinh Doanh Thi Truong,Cong Ty TNHH Thuong Mai Y Phuc,Ben Tre,12.0
+Nhan Vien Kinh Doanh Thi Truong,Cong Ty TNHH Thuong Mai Y Phuc,Binh Duong,12.0
+Nhan Vien Kinh Doanh Thi Truong,Cong Ty TNHH Thuong Mai Y Phuc,Da Nang,12.0
+Nhan Vien Kinh Doanh Thi Truong,Cong Ty TNHH Thuong Mai Y Phuc,Dong Nai,12.0
+Nhan Vien Bao Tri - Sua Chua (Ha Noi),Cong Ty TNHH Koi Cafe Viet Nam,Ha Noi,9.0
+Giao Vien Tieng Anh / Giao Vien IELTS Part-Time,Cong Ty TNHH Dau Tu Va Phat Trien Giao Duc Ky Nguyen Moi,TP HCM,12.5
+Nhan Vien Ky Thuat Thi Cong Hien Truong,Cong ty Co Phan Dau Tu Xay Dung Hai Long,Bac Giang,16.5
+"Chuyen Vien Khach Hang Ca Nhan / Khach Hang Doanh Nghiep - Long An (Ben Luc, Can Giuoc)",Ngan Hang Thuong Mai Co Phan Kien Long,Long An,12.0
+Trade Marketing Supervisor,Cong Ty TNHH Dich Vu Eb,TP HCM,16.0
+Nhan Vien Kinh Doanh,Cong Ty Tnhh Kang Bang,TP HCM,12.5
+Truong Nhom Content Marketing,Cong Ty Co Phan Ttm Media,TP HCM,12.5
+Truong Nhom SEO Website,Cong Ty Co Phan Ttm Media,TP HCM,12.5
+Giao Vien Day Tre Tai Trung Tam Toan Quoc (Di Lam Sau Tet),Cong Ty CP DT Giao Duc Va Dao Tao Quoc Te Rong Viet,Ha Noi,10.0
+Giao Vien Day Tre Tai Trung Tam Toan Quoc (Di Lam Sau Tet),Cong Ty CP DT Giao Duc Va Dao Tao Quoc Te Rong Viet,TP HCM,10.0
+Giao Vien Day Tre Tai Trung Tam Toan Quoc (Di Lam Sau Tet),Cong Ty CP DT Giao Duc Va Dao Tao Quoc Te Rong Viet,Ba Ria - Vung Tau,10.0
+Giao Vien Day Tre Tai Trung Tam Toan Quoc (Di Lam Sau Tet),Cong Ty CP DT Giao Duc Va Dao Tao Quoc Te Rong Viet,Long An,10.0
+Giao Vien Day Tre Tai Trung Tam Toan Quoc (Di Lam Sau Tet),Cong Ty CP DT Giao Duc Va Dao Tao Quoc Te Rong Viet,Dong Nai,10.0
+Cham Soc Khach Hang Tai Hoai Duc Ha Noi (Di Lam Sau Tet),Cong Ty CP DT Giao Duc Va Dao Tao Quoc Te Rong Viet,Ha Noi,8.0
+Truong Phong Dao Tao,Cong Ty TNHH Thuong Mai G - World,TP HCM,20.0
+Nhan Vien Kinh Doanh,Cong Ty TNHH Cham Soc Sac Dep Lynh Farma,Ha Noi,20.0
+Nhan Vien Kinh Doanh,Cong Ty TNHH Cham Soc Sac Dep Lynh Farma,Hai Phong,20.0
+Nhan Vien Kinh Doanh,Cong Ty TNHH Cham Soc Sac Dep Lynh Farma,Quang Ninh,20.0
+Nhan Vien Thu Hoi No,Cong Ty TNHH Mua Ban No Welcome,TP HCM,30.0
+Automation Engineer,CONG TY TNHH SAINT- GOBAIN VIET NAM,Long An,15.5
+Tro Giang Mam Non,Cong Ty Trach Nhiem Huu Han Truong Quoc Te Saigon Montessori,TP HCM,8.0
+Leader Truyen Thong,Cong Ty Tnhh Van Hoa Va Truyen Thong Az Viet Nam,Ha Noi,15.0
+Fashion Designer - Thiet Ke Thoi Trang,Cong Ty TNHH Gdj Fashion,TP HCM,8.5
+Nhan Vien Kinh Doanh [Khanh Hoa],CONG TY TNHH MTV SEAWINDOW,Khanh Hoa,12.5
+Nhan Vien Ky Thuat Sua Chua Khuon Duc Nhua,Cong Ty TNHH Elentec Viet Nam,Ha Noi,11.5
+Kien Truc Su Quy Hoach Tai Phu Tho,Cong Ty TNHH Xay Dung Tu Lap,Phu Tho,21.5
+Nhan Vien Ke Toan Thue,Cong Ty TNHH Tran Vinh,Ba Ria - Vung Tau,12.5
+Nhan Vien Tu Van Bao Hiem Suc Khoe [Khong Yeu Cau Kinh Nghiem],Cong ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,TP HCM,17.5
+Chuyen Vien Kinh Doanh Du An Chu Lai,Cong Ty CP Son Ha Sai Gon,Quang Nam,18.5
+Nhan Vien Ban Hang Thoi Trang Cao Cap,Cong Ty Co Phan Maison Retail Management International,TP HCM,8.5
+Bien Phien Dich Tieng Nhat,Cong Ty TNHH Wonderful Sai Gon Electrics,Binh Duong,14.0
+Nhan Vien Ke Toan Thue,Cong Ty TNHH Ferroli Asean,Ha Noi,9.5
+Pho Giam Doc Phong Giao Dich Cai Lay - Tien Giang,Ngan Hang Thuong Mai Co Phan Kien Long,Tien Giang,17.5
+Nhan Vien Le Tan - Quan 7,Cong Ty TNHH CBRE (Viet Nam),Ha Noi,6.0
+Nhan Vien Le Tan - Quan 7,Cong Ty TNHH CBRE (Viet Nam),TP HCM,6.0
+Giao Vien Tieng Anh,Cong Ty Co Phan Giao Duc Van Xuan,Dak Lak,11.5
+Sales Admin (Uu Tien Biet Tieng Anh),Cong Ty Co Phan Ung Dung Cong Nghe Minh Ha,TP HCM,8.5
+Dai Dien Ban Hang Khu Vuc,Cong Ty TNHH Vien Thong Tvt,TP HCM,25.0
+Truong Bo Phan Ky Thuat Toa Nha Cua Tap Doan,Cong Ty Co Phan Thuong Mai Dich Vu Tong Hop Hai Ba Trung,Ha Noi,16.5
+Nhan Vien Van Phong Kiem Chinh Gia (Phong Van Qua Tet Lam),Tai Em,TP HCM,16.0
+Ke Toan Tong Hop,Cong Ty TNHH Thuong Mai Dich Vu Y Te Thien Phu,TP HCM,12.5
+Nhan Vien Ke Toan Tong Hop - Di Lam Sau Tet,Cong Ty TNHH Xnk Banika,Bac Ninh,10.0
+Quality Controller (QC) - Kiem Soat Chat Luong - Da Nang - Lam Viec Theo Ca 8 Tieng,Cong Ty TNHH Nuoc Giai Khat Coca-Cola Viet Nam,Da Nang,10.0
+Nhan Vien Tro Ly Kinh Doanh & Van Phong,CONG TY TNHH THUONG MAI - SAN XUAT - DICH VU VIET - HAN,TP HCM,11.0
+Process Engineer (Production Engineering Center) - Up To $ 1000,Cong Ty TNHH Sai Gon Stec,Binh Duong,17.5
+Kien Truc Su (Ra Tet Di Lam),Cong Ty Co Phan Xay Dung Va Cong Nghe Hong Ha,Ha Noi,9.5
+"Nhan Vien Kinh Doanh Thi Truong Phong Van Sau Tet, Di Lam Luon",Cong Ty TNHH Thiet Bi Va Cong Nghe Minh Ha,Ha Noi,13.5
+"Nhan Vien Kinh Doanh Thi Truong Phong Van Sau Tet, Di Lam Luon",Cong Ty TNHH Thiet Bi Va Cong Nghe Minh Ha,TP HCM,13.5
+Quan Ly Nha Hang Lam Viec Tai Hai Phong,Cong Ty TNHH Hoang Cam Viet Nam,Hai Phong,9.0
+Nhan Vien Ke Toan Kho Lam Viec Tai La Phu - Hoai Duc,Cong Ty TNHH San Xuat Thuong Mai & In Bao Bi Netviet,Ha Noi,7.0
+Tai Xe Lai Xe,Cong Ty TNHH Xuat Nhap Khau Hurom Juice Cafe,TP HCM,8.5
+Giao Vien Toan Cap 2 Quan Binh Tan TPHCM,Cong Ty TNHH MTV Dau Tu Va Phat Trien Giao Duc Hoan Minh Hung,TP HCM,6.5
+"Giao Vien Mam Non - Quan 11, Tan Phu",Cong Ty Co Phan Dau Tu Va Phat Trien Tri Nhan Tam,TP HCM,8.0
+Nhan Vien Marketing - Di Lam Sau Tet,Cong Ty Co Phan Dau Tu Xay Dung Nha Viet A&c,Ha Noi,15.0
+2D Game Artist - Game Designer,Ibean Studio,TP HCM,16.5
+Nhan Vien Phuc Vu Tram Mi - Fulltime,Cong Ty Co Phan Acecook Viet Nam,TP HCM,8.0
+Quan Ly Rooftop Bar Giao Tiep Tieng Han - Phong Van Di Lam Ngay,Cong Ty Tnhh The Win Star,TP HCM,25.0
+Ke Toan Noi Bo (Khong Yeu Cau Bao Cao Thue) - Phong Van Di Lam Ngay,Cong Ty Tnhh The Win Star,TP HCM,8.5
+Le Tan Khach San Giao Tiep Tieng Han - Phong Van Di Lam Ngay,Cong Ty Tnhh The Win Star,TP HCM,12.5
+Senior Expert Of Development Center (Up To $ 1000),Cong Ty TNHH Sai Gon Stec,Binh Duong,17.5
+Nhan Vien Kinh Doanh,Cong Ty Co Phan Co Dien Thuan Phong Thuy,TP HCM,12.5
+Nhan Vien Kinh Doanh Lam Viec Tp HCM,Cong Ty TNHH Xay Dung The Hung,TP HCM,7.0
+Thuc Tap Sinh Lam Viec Tai Canada,Cong Ty TNHH Di Tru Va Dau Tu Cic,TP HCM,37.5
+Giam Sat Ban Hang - Da Nang,Cong Ty TNHH Nuoc Giai Khat Coca-Cola Viet Nam,Da Nang,17.5
+Nhan Vien Ban Hang Kenh Dai Ly - Dong Thap,Cong Ty TNHH Nuoc Giai Khat Coca-Cola Viet Nam,Dong Thap,10.0
+Nhan Vien Ke Toan / Ga Executive,Cong Ty TNHH TM DV Tan Hiep Phat,Binh Duong,11.0
+Nhan Vien Tu Van Tin Dung Tra Gop (Tp. Ho Chi Minh),Cty Tai Chinh TNHH MTV Mirae Asset (Viet Nam),TP HCM,8.5
+Nhan Vien Tu Van Tin Dung Tra Gop (Tp. Ho Chi Minh),Cty Tai Chinh TNHH MTV Mirae Asset (Viet Nam),Binh Duong,8.5
+Nhan Vien Tu Van Tin Dung Tra Gop (Tp. Ho Chi Minh),Cty Tai Chinh TNHH MTV Mirae Asset (Viet Nam),Tay Ninh,8.5
+Nhan Vien Tu Van Tin Dung Tra Gop (Tp. Ho Chi Minh),Cty Tai Chinh TNHH MTV Mirae Asset (Viet Nam),Toan quoc,8.5
+Nhan Vien Tu Van Tin Dung Tra Gop (Tp. Ho Chi Minh),Cty Tai Chinh TNHH MTV Mirae Asset (Viet Nam),Dong Nai,8.5
+"Nhan Vien Thu Hoi No Tai Dak Lak, Dak Nong",Cong Ty Tai Chinh TNHH Hd Saison,Dak Lak,11.0
+"Nhan Vien Thu Hoi No Tai Dak Lak, Dak Nong",Cong Ty Tai Chinh TNHH Hd Saison,Dak Nong,11.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Dong Nai,Cong Ty Tai Chinh TNHH Hd Saison,Dong Nai,17.5
+Nhan Vien Thu Hoi No Thuc Dia - Toan Thu Do Ha Noi,Cong Ty Tai Chinh TNHH Hd Saison,Ha Noi,22.5
+"Nhan Vien Thu Hoi No Tai Thai Hoa, Nghia Dan - Nghe An",Cong Ty Tai Chinh TNHH Hd Saison,Nghe An,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Lai Chau,Cong Ty Tai Chinh TNHH Hd Saison,Lai Chau,20.0
+Nhan Vien Thu Hoi No - Phu Yen,Cong Ty Tai Chinh TNHH Hd Saison,Phu Yen,17.5
+Nhan Vien Thu Hoi No - Quang Tri,Cong Ty Tai Chinh TNHH Hd Saison,Quang Tri,17.5
+Nhan Vien Thu Hoi No - Quang Ngai,Cong Ty Tai Chinh TNHH Hd Saison,Quang Ngai,17.5
+Nhan Vien Thu Hoi No - Kon Tum,Cong Ty Tai Chinh TNHH Hd Saison,Kon Tum,17.5
+Nhan Vien Thu Hoi No Truc Tiep- Quang Nam,Cong Ty Tai Chinh TNHH Hd Saison,Quang Nam,17.5
+Nhan Vien Thu Hoi No Truc Tiep- Quang Binh,Cong Ty Tai Chinh TNHH Hd Saison,Quang Binh,17.5
+Nhan Vien Thu Hoi No Truc Tiep - Khanh Hoa,Cong Ty Tai Chinh TNHH Hd Saison,Khanh Hoa,17.5
+Nhan Vien Thu Hoi No Truc Tiep Tai Tinh Gia Lai,Cong Ty Tai Chinh TNHH Hd Saison,Gia Lai,17.5
+Nhan Vien Thu Hoi No Truc Tiep Tai Da Nang,Cong Ty Tai Chinh TNHH Hd Saison,Da Nang,17.5
+Nhan Vien Thu Hoi No Truc Tiep - Tinh Binh Dinh,Cong Ty Tai Chinh TNHH Hd Saison,Binh Dinh,17.5
+"Nhan Vien Tiep Nhan Va Tra Loi Kenh Chat, Email Shopee - Nhan Viec Sau Tet",CN Cong Ty CP RELIA Viet Nam Tai TP HCM,TP HCM,7.5
+Tong Dai Truc Hotline Cham Soc Khach Hang Sony - Phong Van Online - Nhan Viec Sau Tet,CN Cong Ty CP RELIA Viet Nam Tai TP HCM,TP HCM,7.0
+Nhan Vien Ban Hang [Ba Ria - Vung Tau] (Full Time / Part Time),Cong Ty TNHH Mot Thanh Vien Thuong Mai Va Dau Tu Lien A Chau,Ba Ria - Vung Tau,6.5
+Nhan Vien Quan Ly Chat Luong / Iso,Cong ty CP San Xuat Co khi Duy Phong,TP HCM,12.0
+(Nam) Nhan Vien Kinh Doanh Den Chieu Sang Thu Nhap Tren 10 Trieu- Di Lam Ngay,Cong Ty TNHH TMDV The He Xanh.,TP HCM,12.5
+Nhan Vien Sales Duoc My Pham Nhat Thu Nhap Den 10 Trieu / Thang (Nhan Viec Sau Tet),Cong Ty Co Phan Cong Ket Noi Sato,Ha Noi,23.5
+Nhan Vien Sales Duoc My Pham Nhat Thu Nhap Den 10 Trieu / Thang (Nhan Viec Sau Tet),Cong Ty Co Phan Cong Ket Noi Sato,TP HCM,23.5
+Nhan Vien Phuc Vu (He Thong Tra Sua Hot&cold),Cong Ty TNHH La Cam (He Thong Tra Sua Va Xien Que Hot&Cold),TP HCM,5.5
+"(Quan 1, HCM) Nhan Vien Thiet Ke Bo Mach Deo Fpc",Cong Ty TNHH Thiet Bi Ots Viet Nam,TP HCM,7.5
+Giam Sat Kinh Doanh (Nghanh Son),"Cong Ty 4 Oranges Co.,ltd",Binh Thuan,10.0
+Ke Toan Hoa Don,Cong Ty Trach Nhiem Huu Han Thuong Mai Nguyen Chi,Ha Noi,10.0
+Import - Export Executive (Temporary Contract 12 Months),Cong Ty Lien Doanh Orana Viet Nam,TP HCM,11.0
+Tai Xe Lai Xe Dau D,Cong Ty TNHH Du Lich Va Dich Vu Van Chuyen Hoang Hai Tung,Quang Nam,8.5
+Tai Xe Lai Xe Dau D,Cong Ty TNHH Du Lich Va Dich Vu Van Chuyen Hoang Hai Tung,Da Nang,8.5
+Ke Toan Cong No (Di Lam Sau Tet),Cong Ty Trach Nhiem Huu Han Thuong Mai Nguyen Chi,Ha Noi,8.5
+Giam Sat Nha Hang,Cong Ty TNHH La Cala By Mia,TP HCM,12.5
+Graphic Designer,Cong Ty TNHH A New Day Sh Group,TP HCM,12.5
+Nhan Vien Thu Hoi No Truc Tiep Hoa Binh,Cong Ty Tai Chinh TNHH Hd Saison,Hoa Binh,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Thai Nguyen,Cong Ty Tai Chinh TNHH Hd Saison,Thai Nguyen,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Cao Bang,Cong Ty Tai Chinh TNHH Hd Saison,Cao Bang,20.0
+Bac Ninh - Nhan Vien Thu Hoi No Truc Tiep,Cong Ty Tai Chinh TNHH Hd Saison,Bac Ninh,17.5
+Bac Ninh - Nhan Vien Thu Hoi No Truc Tiep,Cong Ty Tai Chinh TNHH Hd Saison,Ha Giang,17.5
+Bac Ninh - Nhan Vien Thu Hoi No Truc Tiep,Cong Ty Tai Chinh TNHH Hd Saison,Ha Nam,17.5
+"Nhan Vien Thu Hoi No - Soc Trang, Hau Giang",Cong Ty Tai Chinh TNHH Hd Saison,Hau Giang,20.0
+"Nhan Vien Thu Hoi No - Soc Trang, Hau Giang",Cong Ty Tai Chinh TNHH Hd Saison,Soc Trang,20.0
+Nhan Vien Tu Van Tin Dung Kenh Tra Gop,Cong Ty Tai Chinh TNHH Hd Saison,Ha Noi,11.5
+Nhan Vien Tu Van Tin Dung Kenh Tra Gop,Cong Ty Tai Chinh TNHH Hd Saison,Hai Duong,11.5
+Nhan Vien Tu Van Tin Dung Kenh Tra Gop,Cong Ty Tai Chinh TNHH Hd Saison,Hung Yen,11.5
+"Nhan Vien Thu Hoi No Tai Tay Ninh, Binh Duong",Cong Ty Tai Chinh TNHH Hd Saison,Binh Duong,11.0
+"Nhan Vien Thu Hoi No Tai Tay Ninh, Binh Duong",Cong Ty Tai Chinh TNHH Hd Saison,Tay Ninh,11.0
+Nhan Vien Thu Hoi No Tai Binh Phuoc,Cong Ty Tai Chinh TNHH Hd Saison,Binh Phuoc,11.0
+"Nhan Vien Thu Hoi No Tai Lam Dong, Binh Thuan",Cong Ty Tai Chinh TNHH Hd Saison,Binh Thuan,11.0
+"Nhan Vien Thu Hoi No Tai Lam Dong, Binh Thuan",Cong Ty Tai Chinh TNHH Hd Saison,Lam Dong,11.0
+Nhan Vien Thu Hoi No Tai Quang Ninh,Cong Ty Tai Chinh TNHH Hd Saison,Quang Ninh,20.0
+Nhan Vien Thu Hoi No Tai Hai Duong,Cong Ty Tai Chinh TNHH Hd Saison,Hai Duong,20.0
+Nhan Vien Thu Hoi No Truc Tiep Tai Nha Khu Vuc Bac Giang,Cong Ty Tai Chinh TNHH Hd Saison,Bac Giang,20.0
+Nhan Vien Thu Hoi No - Kien Giang,Cong Ty Tai Chinh TNHH Hd Saison,Kien Giang,17.5
+Nhan Vien Thu Hoi No - Vinh Long,Cong Ty Tai Chinh TNHH Hd Saison,Vinh Long,17.5
+Nhan Vien Thu Hoi No - Tra Vinh,Cong Ty Tai Chinh TNHH Hd Saison,Tra Vinh,17.5
+Nhan Vien Thu Hoi No - Long An,Cong Ty Tai Chinh TNHH Hd Saison,Long An,17.5
+Nhan Vien Thu Hoi No - Ben Tre,Cong Ty Tai Chinh TNHH Hd Saison,Ben Tre,17.5
+"Nhan Vien Thu Hoi No Truc Tiep Tai Moc Chau, Phu Yen - Son La",Cong Ty Tai Chinh TNHH Hd Saison,Son La,20.0
+Nhan Vien Giao Hang Tai Tuyen Quang,Cong Ty TNHH Shopee Express,Tuyen Quang,11.0
+Nhan Vien Giao Hang Tai Hai Duong,Cong Ty TNHH Shopee Express,Hai Duong,11.0
+Nhan Vien Giao Hang Tai Ninh Binh,Cong Ty TNHH Shopee Express,Ninh Binh,11.0
+Nhan Vien Giao Hang Tai Ha Nam,Cong Ty TNHH Shopee Express,Ha Nam,11.0
+Nhan Vien Giao Hang Tai Thanh Hoa,Cong Ty TNHH Shopee Express,Thanh Hoa,11.0
+Nhan Vien Giao Hang Tai Dien Bien,Cong Ty TNHH Shopee Express,Dien Bien,11.0
+Nhan Vien Giao Hang Tai Quang Ninh,Cong Ty TNHH Shopee Express,Quang Ninh,11.0
+Nhan Vien Giao Hang Tai Lao Cai,Cong Ty TNHH Shopee Express,Lao Cai,11.0
+Nhan Vien Giao Hang Tai Dak Nong,Cong Ty TNHH Shopee Express,Dak Nong,11.0
+Nhan Vien Giao Hang Tai Quang Nam,Cong Ty TNHH Shopee Express,Quang Nam,11.0
+Nhan Vien Giao Hang Tai Kon Tum,Cong Ty TNHH Shopee Express,Kon Tum,11.0
+Nhan Vien Giao Hang Tai Hau Giang,Cong Ty TNHH Shopee Express,Hau Giang,11.0
+Nhan Vien Giao Hang Tai Binh Phuoc,Cong Ty TNHH Shopee Express,Binh Phuoc,11.0
+Nhan Vien Giao Hang Tai Tay Ninh,Cong Ty TNHH Shopee Express,Tay Ninh,11.0
+Nhan Vien Giao Hang Tai Binh Dinh,Cong Ty TNHH Shopee Express,Binh Dinh,11.0
+Nhan Vien Giao Hang Tai Khanh Hoa,Cong Ty TNHH Shopee Express,Khanh Hoa,11.0
+Nhan Vien Giao Hang Tai Quang Binh,Cong Ty TNHH Shopee Express,Quang Binh,11.0
+Nhan Vien Giao Hang Tai Nghe An,Cong Ty TNHH Shopee Express,Nghe An,11.0
+Nhan Vien Giao Hang Tai Ha Tinh,Cong Ty TNHH Shopee Express,Ha Tinh,11.0
+Nhan Vien Giao Hang Tai Binh Thuan,Cong Ty TNHH Shopee Express,Binh Thuan,11.0
+Truong Tram Giao Nhan Tai Hung Yen,Cong Ty TNHH Shopee Express,Hung Yen,10.0
+Truong Tram Giao Nhan Tai Quang Ninh,Cong Ty TNHH Shopee Express,Quang Ninh,10.0
+Truong Tram Giao Nhan Tai Hai Phong,Cong Ty TNHH Shopee Express,Hai Phong,10.0
+Truong Tram Giao Nhan Tai Nam Dinh,Cong Ty TNHH Shopee Express,Nam Dinh,10.0
+Truong Tram Giao Nhan Tai Phu Tho,Cong Ty TNHH Shopee Express,Phu Tho,10.0
+Truong Tram Giao Nhan Tai Long An,Cong Ty TNHH Shopee Express,Long An,10.0
+Truong Tram Giao Nhan Tai Quang Nam,Cong Ty TNHH Shopee Express,Quang Nam,10.0
+Truong Tram Giao Nhan Tai Binh Phuoc,Cong Ty TNHH Shopee Express,Binh Phuoc,10.0
+Truong Tram Giao Nhan Tai Tay Ninh,Cong Ty TNHH Shopee Express,Tay Ninh,10.0
+Nhan Vien Giao Hang Tai Hung Yen,Cong Ty TNHH Shopee Express,Hung Yen,11.0
+Nhan Vien Giao Hang Tai Hoa Binh,Cong Ty TNHH Shopee Express,Hoa Binh,11.0
+Giam Sat Ban Hang - Nghe An,Cong Ty TNHH Nuoc Giai Khat Suntory Pepsico Viet Nam,Bac Giang,27.0
+Ky Thuat Dien Tai Go Vap,Cong Ty TNHH Dich Vu Ky Thuat Dien Psc,TP HCM,8.5
+Nhan Vien Tu Van Thu Hoi Khoan Vay (Co The Nhan Sau Tet),Cong Ty TNHH Collectius Cms Viet Nam,TP HCM,10.5
+Truong Quay Che Bien Thuc An,He Thong Big C Viet Nam (Cong Ty TNHH Dich Vu EB),Thai Binh,8.5
+Sale Tour - Nhan Vien Kinh Doanh Tour Du Lich,Carnival - Cty TNHH MTV DV DL Le Hoi,TP HCM,7.5
+Chuyen Vien Phap Che (Di Lam Ngay),Cong Ty TNHH Elipsport,TP HCM,22.5
+Quan Ly San Xuat Sen,Cong Ty TNHH Yaban Chain Industrial VIET NAM,Binh Duong,12.5
+"Quan Ly Trinh Duoc Vien (Mien Tay, Mien Dong, Tay Nguyen)",Cong Ty TNHH TM Botania,Tien Giang,22.5
+"Quan Ly Trinh Duoc Vien (Mien Tay, Mien Dong, Tay Nguyen)",Cong Ty TNHH TM Botania,Vinh Long,22.5
+"Quan Ly Trinh Duoc Vien (Mien Tay, Mien Dong, Tay Nguyen)",Cong Ty TNHH TM Botania,Dak Lak,22.5
+"Quan Ly Trinh Duoc Vien (Mien Tay, Mien Dong, Tay Nguyen)",Cong Ty TNHH TM Botania,Dong Nai,22.5
+"Quan Ly Trinh Duoc Vien (Mien Tay, Mien Dong, Tay Nguyen)",Cong Ty TNHH TM Botania,Dong Thap,22.5
+Nhan Vien Van Hanh May Tien- Phay CNC,Cong Ty TNHH Ky Nghe Soi,TP HCM,8.5
+Nhan Vien Van Hanh May Tien- Phay CNC,Cong Ty TNHH Ky Nghe Soi,Binh Duong,8.5
+Nhan Vien Kinh Doanh Dai Ly / Diem Ban,Cong Ty Co Phan Dau Tu Tai Chinh Pfs,TP HCM,17.0
+Cham Soc Khach Hang Qua Dien Thoai,Cong Ty TNHH Vuong Tung,Binh Duong,10.0
+Graphic Designer-Nhan Vien Thiet Ke,Cong Ty TNHH Thuong Mai Thuy San Thien Nha Tom,TP HCM,11.0
+Trinh Duoc Vien Kenh Benh Vien - Binh Duong,Cong Ty TNHH Merap Trading,Binh Duong,16.0
+Truong Phong Ke Hoach San Xuat,Cong Ty TNHH Ho Nai II,Dong Nai,17.5
+Nhan Vien Lao Cong,Cong Ty Co Phan Serepok,TP HCM,7.5
+Ke Toan Vien - Di Lam Ngay (Co The Di Lam Sau Tet),Cong Ty TNHH In Duong Sat,Ha Noi,10.5
+Nhan Vien Ky Thuat Nhan Viec Ngay,Cong Ty Co Phan Giai Phap Ky Thuat Viet,TP HCM,12.5
+Nhan Vien Ky Thuat Nhan Viec Ngay,Cong Ty Co Phan Giai Phap Ky Thuat Viet,Binh Dinh,12.5
+Nhan Vien Ky Thuat Nhan Viec Ngay,Cong Ty Co Phan Giai Phap Ky Thuat Viet,Ca Mau,12.5
+Nhan Vien Ky Thuat Nhan Viec Ngay,Cong Ty Co Phan Giai Phap Ky Thuat Viet,Kien Giang,12.5
+Nhan Vien Ky Thuat Nhan Viec Ngay,Cong Ty Co Phan Giai Phap Ky Thuat Viet,Quang Ngai,12.5
+Truong Phong Kinh Doanh,Cong Ty TNHH Thiet Bi Tu Dong Bao Phuc,TP HCM,20.0
+Nhan Vien Ky Thuat Smt,Cong Ty TNHH Nexcon Viet Nam,Bac Ninh,14.5
+Ke Toan Thue,Cong Ty CP PT TM Va DT Bac Hai,Ha Noi,13.5
+General Manager - Cong Ty Han Quoc Chuan Bi Hoat Dong (Upto 50 Trieu),Cong Ty TNHH Phat Trien Nhan Luc Quoc Gia Hrvalu,Ha Noi,45.0
+Pattern / Cad Experienced Staffs,Cong ty TNHH Bando Vina,TP HCM,17.5
+Nhan Vien Le Tan,Cong Ty CP Tt Va Tham Dinh Gia Tay Nam Bo-Siac,TP HCM,6.5
+"Nhan Vien Ky Thuat Thoi Chai Lam Viec Tai Kcn Dong Nam, Cu Chi, Tp.HCM.",Cong Ty TNHH Bao Bi Alpla (Viet Nam),TP HCM,9.0
+"Nhan Vien QC Line - Nganh Thuc Pham , Fmcg - Thu Dau Mot, Binh Duong",Cong Ty TNHH Lotte Viet Nam,Binh Duong,7.5
+Nhan Vien Hanh Chinh - Nhan Su,Cong Ty Co Phan Song Truyen Thong,Ha Noi,8.5
+Nhan Vien Kinh Doanh - Thu Nhap Len Den 15 Trieu,Cong Ty Tnhh San Xuat Thuong Mai K-Decor,Ha Noi,11.5
+Giao Vien Anh Van - Quan 12,Trung Tam Ngoai Ngu Dong Phuong Moi,TP HCM,11.0
+Nhan Vien Ky Thuat Livestream,Cong Ty TNHH Orro Home,TP HCM,12.0
+Nhan Vien Quan Ly Kol / Koc - Biet Tieng Trung,Cong Ty TNHH Orro Home,TP HCM,15.0
+Nhan Vien Livestream Ban Hang,Cong Ty TNHH Orro Home,TP HCM,14.0
+Nhan Vien Giat Ui,Cong Ty Co Phan San Xuat - Thuong Mai - Dich Vu - Xuat Nhap Khau Long Thanh,TP HCM,7.0
+Nhan Vien Thu Phi - Tram Thu Phi (Phu My Hung - Q7),Cong Ty Trach Nhiem Huu Han Phat Trien Phu My Hung,TP HCM,8.5
+Nhan Vien Bao Ve Noi Bo - Di Lam Ngay,Cong Ty Trach Nhiem Huu Han Phat Trien Phu My Hung,TP HCM,7.5
+Nhan Vien Bao Ve Truc Phong May Camera (Lam Viec Tai Bac Ninh),Cong Ty Trach Nhiem Huu Han Phat Trien Phu My Hung,Bac Ninh,6.0
+"Tu Van Vien - CSKH (Nghi 2 Ngay / Tuan, Data, Laptop Co San)",Cong Ty TNHH Tele247 Global,Ha Noi,20.0
+"Tu Van Vien - CSKH (Nghi 2 Ngay / Tuan, Data, Laptop Co San)",Cong Ty TNHH Tele247 Global,TP HCM,20.0
+Nhan Vien Ke Toan - Di Lam Sau Tet,Cong Ty Co Phan Vlxd Minh Hanh,Ha Noi,14.0
+Can Bo Ho So QA / QC,CONG TY TNHH XAY DUNG VA NOI THAT RICO,Ha Noi,15.0
+Truong Phong Kinh Doanh Tour Du Lich,Cong Ty TNHH Mot Thanh Vien Thuong Mai Dich Vu Doi Xanh,TP HCM,32.5
+Nhan Vien Thiet Ke Tour,Cong Ty TNHH Mot Thanh Vien Thuong Mai Dich Vu Doi Xanh,TP HCM,12.5
+Nhan Vien Sale Tour Online,Cong Ty TNHH Mot Thanh Vien Thuong Mai Dich Vu Doi Xanh,TP HCM,20.0
+Nhan Vien Ke Toan Tong Hop,Cong Ty Co Phan Tap Doan To Chuc Trien Lam Quoc Te Xay Dung Vietbuild,TP HCM,13.5
+Nhan Vien Tap Vu Van Phong Va Can Ho (Di Lam Ngay),Dntn Nguyen Phong Lan,TP HCM,8.0
+Ky Su Trung Cap Dien - Dien Lanh (Di Lam Ngay),Dntn Nguyen Phong Lan,TP HCM,10.5
+Nhan Vien Thu Ngan Tham My Vien,CONG TY TNHH SAI GON NEW BEAUTY CENTER,TP HCM,9.0
+Nhan Vien Ban Hang / Nhan Vien Khu Vui Choi (Lottemart Q.7),Cong Ty TNHH Aeon Fantasy Viet Nam,TP HCM,6.5
+Nhan Vien Ban Hang / Huong Dan Tai Khu Vui Choi Tre Em (Full-Time Hoac Part-Time),Cong Ty TNHH Aeon Fantasy Viet Nam,TP HCM,6.5
+Nhan Vien Ban Hang / Huong Dan Tai Khu Vui Choi Tre Em (Full-Time Hoac Part-Time),Cong Ty TNHH Aeon Fantasy Viet Nam,Binh Duong,6.5
+Ky Su Hoa (Nhan Vien QC) - Di Lam Ngay,Cong Ty TNHH Hs,Long An,10.5
+Nhan Vien May Mau,Cong Ty CP May Sai Gon 3,TP HCM,10.0
+Nhan Vien May Mau,Cong Ty CP May Sai Gon 3,Dong Nai,10.0
+Nhan Vien Ban Hang Kiem Phu Dong Goi,Co So Kinh Doanh Truong Phat,TP HCM,10.0
+"Nhan Vien Ke Toan Tong Hop Tai Quan 7, Nha Be, Quan 8.",Cong Ty Co Phan Thiet Ke Noi That Trung Nam,TP HCM,13.5
+Ky Su Xay Dung Cau Duong / Giao Thong,Cong Ty Co Phan San Xuat Cong Nghiep Xay Lap 3,Bac Lieu,20.0
+Ky Su Xay Dung Cau Duong / Giao Thong,Cong Ty Co Phan San Xuat Cong Nghiep Xay Lap 3,Ca Mau,20.0
+Ky Su Xay Dung Cau Duong / Giao Thong,Cong Ty Co Phan San Xuat Cong Nghiep Xay Lap 3,Can Tho,20.0
+Ky Su Xay Dung Cau Duong / Giao Thong,Cong Ty Co Phan San Xuat Cong Nghiep Xay Lap 3,Soc Trang,20.0
+Ky Su Xay Dung Cau Duong / Giao Thong,Cong Ty Co Phan San Xuat Cong Nghiep Xay Lap 3,Vinh Long,20.0
+Nhan Vien Ky Thuat Dien (Nhan Viec Ngay),Cong Ty Trach Nhiem Huu Han Walla Vietnam,TP HCM,11.5
+Nhan Vien Telesales,Cong Ty TNHH Vip Smart Business Solutions,Da Nang,21.5
+Giam Sat Kinh  Doanh,Cong Ty Co Phan Ban Le Inmode,TP HCM,20.0
+Nhan Vien QA / QC,Cong Ty Co Phan Thuc Pham Vinh Thanh Dat,TP HCM,12.5
+Nhan Vien Kinh Doanh (Linh Vuc San Xuat Ac Quy) - Thu nhap 10-20 Trieu,Cong Ty Tnhh Cong Nghiep Ac Quy Hai Phong,Hai Phong,15.0
+Nhan Vien Kinh Doanh Thi Truong,Bailide Technology,Ha Noi,15.0
+Nhan Vien Kinh Doanh Thi Truong,Bailide Technology,Hai Phong,15.0
+Nhan Vien Kinh Doanh Thi Truong,Bailide Technology,Khanh Hoa,15.0
+Ke Toan Tong Hop,Cong Ty Co Phan Ung Dung Cong Nghe Minh Ha,TP HCM,9.0
+Kien Truc Su Khai Trien,Cong Ty TNHH Hong Lam - Ma Da Gui,TP HCM,22.5
+Kien Truc Su Khai Trien,Cong Ty TNHH Hong Lam - Ma Da Gui,Lam Dong,22.5
+Kien Truc Su Thiet Ke Noi That,Cong Ty TNHH Hong Lam - Ma Da Gui,TP HCM,20.0
+[Quang Nam / Binh Duong / Tay Ninh] Kiem Soat Vien,ABBank - Ngan Hang TMCP An Binh,Binh Duong,11.0
+[Quang Nam / Binh Duong / Tay Ninh] Kiem Soat Vien,ABBank - Ngan Hang TMCP An Binh,Quang Nam,11.0
+[Quang Nam / Binh Duong / Tay Ninh] Kiem Soat Vien,ABBank - Ngan Hang TMCP An Binh,Tay Ninh,11.0
+Nhan Vien Kinh Doanh (Di Lam Ngay),Chi Nhanh Cong Ty Tnhh J.H.Young Viet Nam,TP HCM,8.5
+Nhan Vien Giao Hang Thu Nhap 10 Trieu Tai Go Vap,Cong ty TNHH san xuat va thuong mai ket sat Viet Tiep,TP HCM,12.5
+Ke Toan Tong Hop,Chi Nhanh Cong Ty Tnhh J.H.Young Viet Nam,TP HCM,10.0
+Nhan Vien QC,Cong Ty TNHH Mot Thanh Vien San Xuat Thuong Mai Che Bien Thuc Pham Vi Huy,Long An,10.0
+Nhan Vien Ke Toan Tong Hop,Cong Ty Co Phan Truyen Thong Vmark,Ha Noi,12.5
+Nhan Kinh Kinh Doanh Ban Hang Tai Cho - Nhan Vien Thau,Cong Ty TNHH Thuong Mai Y Te Phu Gia,TP HCM,12.5
+Lao Dong Pho Thong Di Lam Ngay,Cong Ty TNHH Bio Sun,TP HCM,8.5
+Nhan Vien Thiet Ke Noi That,Cong Ty Co Phan AVT INTERNATIONAL,TP HCM,11.0
+"Tro Ly Quan Ly/ Giam Sat The Pizza Company, Kem Swensen's, Dairy Queen",Cong Ty Co Phan Pizza Ngon,Ha Noi,9.0
+"Tro Ly Quan Ly/ Giam Sat The Pizza Company, Kem Swensen's, Dairy Queen",Cong Ty Co Phan Pizza Ngon,Hai Phong,9.0
+"Tro Ly Quan Ly/ Giam Sat The Pizza Company, Kem Swensen's, Dairy Queen",Cong Ty Co Phan Pizza Ngon,Nam Dinh,9.0
+"Ke Toan Kinh Doanh (Binh Dinh, Phu Yen)",Cn Cong Ty TNHH Xay Dung Hoa My Tai Binh Dinh,Binh Dinh,8.5
+"Ke Toan Kinh Doanh (Binh Dinh, Phu Yen)",Cn Cong Ty TNHH Xay Dung Hoa My Tai Binh Dinh,Phu Yen,8.5
+"Truong Phong Kinh Doanh (Binh Dinh, Phu Yen)",Cn Cong Ty TNHH Xay Dung Hoa My Tai Binh Dinh,Binh Dinh,11.5
+"Truong Phong Kinh Doanh (Binh Dinh, Phu Yen)",Cn Cong Ty TNHH Xay Dung Hoa My Tai Binh Dinh,Phu Yen,11.5
+"Nhan Vien Kinh Doanh - Sale (Binh Dinh, Phu Yen)",Cn Cong Ty TNHH Xay Dung Hoa My Tai Binh Dinh,Binh Dinh,9.5
+"Nhan Vien Kinh Doanh - Sale (Binh Dinh, Phu Yen)",Cn Cong Ty TNHH Xay Dung Hoa My Tai Binh Dinh,Phu Yen,9.5
+Ky Su Co Khi,Cong Ty Co Phan Co Khi Dknec,Ha Nam,16.0
+Bac Si Rang Ham Mat Tai Quang Nam (Nhan Viec Sau Tet),Cong Ty Co Phan Phong Kham Da Khoa Trong Nhan - Quang Nam,Quang Nam,14.0
+Nhan Vien IT Phan Cung,Cong Ty Co Phan Dau Tu Va Cong Nghiep Tan Tao - Tap Doan Tan Tao (Itaco),Long An,8.5
+Nhan Vien Ban Phap Ly - Co Chung Chi Hanh Nghe Luat Su,Cong Ty Co Phan Dau Tu Va Cong Nghiep Tan Tao - Tap Doan Tan Tao (Itaco),TP HCM,17.5
+Nhan Vien Ky Thuat May Tinh - May In - Camera Tai Thanh Tri (Di Lam Sau Tet),Cong Ty TNHH Thuong Mai Va Dich Vu Shc,Ha Noi,11.0
+Nhan Vien Cham Soc Khach Hang,Phong Kham Da Khoa Thu Dau Mot (Cong Ty TNHH MTV Dich Vu Y Te Nguyen Trai),Binh Duong,13.5
+Nhan Vien Kinh Doanh Nganh Nguyen Lieu Thuc Pham,Cong Ty Co Phan Nguyen Lieu Thuc Pham Monova,TP HCM,15.0
+Nhan Vien Ban Hang - Hang Thoi Trang Puma,Cong Ty Co Phan Maison Retail Management International,Ha Noi,10.0
+Nhan Vien Tu Van Bao Hiem Suc Khoe (Data Co San),Cong Ty Tai Chinh TNHH Ngan Hang Viet Nam Thinh Vuong SMBC,TP HCM,11.5
+Nhan Vien Kinh Doanh Hai Phong,Cong Ty Co Phan Phan Phoi Quoc Te Genex,Hai Phong,17.5
+Fp & A Trainee (Chuyen Vien Tai Chinh),Cong Ty TNHH Crystal Elegance  Textiles Viet Nam,Binh Duong,22.5
+"Ky Su Du An M&E (Quan 2, Tp.HCM)",Cong Ty TNHH Thuong Mai Va Cong Nghe Ky Thuat Tnt,TP HCM,15.5
+Product Marketing Executive (Luong Upto 25 Trieu).,Cong Ty Co Phan Seadent,TP HCM,20.5
+Nhan Vien Kinh Doanh Thi Truong Kenh Sieu Thi (Mt),Cong Ty CP QC Thuong Mai Dong Xanh,TP HCM,12.5
+Nhan Vien Buu Ta Lam Viec Tai Ha Noi (Luong 10-30 Trieu),Chi Nhanh Buu Chinh Viettel Ha Noi - Tong Cong Ty Co Phan Buu Chinh Viettel,Ha Noi,20.0
+Nhan Vien Kinh Doanh Tai Bac Giang,Cong Ty Ajinomoto Viet Nam,Bac Giang,11.0
+Nhan Vien Kinh Doanh My Pham - Nhan Viec Ngay - Thu Nhap Den 20 Trieu / Thang,Cong Ty TNHH Thuong Mai Quoc Te Thu Vu,Ha Noi,13.5
+Nhan Vien Tu Van Ban Hang,Academie Beaute Viet Nam,Ha Noi,16.0
+Nhan Vien Tu Van Ban Hang,Academie Beaute Viet Nam,TP HCM,16.0
+Ky Su Nong Nghiep,"Cong Ty Trach Nhiem Huu Han Thuong Mai, Dich Vu, San Xuat, Xnk Duc Thanh",Tay Ninh,10.0
+Ke Toan Kho Luong Upto 10 Trieu (Nhan Viec Ngay),Cong Ty TNHH Nong San Dung Ha,Ha Noi,8.5
+"Nhan Vien Kinh Doanh Thuc Pham Nhap Khau: Bo My, Bo Uc, Bo Canada Va Thuy Hai San",Cong Ty TNHH Thuc Pham Chim Lac,Ha Noi,15.0
+Ke Toan Truong,Cong Ty Co Phan Nghia Hoang Phuc,Binh Duong,17.5
+[Chay Tot Market] Quan Ly Sieu Thi,Fashion Minh Thu (Cong ty TNHH TM Thoi Trang Minh Thu),TP HCM,12.5
+Nhan Vien Ky Su Dien,Cong Ty Co Phan Dau Tu Xay Dung Token Viet Nam,Ha Noi,12.5
+Ky Su Hien Truong He Thong Dien Nhe Va CNTT,Cong Ty TNHH Bmat,Ha Noi,17.5
+Nhan Vien Co Khi (Lap Trinh Va Van Hanh CNC),Cong Ty TNHH Stolz-Miras (Viet Nam),Dong Nai,9.5
+Nhan Vien Quay Phim Tai Quan 12- Di Lam Ngay,Cong Ty TNHH Fighter Viet Nam - Sieu Thi Vo Thuat Viet Nam,TP HCM,11.5
+Nhan Vien In Thiet Ke  3D,Cong Ty Co Phan San Xuat - Thuong Mai - Dich Vu - Xuat Nhap Khau Long Thanh,TP HCM,12.0
+Kien Truc Su (Biet Phan Mem 3Ds),Cty CP Tk - Xd Va DT Kien Thiet Viet,TP HCM,14.0
+Nhan Vien PG,Cong Ty TNHH MTV Phan Phoi Sai Gon Co.Op,TP HCM,7.0
+Nhan Vien Kinh Doanh Vat Tu Nganh In An Bao Bi,Cong Ty TNHH Basitech,TP HCM,11.0
+Chuyen Vien Ke Toan Tong Hop,Cong Ty Co Phan Tap Doan Giai Phap Viet Nam,Ha Noi,12.5
+Nhan Vien Tu Van Qua Dien Thoai - Telemarketer (Thuong Hieu Hypoxi),California Fitness And Yoga Centers,TP HCM,6.5
+"Nhan Vien Ke Toan Tai Nhon Trach, Dong Nai",He Thong Ban Le Viettel Store,Dong Nai,8.5
+Nhan Vien Bartender - Pha Che,Phattys Bar And Grill - Cong Ty TNHH Nha Hang Duc Nhan,TP HCM,7.0
+"Ke Toan Ban Hang Khong Yeu Cau Cao, Co Dao Tao",Cong Ty Co Phan Dau Tu Kinh Te Hong Ha,Ha Noi,7.5
+Ke Toan Tong Hop (10-15 Trieu),Cong Ty Co Phan Phan Phoi Thuc Pham Truy Xuat Nguon Goc An Phat,Ha Noi,12.5
+Bep Truong Thu Nhap Tren 15 Trieu,Cong Ty Co Phan Phan Phoi Thuc Pham Truy Xuat Nguon Goc An Phat,Ha Noi,17.5
+Nhan Vien Kinh Doanh (Mang Dich Vu Y Te),Cong Ty TNHH Phong Kham Da Khoa Ngoc Minh,TP HCM,9.0
+Nghe An - Thu Kho,Cong ty CP Chuoi Thuc Pham TH,Nghe An,7.5
+Truong Phong Kinh Doanh Bat Dong San - Chu Dau Tu,Cong Ty Co Phan Kinh Doanh Bat Dong San Cat Tuong Land,Can Tho,23.0
+Ke Toan Ban Hang (Hoan Kiem - Ha Noi) - Phong Van Di Lam Ngay,Cong Ty Co Phan TM Anh Thu,Ha Noi,8.5
+Truong Phong Kinh Doanh Hoa Hong 20-100 Trieu - Di Lam Ngay,Cong Ty Co Phan Viet Nhan Hai Phong,Hai Phong,60.0
+Chuyen Vien Quan He Khach Hang,Cong Ty TNHH Bao Hiem Nhan Tho AIA Viet Nam,TP HCM,38.0
+[Binh Duong-HCM] Giam Sat Ca Nha Hang Pizza Hut,Cong Ty TNHH Pizza Viet Nam,TP HCM,8.5
+[Binh Duong-HCM] Giam Sat Ca Nha Hang Pizza Hut,Cong Ty TNHH Pizza Viet Nam,Binh Duong,8.5
+Ky Su Nong Nghiep,Cong Ty CP Che Bien Thuc Pham Xuat Khau G.O.C,Bac Giang,15.0
+"Giao Vien Tieng Anh - Popodoo Phuoc Long, Binh Phuoc (Chap Nhan Tro Giang) Di Lam Sau Tet",Cong Ty TNHH MTV Giao Duc Thanh Giang,Binh Phuoc,15.0
+Nhan Vien Kinh Doanh - Ho Chi Minh,Cong Ty Co Phan Thuong Mai Va Dau Tu Cong Nghe Vien Thong Moi,TP HCM,7.5
+Bien Hoa - Nhan Vien Ban Hang Thoi Trang Cao Cap,Cong Ty Co Phan Maison Retail Management International,Dong Nai,6.0
+Sales Executive (May Theu & May Cat),Cong Ty Trach Nhiem Huu Han Brother International (Viet Nam),TP HCM,15.0
+Quan Ly Dieu Hanh,Cong Ty TNHH Thuong Mai Loli,Ha Noi,12.5
+Nhan Vien Bep - Che Bien Banh (Tai Thu Duc),Cong Ty TNHH Banh Mi Tron Saigon,TP HCM,6.0
+Nhan Vien Ke Toan,Cong Ty CP Dien Nang Luong Vinh,Nghe An,8.0
+Ky Thuat Co Khi,Cong Ty TNHH Thuong Mai Xuat Nhap Khau Quoc Te Minh Giang,Hai Phong,10.0
+"Nhan Vien Xuat Nhap Khau Tai Binh Giang, Hai Duong",Cong Ty Co Phan Vitek,Hai Duong,12.0
+Nhan Vien Kinh Doanh,Cong Ty CP Son Ha Sai Gon,Binh Dinh,15.0
+Nhan Vien Kinh Doanh,Cong Ty CP Son Ha Sai Gon,Kon Tum,15.0
+Nhan Vien Kinh Doanh,Cong Ty CP Son Ha Sai Gon,Phu Yen,15.0
+Nhan Vien Kinh Doanh,Cong Ty CP Son Ha Sai Gon,Quang Nam,15.0
+Nhan Vien Kinh Doanh,Cong Ty CP Son Ha Sai Gon,Quang Binh,15.0
+Nhan Vien Kinh Doanh,Cong Ty CP Son Ha Sai Gon,Quang Tri,15.0
+Nhan Vien Kinh Doanh,Cong Ty CP Son Ha Sai Gon,Thua Thien Hue,15.0
+Nhan Vien Kinh Doanh,Cong Ty CP Son Ha Sai Gon,Da Nang,15.0
+Tro Ly Tu Van Tuyen Sinh,Truong Trung Hoc Co So Va Trung Hoc Pho Thong Pham Ngu Lao,TP HCM,8.0
+Quan Ly Tham My,Cong Ty TNHH Tham My Xuan Truong,TP HCM,22.5
+Nhan Vien Bao Tri Co Khi,Cong Ty TNHH Nakaumi Viet Nam,Ba Ria - Vung Tau,8.5
+Nhan Vien Van Hanh Pha Che,Cong Ty TNHH Tribeco Binh Duong,Binh Duong,6.5
+Nhan Vien Maketing Thiet Ke,Cong Ty TNHH Y Nha Khoa 3D,TP HCM,16.5
+Chuyen Vien Kiem Soat Noi Bo,Cong Ty CP Son Ha Sai Gon,TP HCM,14.5
+Bac Si Thu Y Trai Ga Long An & Dong Nai,Cong Ty TNHH De Heus,Long An,12.5
+Bac Si Thu Y Trai Ga Long An & Dong Nai,Cong Ty TNHH De Heus,Dong Nai,12.5
+Nhan Vien Ke Toan - Quan 10,Cong Ty Co Phan IPP VietNam,TP HCM,9.0
+"Nhan Vien Ban Hang My Pham Va Nuoc Hoa (Bvl, Loccitane, Clarins,sisley)",Cong Ty Co Phan Truong Xuan Viet (Halgroup),TP HCM,7.0
+Chuyen Vien Ban Hang & Trang Diem Thuong Hieu Nars Tai Ha Noi,Cong Ty TNHH My Pham Shiseido Viet Nam,Ha Noi,15.0
+Giao Dich Vien - Vinh,Ngan Hang TMCP Quoc Te Viet Nam (VIB),Nghe An,11.0
+Bep Chinh Chuyen A & Au,Cong Ty TNHH Eden Hotel Sai Gon,TP HCM,17.5
+Nhan Vien Ky Thuat Dien Lanh Lam Tai Quan 1,Cong Ty TNHH Eden Hotel Sai Gon,TP HCM,8.5
+Giam Sat Ve Sinh Nha May,Cong Ty TNHH Ca Phe Ngon,Dak Lak,7.0
+Bao Mau Truong Mam Non,Cong Ty Co Phan Dau Tu Va Phat Trien Tri Nhan Tam,TP HCM,8.0
+Nhan Vien Y Te Truong Hoc,Cong Ty Co Phan Dau Tu Va Phat Trien Tri Nhan Tam,TP HCM,8.0
+Nhan Vien R&D (10 - 13 Trieu),Cong Ty Co Phan Tap Doan Cong Nghiep Viet,Ha Noi,11.5
+To Truong San Xuat (Nganh May Ghe Nem - Sofa),Cong Ty TNHH SX-TM-DV Qui Phuc,TP HCM,17.5
+Nhan Vien Giam Sat Thi Cong (Hoang Mai - Ha Noi) - Ra Tet Di Lam,Cong Ty Co Phan Xay Dung Va Cong Nghe Hong Ha,Ha Noi,8.5
+Nhan Vien Phien Dich Tieng Han,Cong Ty TNHH Mega D&c,Ha Noi,11.0
+Nhan Vien Thu Ngan,Cong Ty TNHH Mega D&c,TP HCM,8.5
+Nhan Vien Kiem Soat Chat Luong (12 - 15 Trieu),Cong Ty Co Phan Tap Doan Cong Nghiep Viet,Ha Noi,13.5
+Nhan Vien Kiem Soat Chat Luong (12 - 15 Trieu),Cong Ty Co Phan Tap Doan Cong Nghiep Viet,Bac Ninh,13.5
+Nhan Vien Kiem Soat Chat Luong (12 - 15 Trieu),Cong Ty Co Phan Tap Doan Cong Nghiep Viet,Vinh Phuc,13.5
+Nhan Vien Tu Van,Cong Ty TNHH Bao Hiem Nhan Tho AIA (Viet Nam),TP HCM,25.0
+Sales Du An - Tu Dong Hoa,Cong Ty Co Phan Tap Doan Dat,Ha Noi,17.5
+Dai Dien Kinh Doanh - Khu Vuc Mien Trung,Cong Ty Co Phan Tap Doan Dat,Da Nang,12.5
+Ky Su Thiet Ke Tu Dong Hoa,Cong Ty Co Phan Tap Doan Dat,TP HCM,13.5
+Nhan Vien Ho Tro Kinh Doanh,Cong Ty Co Phan Tap Doan Dat,TP HCM,11.0
+Ky Su QS,Cong Ty Co Phan Tap Doan Dat,TP HCM,15.5
+Hanh Chinh Tong Hop,Cong Ty Tnhh Bmi Restaurant,Can Tho,8.5
+Mc Thoi Vu Tat Nien - Lam 4 Tieng,Cong Ty TNHH Silverland Ben Thanh,TP HCM,1.5
+Nhan Vien Nhan Su,Cong Ty TNHH Thiet Bi Va Cong Nghe Minh Ha,Ha Noi,11.0
+"Nhan Vien Truyen Thong Marketing (8-12Tr, Phong Van Sau Tet, Di Lam Luon)",Cong Ty TNHH Thiet Bi Va Cong Nghe Minh Ha,Ha Noi,10.0
+QS Engineering - Tap Doan Bat Dong San Han Quoc - Ha Noi (15Tr - 25Tr),Cong Ty TNHH Phat Trien Nhan Luc Quoc Gia Hrvalu,Ha Noi,20.0
+Civil Designer - Tap Doan Bat Dong San Han Quoc - Ha Noi (15Tr - 25Tr),Cong Ty TNHH Phat Trien Nhan Luc Quoc Gia Hrvalu,Ha Noi,20.0
+Nhan Vien Ky Thuat Vien Thong-Di Lam Ngay-Khong Yc Kinh Nghiem,Cong Ty Co Phan Vien Thong ACT,TP HCM,12.0
+Nhan Vien Kho,Cong ty Co Phan Dau Tu Xay Dung Hai Long,Bac Giang,10.5
+Nhan Vien Goi Ho Tro Livestream,Cong Ty TNHH Viet My -Ssu,TP HCM,4.0
+Nhan Vien Nhac Phi Khoan Vay - Quan Tan Binh,Cong Ty TNHH Callus,TP HCM,12.5
+Nhan Vien Tu Van Tai Chinh Thu Nhap Tu 10 Trieu Tro Len,Cong Ty TNHH Callus,TP HCM,12.5
+Chuyen Vien Quan Ly Ho So Vay Thu Nhap Tu 10 Trieu Tro Len,Cong Ty TNHH Callus,TP HCM,12.5
+Chuyen Vien Quan Ly Khoan Vay Khach Hang - Quan Tan Binh,Cong Ty TNHH Callus,TP HCM,12.5
+Chuyen Vien Xu Ly Ho So Vay Khach Hang Thu Nhap Tu 10 Trieu Tro Len,Cong Ty TNHH Callus,TP HCM,12.5
+Chuyen Vien Tu Van Ho So Tai Chinh Thu Nhap Tu 10 Trieu Tro Len,Cong Ty TNHH Callus,TP HCM,12.5
+Chuyen Vien Tu Van Ho So Lam Viec Tai Quan Tan Binh,Cong Ty TNHH Callus,TP HCM,12.5
+Chuyen Vien Tu Van Khach Hang Lam Viec Tai Quan Tan Binh,Cong Ty TNHH Callus,TP HCM,12.5
+Nhan Vien Thu Ngan Sieu Thi Hai Phong,Cong Ty TNHH Ban Le Brg,Hai Phong,7.5
+Nhan Vien Truyen Thong,Cong Ty Tnhh Van Hoa Va Truyen Thong Az Viet Nam,Ha Noi,7.0
+Nhan Vien Sang Tao Noi Dung Tiktok,Cong Ty Tnhh Van Hoa Va Truyen Thong Az Viet Nam,Ha Noi,7.0
+Nhan Vien Noi Bo,Cong Ty Tnhh Van Hoa Va Truyen Thong Az Viet Nam,Ha Noi,7.0
+Nhan Vien Telesales Tai Quan 12 (Nhan Viec Sau Tet),Cong Ty TNHH Thuong Mai & Dich Vu Ky Thuat Nam Phat,TP HCM,7.5
+Nhan Vien Ke Toan Tai Quan 12 (Nhan Viec Sau Tet),Cong Ty TNHH Thuong Mai & Dich Vu Ky Thuat Nam Phat,TP HCM,9.0
+Ky Su Vat Tu - Co Gioi,Cong Ty TNHH Thuong Mai Va Xay Dung Alpha Sai Gon,TP HCM,23.0
+Nhan Vien Kinh Doanh Quoc Te (San Pham Antenna),Cong Ty TNHH Seojin System Vina,Bac Ninh,15.0
+Nhan Vien Ky Thuat Van Hanh May Cat,Cong Ty TNHH Seojin System Vina,Bac Ninh,11.5
+Nhan Vien Lai Xe Container,Cong Ty Co Phan Logistics Vinalink,TP HCM,11.5
+Nhan Vien Kinh Doanh Biet Tieng Trung,Cong Ty Tnhh Kang Bang,TP HCM,15.0
+Nhan Vien Kinh Doanh (Tay Ninh),Cong Ty TNHH Thoi Trang Non Son,Tay Ninh,14.0
+Nhan Vien Kinh Doanh (Ba Ria - Vung Tau),Cong Ty TNHH Thoi Trang Non Son,Ba Ria - Vung Tau,14.0
+Nhan Vien Kinh Doanh (Binh Phuoc),Cong Ty TNHH Thoi Trang Non Son,Binh Phuoc,14.0
+Nhan Vien Kinh Doanh (Hai Phong),Cong Ty TNHH Thoi Trang Non Son,Hai Phong,14.0
+Nhan Vien Kinh Doanh (Cam Ranh),Cong Ty TNHH Thoi Trang Non Son,Khanh Hoa,14.0
+Nhan Vien Quan He Cong Chung (Tp.HCM),Arena Multimedia,TP HCM,14.0
+Nhan Vien Tap Vu Tai Spa Tan Phu,Cong Ty Co Phan Ojrt Beauty,TP HCM,6.5
+Digital Marketing (Long Bien - Ha Noi_ Di Lam Ngay),Cong Ty Co Phan Cong Nghe Plasma Ung Dung,Ha Noi,10.5
+Nhan Vien Ban Hang Kien Dien Thoai - Thu Nhap Den 15Tr,Cong Ty Co Phan Xuat Nhap Khau Va Thuong Mai Manigo,Ha Noi,12.5
+Nhan Vien Tuyen Dung Nguon Xkld Nhat Ban,Cong Ty TNHH Cung Ung Va Dao Tao Nhan Luc Quoc Te Dong Phuong,Ha Noi,15.0
+Nhan Vien Ky Thuat Co Khi - Luong Den 12 Trieu,Cong Ty TNHH Cong Nghiep Va Thuong Mai Asv,Ha Noi,10.0
+Ke Toan Cong No - Luong Upto 10 Trieu / Thang,Cong Ty TNHH Cong Nghiep Va Thuong Mai Asv,Ha Noi,8.5
+Nhan Vien Van Hanh May Chan - Luong Den 12 Trieu / Thang,Cong Ty TNHH Cong Nghiep Va Thuong Mai Asv,Ha Noi,10.0
+Nhan Vien Van Hanh May Cat Laser - Luong Den 12 Trieu / Thang,Cong Ty TNHH Cong Nghiep Va Thuong Mai Asv,Ha Noi,10.0
+Quan Ly Kinh Doanh (Thi Truong Campuchia Va Lao),Cong Ty TNHH SX-TM-DV Qui Phuc,TP HCM,35.0
+Nhan Vien Lai Xe Nang,Cong Ty TNHH Schneider Electric Manufacturing Viet Nam,TP HCM,8.0
+Nhan Vien Kho,Cong Ty TNHH Schneider Electric Manufacturing Viet Nam,TP HCM,8.0
+Nhan Vien Dieu Phoi Du An,Cong Ty TNHH Cna-Hte Viet Nam,Binh Duong,8.5
+Nhan Vien Ket Cau,Cong Ty TNHH Cna-Hte Viet Nam,Binh Duong,8.5
+[Dong Nai] Nhan Vien Dieu Khien Xe Nang,Cong ty TNHH Manpower Viet Nam,Dong Nai,11.0
+[Quan 7] Nhan Vien Thoi Vu Nha Hang Marukame Udon,Cong Ty Co Phan V Lotus Holdings,TP HCM,4.0
+Lap Trinh Vien Frontend,Benh Vien Da Khoa Quoc Te Bac Ha - Chi Nhanh Cong Ty TNHH Minh Hung,Ha Noi,18.5
+Lap Trinh Vien Backend .Net,Benh Vien Da Khoa Quoc Te Bac Ha - Chi Nhanh Cong Ty TNHH Minh Hung,Ha Noi,18.5
+Truong Nhom Phat Trien Phan Mem .Net,Benh Vien Da Khoa Quoc Te Bac Ha - Chi Nhanh Cong Ty TNHH Minh Hung,Ha Noi,27.5
+Nhan Vien Kiem Thu Phan Mem Quan Ly Benh Vien,Benh Vien Da Khoa Quoc Te Bac Ha - Chi Nhanh Cong Ty TNHH Minh Hung,Ha Noi,15.0
+[Dong Nai] Cong Nhan Dong Hang / Van Don Thoi Vu Kcn Amata,Cong ty TNHH Manpower Viet Nam,Dong Nai,11.5
+Nhan Vien Quan Ly Phu Trach Ngan Hang Lien Ket,Cong Ty Bao Hiem Vietinbank Dong Nai,Dong Nai,16.0
+Ky Su Xay Dung (Lam Viec Tai Van Phong & Cong Trinh - Phong Van Di Lam Ngay).,Cong Ty Co Phan Xay Dung Cong Nghiep Chi Thanh,TP HCM,17.5
+Ky Su Xay Dung (Lam Viec Tai Van Phong & Cong Trinh - Phong Van Di Lam Ngay),Cong Ty Co Phan Xay Dung Cong Nghiep Chi Thanh,TP HCM,17.5
+"Ky Su Xay Dung (Lam Viec Tai Van Phong & Cong Trinh),",Cong Ty Co Phan Xay Dung Cong Nghiep Chi Thanh,TP HCM,17.5
+Ky Su Xay Dung  (Lam Viec Tai Van Phong & Cong Trinh - Phong Van Di Lam Ngay),Cong Ty Co Phan Xay Dung Cong Nghiep Chi Thanh,TP HCM,17.5
+Nhan Vien Sale Marketing,Cong Ty TNHH Cham Soc Sac Dep Lynh Farma,Toan quoc,20.0
+Ke Toan Vien,Cong Ty TNHH MTV Tin Nha,TP HCM,8.5
+Advertising / Marketing Communications Manager,Cong Ty TNHH Silverland Ben Thanh,TP HCM,37.5
+Nhan Vien Tu Van My Pham Kiem Ky Thuat Vien Spa Face,TAP DOAN L'OREAL VIET NAM - NHAN HANG MY PHAM VICHY - CONG TY CO PHAN DICH VU PHAN PHOI TONG HOP QUOC TE,Ha Noi,14.0
+Nhan Vien Tu Van My Pham Kiem Ky Thuat Vien Spa Face,TAP DOAN L'OREAL VIET NAM - NHAN HANG MY PHAM VICHY - CONG TY CO PHAN DICH VU PHAN PHOI TONG HOP QUOC TE,TP HCM,14.0
+Nhan Vien Phap Che,Cong ty Co Phan Vacxin Viet Nam,TP HCM,12.5
+Ke Toan Noi Bo,Cong Ty Co Phan Duoc Pham Ecoland,Ha Noi,8.5
+Nhan Vien Dieu Phoi Hang Hoa,Cong Ty Co Phan Duoc Pham Ecoland,Ha Noi,9.0
+[Trang Bom]_Nhan Vien Cham Soc Khach Hang (Fulltime),Cong ty Co Phan Vacxin Viet Nam,Dong Nai,8.5
+Ke Toan Tong Hop - Di Lam Sau Tet,Cong Ty TNHH Silverland Ben Thanh,TP HCM,14.5
+Content Maretting - Tieng Trung,Cong Ty TNHH Cong Nghe Thong Tin Mf Viet Nam,TP HCM,22.5
+Nhan Vien Tu Van Online Qua Chat,Cong Ty TNHH Cong Nghe Thong Tin Mf Viet Nam,Ha Noi,14.0
+Nhan Vien Tu Van Online Qua Chat,Cong Ty TNHH Cong Nghe Thong Tin Mf Viet Nam,TP HCM,14.0
+To Truong Nha Hang Lau Mam Ba Du,Cong Ty TNHH MTV An Quy,TP HCM,7.0
+[Ben Tre]_Nhan Vien Cham Soc Khach Hang,Cong ty Co Phan Vacxin Viet Nam,Ben Tre,8.5
+Nhan Vien Thu Hoi No Tai Nha [Dong Thap + Bac Lieu] Di Lam Sau Tet,Home Credit Viet Nam,Bac Lieu,15.0
+Nhan Vien Thu Hoi No Tai Nha [Dong Thap + Bac Lieu] Di Lam Sau Tet,Home Credit Viet Nam,Dong Thap,15.0
+Nhan Vien Tu Van Tai Chinh,Cong Ty TNHH Bao Hiem Nhan Tho AIA (Viet Nam),TP HCM,25.0
+Nhan Vien Tu Van (Tan Binh),Cong Ty TNHH Bao Hiem Nhan Tho AIA (Viet Nam),TP HCM,25.0
+Nhan Vien Kinh Doanh,Cong Ty Co Phan Thuong Mai Tin Hoc Hung Long,Ha Noi,15.0
+Nhan Vien Kinh Doanh,Cong Ty Co Phan Thuong Mai Tin Hoc Hung Long,TP HCM,15.0
+Nhan Vien Kho Van,Cong Ty Co Phan Thuong Mai Tin Hoc Hung Long,Ha Noi,11.5
+Nhan Vien Ke Toan Kho,Cong Ty Co Phan Thuong Mai Tin Hoc Hung Long,Ha Noi,8.5
+Nhan Vien Ke Toan Kho,Cong Ty Co Phan Thuong Mai Tin Hoc Hung Long,TP HCM,8.5
+Lao Dong Pho Thong Thoi Vu (Lap Rap Linh Kien Dien Tu),Cong Ty TNHH Schneider Electric Manufacturing Viet Nam,TP HCM,8.5
+Nhan Vien Ki Thuat,Cong Ty TNHH Silverland Ben Thanh,TP HCM,11.0
+Thu Duc Nhan Vien Hanh Chinh,Cong ty Co Phan Vacxin Viet Nam,TP HCM,8.5
+Nhan Vien Tu Van Bao Hiem AIA,Cong Ty TNHH Bao Hiem Nhan Tho AIA (Viet Nam),TP HCM,25.0
+Nhan Vien Thu Kho Vat Lieu,Cong Ty Co Phan Pro Materials Viet Nam,Bac Ninh,9.0
+Truong Phong Thu Mua Xuat Nhap Khau (Tieng Anh-Trung),Cong Ty Co Phan Pro Materials Viet Nam,TP HCM,19.5
+Nhan Vien Sale Admin - Muc Luong Len Den 20 Trieu,Cong Ty Co Phan Pro Materials Viet Nam,Ha Noi,14.0
+Nhan Vien Sale Admin - Muc Luong Len Den 20 Trieu,Cong Ty Co Phan Pro Materials Viet Nam,TP HCM,14.0
+Cong Nhan San Xuat (Khong Yeu Cau Kinh Nghiem),Cong Ty Co Phan Pro Materials Viet Nam,TP HCM,10.5
+Cong Nhan San Xuat (Khong Yeu Cau Kinh Nghiem),Cong Ty Co Phan Pro Materials Viet Nam,Bac Ninh,10.5
+Nhan Vien Iso,Cong Ty TNHH Thuy Sam,Binh Duong,12.5
+Nhan Vien An Ninh Quay Sieu Thi,Cong Ty TNHH Ban Le Brg,Ha Noi,7.5
+Nhan Vien Ky Thuat May Atm (HCM Va Ha Noi),Cong Ty TNHH Giai Phap Va Dich Vu Nam Phuong,Ha Noi,9.5
+Nhan Vien Ky Thuat May Atm (HCM Va Ha Noi),Cong Ty TNHH Giai Phap Va Dich Vu Nam Phuong,TP HCM,9.5
+"Nhan Vien Kinh Doanh Quoc Te (Overseas Sales) - Lam Viec Tai Bien Hoa, Dong Nai",Cong Ty Co Phan Tan Phu Viet Nam,Dong Nai,16.0
+Giao Vien Tieng Anh He Thong Anh Ngu Lien Truong - Thu Nhap Tu 10-15 Trieu,Ngoai Ngu Khong Gian (Cong Ty CP Giao Duc Khong Gian),TP HCM,12.5
+Tro Giang Tieng Anh Ngoai Ngu Than Dong - Thu Nhap Tu 10-15 Trieu,Ngoai Ngu Khong Gian (Cong Ty CP Giao Duc Khong Gian),TP HCM,12.5
+Nhan Vien Hanh Chanh Tuyen Sinh - He Thong Anh Ngu Lien Truong Tp.HCM,Ngoai Ngu Khong Gian (Cong Ty CP Giao Duc Khong Gian),TP HCM,11.0
+Dieu Duong Nha Khoa,Cong Ty TNHH Thuong Mai Dich Vu Y Te Thien Phu,TP HCM,8.5
+Nhan Vien Kinh Doanh,Cong Ty TNHH Thuong Mai Dich Vu Y Te Thien Phu,TP HCM,8.5
+Nhan Vien Nam Kho Shopee Cu Chi (Full - Time),Cong ty TNHH Manpower Viet Nam,TP HCM,7.0
+Nhan Vien Kho Shopee Cu Chi (Part-Time / Full-Time),Cong ty TNHH Manpower Viet Nam,TP HCM,7.0
+Carlsberg - Dai Dien Ban Hang Kenh GT,Cong ty TNHH Manpower Viet Nam,TP HCM,18.5
+Lazada - Marketing Solutions Administrator,Cong ty TNHH Manpower Viet Nam,TP HCM,12.0
+Tp.HCM - Nhan Vien Kinh Doanh Kenh Truyen Thong GT,Cong ty TNHH Manpower Viet Nam,TP HCM,12.0
+[Ha Noi] - Mc Livestream,Cong Ty Co Phan Kids Plaza,Ha Noi,11.0
+Chuyen Vien Truyen Thong (Luong 10 -15 Trieu),Cong Ty Co Phan Kids Plaza,Ha Noi,12.5
+Truong Bo Phan Truyen Thong (Luong 20 - 25 Trieu) (Di Lam Ngay),Cong Ty Co Phan Kids Plaza,Ha Noi,22.5
+[Ha Noi] - Truong Nhom Ky Thuat Ha Tang,Cong Ty Co Phan Kids Plaza,Ha Noi,22.5
+[Ha Noi] - Pho Phong Marketing Nganh Ban Le,Cong Ty Co Phan Kids Plaza,Ha Noi,27.5
+Truong Nhom Du An Nganh Hang Phi Thuc Pham,Cong Ty TNHH Dich Vu Eb,TP HCM,45.0
+[Tops Market Thao Dien] Nhan Vien Tho Banh Mi,Cong Ty TNHH Dich Vu Eb,TP HCM,5.5
+Nhan Vien Digital Marketing,Chi Nhanh Cong Ty TNHH Du Lich H.I.S Song Han Viet Nam Tai Thanh Pho Ho Chi Minh,TP HCM,18.5
+Sales Agent,Cong Ty Trach Nhiem Huu Han Phat Trien Phu My Hung,TP HCM,8.5
+Nhan Vien Tu Van Qua Dien Thoai (Tan Phu),Cong Ty Co Phan Quoc Te Anh Van Hoi Viet My,TP HCM,10.0
+Nhan Vien Kinh Doanh Thi Truong,Cong Ty TNHH Xuat Nhap Khau Bac Ha Xanh,Da Nang,12.5
+"Tuyen Giao Vien Day Tieng Anh Online / Offline Ben Tre, Tien Giang, Soc Trang",Cong Ty Co Phan Cambridge Mekong,Ben Tre,14.5
+"Tuyen Giao Vien Day Tieng Anh Online / Offline Ben Tre, Tien Giang, Soc Trang",Cong Ty Co Phan Cambridge Mekong,Soc Trang,14.5
+"Tuyen Giao Vien Day Tieng Anh Online / Offline Ben Tre, Tien Giang, Soc Trang",Cong Ty Co Phan Cambridge Mekong,Tien Giang,14.5
+Truong Nhom Ban Hang Qua Dien Thoai (Telesale Teamlead),Cong Ty TNHH Vietnam Concentrix Services,TP HCM,23.0
+Nhan Vien Dieu Phoi Don Hang,Cong Ty  TNHH Dao Hai San,TP HCM,7.5
+Nhan Vien Ky Thuat CNC,Cong ty Co Phan Kem Nghia Sai Gon,TP HCM,15.0
+"Nhan Vien Van Hanh May Tien, Phay CNC",Cong Ty TNHH Dich Vu Va Thuong Mai Hang Hai Ma Ri,TP HCM,12.5
+Tuyen Nhan Vien Van Phong,Cong Ty TNHH Tu Van Xuc Tien Dau Tu Viet Luat,TP HCM,13.0
+Nhan Vien Digital Marketing (Facebook Ads),Cong Ty TNHH Butuni,Ha Noi,11.5
+Nhan Vien Bao Ve Noi Bo (Tay Ninh),Cong Ty Co Phan Quoc Te Anh Van Hoi Viet My,Tay Ninh,7.0
+Quan Ly Khu Vuc - Quang Binh,Cong Ty Co Phan Dich Vu Giao Hang Nhanh - Cn Mien Trung,Quang Binh,20.0
+Tap Vu - HCM - Di Lam Ngay,Cong Ty TNHH Lavender Sai Gon,TP HCM,8.0
+Nhan Vien Kinh Doanh Quoc Te,Cong Ty TNHH Thuong Mai - Dich Vu Xuat Nhap Khau Quoc Te Thanh Thanh Dat,TP HCM,14.0
+Ke Toan Cong No,Cong Ty TNHH Creasia,TP HCM,9.0
+Quan Ly Kho (Duoc Pham),Cong Ty Co Phan Duoc Pham Vitath,Ha Noi,16.0
+Tap Vu - Quan 3- Di Lam Ngay,Cong Ty TNHH Lavender Sai Gon,TP HCM,7.5
+Nhan Vien Ke Toan,Cong Ty TNHH Thuong Mai Va Dich Vu Ky Thuat Pccc An Bao Phat,Da Nang,9.5
+Cua Hang Truong,Cong Ty TNHH Tap Doan Vang Bac Da Quy Vang Viet,Ha Noi,16.5
+Tro Ly Kiem Phien Dich,Cong Ty TNHH Dich Vu Suc Khoe Gorton,TP HCM,13.0
+Nhan Vien Ke Hoach San Xuat,Cong Ty Co Phan Cong Nghiep Jk Viet Nam,Ha Noi,8.0
+Accountant Intern Pizza Hut (6 Months),Cong Ty TNHH Pizza Viet Nam,TP HCM,4.0
+Nhan Vien Phuc Vu,Cong Ty Co Phan Aahar Viet Nam,Ha Noi,7.0
+Sales Logistics Executive,Cong Ty TNHH Fairy Freight Service,TP HCM,11.5
+[Phu My_Brvt] Nhan Vien Cham Soc Khach Hang (Fulltime),Cong ty Co Phan Vacxin Viet Nam,Ba Ria - Vung Tau,8.5
+Quan Ly Kho  - Huyen Nha Be,Cong Ty TNHH Thuong Mai Nhat Thong,TP HCM,9.0
+Nhan Vien Co Khi Che Tao,Cong Ty TNHH Kim Nguu,TP HCM,8.5
+[Long Khanh Dong Nai]_Nhan Vien Cham Soc Khach Hang (Fulltime),Cong ty Co Phan Vacxin Viet Nam,Dong Nai,8.5
+Truong Phong Hanh Chinh Nhan Su - Huyen Nha Be,Cong Ty TNHH Thuong Mai Nhat Thong,TP HCM,13.5
+Chuyen Vien Thiet Ke Nhan Vat - 2D Artist,Cong Ty Co Phan Truyen Thong Vnnplus,Ha Noi,13.5
+Nhan Vien An Ninh / Bao Ve,Cong Ty TNHH Dau Tu & Kinh Doanh Dich Vu Bao Ve De Nhat,Ha Noi,8.0
+Nhan Vien An Ninh / Bao Ve,Cong Ty TNHH Dau Tu & Kinh Doanh Dich Vu Bao Ve De Nhat,Bac Ninh,8.0
+Nhan Vien An Ninh / Bao Ve,Cong Ty TNHH Dau Tu & Kinh Doanh Dich Vu Bao Ve De Nhat,Hai Duong,8.0
+Nhan Vien An Ninh / Bao Ve,Cong Ty TNHH Dau Tu & Kinh Doanh Dich Vu Bao Ve De Nhat,Hung Yen,8.0
+Nhan Vien An Ninh / Bao Ve,Cong Ty TNHH Dau Tu & Kinh Doanh Dich Vu Bao Ve De Nhat,Thanh Hoa,8.0
+Nhan Vien Van Phong,Cong Ty TNHH Platel Vina,TP HCM,7.5
+Nhan Vien Van Phong,Cong Ty TNHH Platel Vina,Dong Nai,7.5
+Tp.HCM - Nhan Vien Sales Rep Kenh GT (Khong Yeu Cau Kinh Nghiem),Cong ty TNHH Manpower Viet Nam,TP HCM,12.0
+PG Tiep Thi Bia Carlsberg Toan Tp.HCM - Mobile Team PG / PB / Le Tan,Cong ty TNHH Manpower Viet Nam,TP HCM,10.5
+Nhan Vien Kinh Doanh Phat Trien Thi Truong (Phong Van Ngay),Cong Ty TNHH San Xuat Va Thuong Mai Diep Tan Phat,TP HCM,18.5
+Nhan Vien Kinh Doanh Phat Trien Thi Truong (Phong Van Ngay),Cong Ty TNHH San Xuat Va Thuong Mai Diep Tan Phat,Binh Duong,18.5
+"An Lac, Binh Tan - PG Bia Carlsberg Kenh Quan An, Quan Nhau",Cong ty TNHH Manpower Viet Nam,TP HCM,8.5
+"Quan 12 - PG Bia Carlsberg Kenh Tont (Quan An, Quan Nhau)",Cong ty TNHH Manpower Viet Nam,TP HCM,8.5
+"Quan 7 - Tiep Thi / PG Bia Carlsberg Kenh Quan An, Quan Nhau, Tap Hoa PG / PB / Le Tan",Cong ty TNHH Manpower Viet Nam,TP HCM,8.5
+Ky Thuat Vien Spa Quan 1- Phong Van Truoc Tet Ra Tet Di Lam,Cong Ty TNHH Omotenashi Saigon,TP HCM,9.0
+Nhan Vien Giao Vu (Tp HCM),Arena Multimedia,TP HCM,10.0
+Trinh Duoc Vien OTC,Cong Ty Co Phan Cong Nghe Sinh Hoc Huro,TP HCM,11.5
+Nhan Vien Xu Ly Cong No Thi Truong An Giang - Kien Giang,Home Credit Viet Nam,An Giang,15.0
+Nhan Vien Xu Ly Cong No Thi Truong An Giang - Kien Giang,Home Credit Viet Nam,Kien Giang,15.0
+Nhan Vien Kho Duoc Sy Khu Vuc Can Giuoc Long An,Cong ty Co Phan Vacxin Viet Nam,Long An,9.5
+Nhan Vien Kho Duoc Sy Khu Vuc Duc Hoa Long An,Cong ty Co Phan Vacxin Viet Nam,Long An,9.5
+Nhan Vien Sale Di Thi Truong,Cong Ty Tnhh Dich Vu Thuong Mai Va Xuat Nhap Khau Viet Anh,TP HCM,17.5
+Nhan Vien Sale Di Thi Truong,Cong Ty Tnhh Dich Vu Thuong Mai Va Xuat Nhap Khau Viet Anh,Binh Duong,17.5
+Nhan Vien Designer,Cong Ty TNHH Phong Kham Chuyen Khoa Da Lieu Skinone,TP HCM,13.5
+Nhan Vien Kinh Doanh,CONG TY BAO HIEM BUU DIEN GIA DINH,TP HCM,16.5
+Nhan Vien Kinh Doanh (Duoc - My Pham) - TPHCM,Cong Ty TNHH TM DV Ket Giao Phat Trien Quoc Te (Ideco),TP HCM,13.5
+Nhan Vien Kinh Doanh,Chi Nhanh Cong Ty Co Phan My Pham Salonzo,TP HCM,13.5
+Chuyen Vien Ke Toan Tong Hop_Thu Duc,Cong Ty TNHH Phan Phoi Lien Ket Quoc Te,TP HCM,13.5
+Tu Van Vien - CSKH,Cong Ty TNHH Bwin,Ha Noi,12.5
+Tu Van Vien - CSKH,Cong Ty TNHH Bwin,TP HCM,12.5
+Tu Van Vien - CSKH,Cong Ty TNHH Bwin,Binh Duong,12.5
+Tu Van Vien - CSKH,Cong Ty TNHH Bwin,Toan quoc,12.5
+Tu Van Vien - CSKH,Cong Ty TNHH Bwin,Da Nang,12.5
+Nhan Vien Cham Soc Khach Hang (Operations Officer) - Ila Da Nang,Cong Ty TNHH Ila Viet Nam,Da Nang,11.0
+Nhan Vien Viet Ho So Moi Truong (Dtm),Cong Ty Co Phan Chung Nhan Globalcert,Da Nang,10.0
+Chuyen Vien Mua Hang Xuat Nhap Khau,Cong Ty Co Phan Am Thuc Mat Troi Vang,Ha Noi,14.0
+"Nhan Vien Ke Toan Tong Hop [Khu Vuc Q. 7, Tp. HCM]",Cong Ty TNHH Apollo Optical (Vietnam),TP HCM,12.5
+Nhan Vien Bao Tri Co Khi,Cty Co Phan Vietstar,TP HCM,8.0
+Nhan Vien Thu Kho,Cong Ty TNHH Hai Thanh Vien Thuc Pham Ly Tuong Viet Nam,Ha Noi,8.0
+Nhan Vien Ky Thuat Phan Cung May Tinh - Khong Yeu Cau Kinh Nghiem,Cong Ty TNHH Cong Nghe So Hoang Anh,Ha Noi,8.5
+Nhan Vien Ky Thuat Phan Cung May Tinh - Khong Yeu Cau Kinh Nghiem,Cong Ty TNHH Cong Nghe So Hoang Anh,Ha Nam,8.5
+Nhan Vien Kinh Doanh,Cong Ty TNHH Atm Online Vietnam,TP HCM,27.5
+Chuyen Gia Phan Tich Du Lieu Khach Hang,Cong Ty TNHH Atm Online Vietnam,TP HCM,37.5
+Ke Toan Cong No,Cong Ty TNHH Lien Hop Van Tai Va Du Lich Vitraco,Da Nang,6.0
+Ke Toan Cong No  (Ham Tan - Binh Thuan),Tap Doan Tan A Dai Thanh,Binh Thuan,5.5
+Nhan Vien Cham Soc Khach Hang App Du Lich Tieng Anh (Customer Service),Cong Ty TNHH Vietnam Concentrix Services,TP HCM,11.0
+Chuyen Vien Tuyen Sinh,Cong Ty Co Phan Giao Duc Quoc Dinh,Ha Noi,11.5
+Chuyen Vien Kinh Doanh Xuat Nhap Khau,Cong Ty TNHH San Xuat - Cung Ung Vat Tu Nong Nghiep Xanh,TP HCM,20.0
 Junior Fullstack Engineer (HCM - Go Vap),Cong Ty TNHH Cong Nghe Giao Duc Mellori,TP HCM,13.5
+Ke Toan Vien,Chi Nhanh Cong Ty TNHH Kiem Toan Va Dinh Gia Mhd,TP HCM,13.0
+Chuyen Vien Phan Tich Rui Ro,Cong Ty TNHH Atm Online Vietnam,TP HCM,27.5
+Nhan Vien Kinh Doanh,Cong Ty TNHH Nong San Thuc Pham Tran Gia,TP HCM,17.5
+Nhan Vien Bao Ve - Ha Noi - Co The Di Lam Luon Hoac Sau Tet,Chi Nhanh Cong Ty Co Phan Dich Vu Bao Ve Long Hai,Ha Noi,9.0
+Nhan Vien Thu Hoi No Qua Dien Thoai (Khong Yeu Cau Kinh Nghiem),Cong Ty TNHH Atm Online Vietnam,TP HCM,20.0
+Nhan Vien Kinh Doanh Quoc Te,Cong Ty Tnhh Ningbo Changya Plastic (Viet Nam),TP HCM,18.0
+Nhan Vien Sale,Cong Ty TNHH Xnk 9G,TP HCM,8.5
+[Vinshop] Nhan Vien Kinh Doanh Thi Truong - Nghe An,Cong Ty Co Phan One Mount Group,Nghe An,20.0
+Content Marketing,Cong Ty Co Phan May Xay Dung Lac Hong,Ha Noi,8.5
+Truong Phong Maketing,Cong Ty Co Phan Phat Trien Thuong Mai Va Dich Vu Ms,TP HCM,22.5
+"Nhan Vien Tu Van Ban Hang / Nhan Vien Ky Thuat Tai Long Khanh, Dong Nai",He Thong Ban Le Viettel Store,Dong Nai,8.5
+Phien Dich Tieng Han,Cong Ty TNHH Elentec Viet Nam,Ha Noi,20.5
+Cong Nhan Van Hanh,Cong Ty Lien Doanh TNHH Crown Ha Noi,Ha Noi,7.0
+Nhan Vien R&D,Cong Ty TNHH Elentec Viet Nam,Ha Noi,11.0
+Ky Thuat Van Hanh May CNC,Cong Ty TNHH Elentec Viet Nam,Ha Noi,9.5
+Nhan Vien Kho,Cong Ty TNHH Elentec Viet Nam,Ha Noi,9.5
+Nhan Vien Ky Thuat Duc Nhua,Cong Ty TNHH Elentec Viet Nam,Ha Noi,11.0
+Iqc Leader,Cong Ty TNHH Elentec Viet Nam,Ha Noi,11.0
+Quan Ly San Xuat,Cong Ty TNHH Elentec Viet Nam,Ha Noi,22.5
+Line Leader San Xuat,Cong Ty TNHH Elentec Viet Nam,Ha Noi,8.5
+Nhan Vien Lap Trinh Cam,Cong Ty TNHH Elentec Viet Nam,Ha Noi,15.0
+Digital Marketing (Thu Nhap 10-15 Trieu Vnd / Thang),Cong Ty TNHH Budding Bean Viet Nam,Ha Noi,12.5
+Giao Vien Du Gio Tieng Anh,Trung Tam Anh Ngu Viet My,Dong Nai,11.0
+Nu - Nhan Vien Kinh Doanh Nganh Nhom (Luong Co Ban 13 - 15 Trieu + Hoa Hong),CONG TY TNHH XUAT NHAP KHAU CAT TUONG,TP HCM,19.0
+Truong Phong Nha May Dien (Quang Ngai),Tong Cong ty Co phan Thuong mai Xay dung,Quang Ngai,18.5
+Truong Phong Quan Ly Co Khi (Quang Ngai),Tong Cong ty Co phan Thuong mai Xay dung,Quang Ngai,18.5
+Nhan Vien Kinh Doanh,Cong Ty Co Phan Khoa Hoc Doit,Ha Noi,13.5
+Quan 8 Nhan Vien CSKH Kiem Admin,Cong ty Co Phan Vacxin Viet Nam,TP HCM,8.5
+Ky Su Giam Sat Lap Dat (Quang Ngai),Tong Cong ty Co phan Thuong mai Xay dung,Quang Ngai,18.5
+Vinh Loc - Nhan Vien CSKH Kiem Admin,Cong ty Co Phan Vacxin Viet Nam,TP HCM,8.5
+Chuyen Gia Ky Thuat / Van Hanh Tuabin (Quang Ngai),Tong Cong ty Co phan Thuong mai Xay dung,Quang Ngai,18.5
+Da Lat Nhan Vien CSKH Kiem Admin,Cong ty Co Phan Vacxin Viet Nam,Lam Dong,8.5
+Nhan Vien Van Hanh Tram Dien 110Kv (Lam Viec Tai Quang Ngai),Tong Cong ty Co phan Thuong mai Xay dung,Quang Ngai,11.0
 Chuyen Gia Lap Trinh Phan Mem,Cong Ty TNHH Velox Tech,Khanh Hoa,22.5
+Nhan Vien Phu Bep,Cong Ty TNHH La Cam (He Thong Tra Sua Va Xien Que Hot&Cold),TP HCM,6.0
+Nhan Vien Thu Ngan (He Thong Tra Sua Hot&cold),Cong Ty TNHH La Cam (He Thong Tra Sua Va Xien Que Hot&Cold),TP HCM,5.5
+Nhan Vien Thiet Ke Autocad 2D (Co Ky Nang Autocad),Cong Ty TNHH Saigon Trace VN,TP HCM,10.0
+Nhan Vien Thiet Ke Autocad 2D (Bat Buoc Co Ky Nang Autocad),Cong Ty TNHH Saigon Trace VN,TP HCM,10.0
+Nhan Vien Ke Toan,Cong Ty TNHH Kinh Doanh Thuong Mai Dich Vu Anh Tho,TP HCM,7.0
+Ky Su Dieu Khien - Tu Dong Hoa (Quang Ngai),Tong Cong ty Co phan Thuong mai Xay dung,Quang Ngai,18.5
+Le Tan Toa Nha / Van Phong Ban Hang,Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,9.5
+Nhan Vien Ke Toan (Sinh Vien Moi Ra Truong),Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,8.0
+Chuyen Vien Kiem Soat Thiet Ke,Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,24.0
+[Long Thanh - Dong Nai] Nhan Vien Phu Trach Nha An,Cong Ty Co Phan Tap Doan Thien Long,Dong Nai,9.0
+Ky Su Mua Hang Lam Viec Tai Ha Noi,Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,13.5
+Sale Export Lam Viec Tai Ha Noi,Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,15.0
+Nhan Vien Ke Hoach Tong Hop,Cong ty TNHH Ministop Viet Nam - Thanh vien tap doan AEON Group,TP HCM,8.0
+Kien Truc Su Canh Quan (Co Kinh Nghiem),Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,25.0
+Chuyen Vien Phat Trien Du An (Mang Quy Hoach),Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,22.5
+Chuyen Vien Quy Hoach - Phat Trien Du An,Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,22.5
+Ky Su QS,Tong Cong ty Co phan Thuong mai Xay dung,Ha Noi,20.0
+Ky Su Dien (Quang Ngai),Tong Cong ty Co phan Thuong mai Xay dung,Quang Ngai,18.5
+Sale Admin (Nhan Viec Ngay Hoac Nhan Viec Sau Tet),Cong Ty TNHH Mass Transport Express (Viet Nam),TP HCM,8.5
+Nhan Vien Thiet Ke,Cong Ty Co Phan Hoa Dau Vinh Phuc,Vinh Long,9.0
+Nhan Vien Truyen Thong Noi Bo,Cong Ty Co Phan Vien Thong ACT,TP HCM,13.5
+Nhan Vien Kinh Doanh Tieng Nhat,Cong Ty Co Phan Huviron Viet Nam,Ha Noi,10.0
+Tro Ly Giam Doc,Cong Ty TNHH Dau Nhon Gs Viet Nam,Dong Nai,19.0
+Chuyen Vien Quan Ly Du An,Cong Ty CP Nong Nghiep Truong Hai,Gia Lai,8.5
+Chuyen Vien Ky Thuat Nong Nghiep (Lam Viec Tai Lao),Cong Ty CP Nong Nghiep Truong Hai,Gia Lai,10.0
+Chuyen Vien Ky Thuat Nong Nghiep (Lam Viec Tai Lao),Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,10.0
+To Truong An Toan Sinh Hoc,Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,12.0
+Nhan Vien Thu Y (Lam Viec Tai Campuchia),Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,12.0
+Nhan Vien Quan Ly Thong Tin Dan (Lam Viec Tai Campuchia),Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,10.0
+Nhan Vien Ky Thuat Trai Bo Sinh San,Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,12.0
+Chuyen Vien Nhan Su (Lam Viec Tai Campuchia),Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,8.5
+To Truong Chan Nuoi Bo Sinh San (Lam Viec Tai Campuchia),Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,17.5
+Chuyen Vien Ky Thuat Phoi Tron Thuc An (Lam Viec Tai Campuchia),Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,12.0
+Nhan Vien Dien Nuoc (Lam Viec Tai Campuchia),Cong Ty CP Nong Nghiep Truong Hai,Nuoc ngoai,9.5
+Ky Thuat Vien Noi Soi,Cong Ty TNHH Benh Vien Da Khoa Anh Minh,TP HCM,8.5
+Giao Vien Mam Non,Cong Ty TNHH Dat Phuc Minh,Ha Noi,7.5
+Nhan Vien Hanh Chinh,Cong Ty Tnhh Kinh Doanh Thuong Mai Dich Vu Tong Hop Dcl,Ha Noi,11.5
+Nhan Vien Kinh Doanh Hang Thuc Pham,Cong Ty Co Phan Nhung Nhu,Ha Noi,11.0
+Nhan Vien Kinh Doanh Hang Thuc Pham,Cong Ty Co Phan Nhung Nhu,TP HCM,11.0
+Nhan Vien Kinh Doanh Hang Thuc Pham,Cong Ty Co Phan Nhung Nhu,Binh Duong,11.0
+Nhan Vien Kinh Doanh Hang Thuc Pham,Cong Ty Co Phan Nhung Nhu,Can Tho,11.0
+Nhan Vien Kinh Doanh Hang Thuc Pham,Cong Ty Co Phan Nhung Nhu,Dong Nai,11.0
+Nhan Vien Ke Toan Tong Hop Tai Thanh Pho Ho Chi Minh,Cong Ty Co Phan Tap Doan Long,TP HCM,12.5
+Ky Su Co Khi,CONG TY TNHH SAINT- GOBAIN VIET NAM,Long An,13.5
+Nhan Vien Kinh Doanh,Cong Ty TNHH San Xuat Thuong Mai & In Bao Bi Netviet,Ha Noi,19.0
+"Nhan Vien Ky Thuat Bao Tri, Van Hanh Truong Hoc",Cong Ty Co Phan Vinschool,Ha Noi,9.0
+Nhan Vien Ke Toan,Cong Ty TNHH MTV Do Hop Ha Long Da Nang,Da Nang,8.5
+Nhan Vien Nghien Cuu Thi Truong,Cong Ty Co Phan Nhua Cao Cap Hang Khong,Ha Noi,12.0
+Giao Hang Xe Gan May (Di Lam Ngay),Cong Ty Co Phan San Pham Sinh Thai,Can Tho,9.0
+Giao Hang Xe Tai Dau C (Di Lam Ngay),Cong Ty Co Phan San Pham Sinh Thai,Can Tho,11.0
+"Nhan Vien Trade Marketing (Mang Trien Khai Bao Phu, Trung Bay Tai Diem Ban)",Cong Ty Co Phan San Pham Sinh Thai,TP HCM,10.5
+[Cathay Life] Quan Ly Kinh Doanh Thu Nhap Tu 12 Trieu,Cong Ty TNHH Bhnt Cathay Viet Nam,TP HCM,13.5
+Barber Tho Cat Toc Nam,Cong Ty TNHH Tao Mau Toc Super Quick Cut,TP HCM,18.5
+"[Lang Son, Lao Cai, Thai Binh] - Nhan Vien Thu Hoi No Thi Truong",Home Credit Viet Nam,Lang Son,17.5
+"[Lang Son, Lao Cai, Thai Binh] - Nhan Vien Thu Hoi No Thi Truong",Home Credit Viet Nam,Lao Cai,17.5
+"[Lang Son, Lao Cai, Thai Binh] - Nhan Vien Thu Hoi No Thi Truong",Home Credit Viet Nam,Thai Binh,17.5
+Nhan Vien Kinh Doanh Vien Thong,Tong Cong Ty Co Phan Buu Chinh Viettel,TP HCM,18.5
+Nhan Vien Ke Toan,Cong Ty TNHH Mot Thanh Vien Co Khi Ha Noi,Ha Noi,10.0
+Nhan Vien Sale Tour Noi Dia / Nuoc Ngoai,Cong Ty Co Phan Du Lich P.S.V Travel,TP HCM,11.5
+"[HCM] Lao Dong Pho Thong Dong Goi Dan Tem, Ban Hang, Truc Quay Hang (Nhan Viec Di Lam Ngay)",Ho Kinh Doanh Minh Phat,TP HCM,10.0
+Nhan Vien Mua Sam,Cong Ty TNHH Dau Tu Thuong Mai Va Du Lich Quoc Te Hoa Binh,Ha Noi,10.0
+Nhan Vien Ban Hang,Cong Ty TNHH Thang Loi,TP HCM,11.0
+Ke Toan Truong Thu Nhap Len Den 25 Trieu - Phong Van Di Lam Ngay,Cong Ty Tnhh Cong Nghiep Ki Thuat Duc Kim Viet Nam,Hai Phong,20.0
+Nhan Vien Ban Hang Thi Truong - Nong Nghiep,Cong Ty CP Snewrice Viet Nam - Van Phong Dai Dien Tai Tp. Ho Chi Minh,Binh Phuoc,12.5
+Nhan Vien Ban Hang Thi Truong - Nong Nghiep,Cong Ty CP Snewrice Viet Nam - Van Phong Dai Dien Tai Tp. Ho Chi Minh,Binh Thuan,12.5
+Nhan Vien Ban Hang Thi Truong - Nong Nghiep,Cong Ty CP Snewrice Viet Nam - Van Phong Dai Dien Tai Tp. Ho Chi Minh,Lam Dong,12.5
+Nhan Vien Ban Hang Thi Truong - Nong Nghiep,Cong Ty CP Snewrice Viet Nam - Van Phong Dai Dien Tai Tp. Ho Chi Minh,Ninh Thuan,12.5
+Nhan Vien Ban Hang Thi Truong - Nong Nghiep,Cong Ty CP Snewrice Viet Nam - Van Phong Dai Dien Tai Tp. Ho Chi Minh,Dong Nai,12.5
+Giam Doc Kinh Doanh,Cong Ty Co Phan Dich Vu Nha Hang Ong Khanh Garden,Khanh Hoa,20.0
+Chuyen Vien Kinh Doanh Bat Dong San,Cong Ty TNHH Bat Dong San Dtn,Thua Thien Hue,14.0
+Chuyen Vien Thu Mua San Pham Bao Ho Lao Dong,Cong Ty Co Phan An Phu Thinh,TP HCM,10.0
+Nhan Vien Thu Hoi No Thi Truong - Ho Chi Minh,Home Credit Viet Nam,TP HCM,12.5
+Nhan Vien Thu Hoi No Thi Truong - Ho Chi Minh,Home Credit Viet Nam,Long An,12.5
+Nhan Vien Kho,Cong Ty TNHH Duoc Pham A Au,Ha Noi,9.0
+Chuyen Vien Xay Dung,Cong Ty Co Phan Tap Doan Long Phuong,Bac Ninh,15.0
 Nhan Vien Ky Thuat Trien Khai Va Bao Tri Mang Internet Fpt,Cong Ty TNHH MTV DV Vien Thong Phuong Nam,TP HCM,13.0
+Nhan Vien Tu Van Ban Hang Tai Chuoi Dien May,Cong Ty Co Phan Green Speed,Ha Noi,10.0
+Nhan Vien Tu Van Ban Hang Tai Chuoi Dien May,Cong Ty Co Phan Green Speed,TP HCM,10.0
+Ke Toan Nhap Lieu,Cong Ty TNHH Thuong Mai Dich Vu Phat Trien Rong Viet,TP HCM,8.0
+Ke Toan Truong,Cong Ty TNHH Thuong Mai Dich Vu Phat Trien Rong Viet,TP HCM,12.5
+Nhan Vien Telesales,Cong Ty TNHH Sieu Thi Song Khoe,TP HCM,9.5
+Nhan Vien Sales Logistics,Chi Nhanh Tai Thanh Pho Ho Chi Minh - Cong Ty Co Phan Mg Logistics,TP HCM,13.0
+"Nhan Vien Tu Van Tuyen Sinh - Popodoo Phuoc Long, Binh Phuoc (Di Lam Sau Tet)",Cong Ty TNHH MTV Giao Duc Thanh Giang,Binh Phuoc,13.5
+[Can Tho] Huan Luyen Vien Ca Nhan / Personal Trainer,California Fitness And Yoga Centers,Can Tho,17.5
+"Chuyen Vien Tu Van Tuyen Sinh (Popodoo Smart English Chi Nhanh Phuoc Long, Binh Phuoc)",Cong Ty TNHH MTV Giao Duc Thanh Giang,Binh Phuoc,15.0
+Nhan Vien Kinh Doanh,Cong Ty Co Phan In Tran Phu,TP HCM,11.5
 Nhan Vien IT,Cong Ty Co Phan Cong Nghe Oryza Systems,Binh Duong,11.0
-Lap Trinh Vien,Cong Ty Co Phan Cong Nghe Oryza Systems,TP HCM,11.5
-Lap Trinh Vien,Cong Ty Co Phan Cong Nghe Oryza Systems,Binh Duong,11.5
-Nhan Vien Google Ads,Cong ty TNHH Giai phap Vien thong Cong nghe SO SOHO,Ha Noi,14.0
-Thuc Tap Thiet Ke Vi Mach Fpga,Cong ty co phan Phan mem nhung NATA,Ha Noi,3.5
-Nhan Vien Giam Sat Camera,Cong Ty Co Phan Tap Doan K-Group,Dong Nai,8.0
-Nhan Vien Marketing Mang Du Hoc Luong Upto 20 Trieu (Di Lam Ngay Hoac Sau Tet),"Cong Ty TNHH Tu Van Du Hoc, Dao Tao Ngoai Ngu Va Dich Vu Visa Vingate Global",Ha Noi,14.0
-Nhan Vien Chuyen Giao Phan Mem,Cong Ty Co Phan Giai Phap Phan Mem Doanh Nghiep,Ha Noi,13.5
-Tester Kiem Content Executive (Di Lam Ngay Hoac Sau Tet),Cong Ty TNHH Ecentura,Ha Noi,8.0
-Nhan Vien Kinh Doanh,Cong Ty TNHH Van Tai Xay Dung Va Co Khi Tien Dat,Ha Noi,8.5
-Nhan Vien IT,Cong Ty TNHH Cung Ung Lao Dong Job Korea,Nuoc ngoai,45.5
-Nhan Vien IT,Cong Ty TNHH Cung Ung Lao Dong Job Korea,Toan quoc,45.5
-Nhan Vien Bao Tri IT - Di Lam Ngay,Cong Ty TNHH Gia Huy Tech,Binh Duong,8.0
-Chuyen Vien Scada,Cong Ty TNHH Mot Thanh Vien Khai Thac Thuy Loi Mien Nam,TP HCM,11.5
-Chuyen Vien Scada,Cong Ty TNHH Mot Thanh Vien Khai Thac Thuy Loi Mien Nam,Kien Giang,11.5
-Ky Thuat Lap Dat Camera - Dong Da,Cong ty Co Phan Dau Tu Cong Nghe HACOM,Ha Noi,13.0
-Nhan Vien Kinh Doanh Camera,Cong ty Co Phan Dau Tu Cong Nghe HACOM,Ha Noi,15.0
-Lap Trinh Vien PHP Laravel,Cong Ty Co Phan Trung Tam Di San Cac Nha Khoa Hoc Viet Nam,Ha Noi,15.0
-Nhan Vien IT (Support),Cong Ty TNHH R&b Food Supply Viet Nam - Chi Nhanh Long An,Long An,12.5
-Chuyen Vien Lap Trinh Vien PHP / PHP Programming Expert,Cong Ty Co Phan Adpia,Ha Noi,19.0
-Chuyen Vien Quan Ly Chat Luong Cuoc Goi (QC),Cong Ty Co Phan Dich Vu Va Truyen Thong Mobi Next,Ha Noi,15.0
-Sales Team Leader,Cong Ty Co Phan Dich Vu Va Truyen Thong Mobi Next,Ha Noi,27.5
-Nhan Vien Kinh Doanh,Cong Ty Co Phan Tin Hoc Viet Son,TP HCM,16.0
-Nhan Vien Phat Trien Thi Truong,Cong Ty TNHH Giai Phap Thong Minh Tan Viet,Ha Noi,15.0
-Nhan Vien Phat Trien Thi Truong,Cong Ty TNHH Giai Phap Thong Minh Tan Viet,TP HCM,15.0
-Nhan Vien Marketing,Cong Ty TNHH Thuoc Thu Y A Chau,Can Tho,6.5
-Lap Trinh Vien .Net,Cong Ty Co Phan Phan Mem Thang Long,Ha Noi,22.5
-Chuyen Vien IT - Ba Dinh / Hn,Cong Ty TNHH Lavender Sai Gon,Ha Noi,11.0
-Nhan Vien IT Ho Tro Nguoi Dung,Cong Ty Co Phan Cong Nghe Tdv Viet Nam,Ha Noi,8.5
-Lap Trinh Vien,Cong Ty Co Phan Quan Ly Ho So Dien Tu,Ha Noi,15.0
-Chuyen Vien Phat Trien Thi Truong,CONG TY CP KY THUAT MOI TRUONG VIET AN,TP HCM,20.0
-"Nhan Vien Thu Cuoc Vien Thong (Tai Luong Son, Nha Trang, Khanh Hoa)",Chi Nhanh Khanh Hoa - Cong Ty Co Phan Vien Thong Fpt,Khanh Hoa,9.0
-"Lap Trinh Vien Frontend (CSS, HTML, Bootstrap, Js) - Di Lam Ngay",Cong Ty TNHH Ecentura,Ha Noi,10.0
-Nhan Vien IT Phan Cung,Cong Ty TNHH Khoa Hoc Ky Thuat Tuong Huu,Da Nang,10.0
-Can Bo Phong Dao Tao,Cong Ty TNHH Giai Phap Khong Gian Viet Nam,Ha Noi,30.0
-Nhan Vien Giao Hang Mygo Tai Da Nang,Chi Nhanh Buu Chinh Viettel Da Nang - Tong Cong Ty Co Phan Buu Chinh Viettel,Da Nang,13.5
-Nhan Vien .Net Developer (Tren 01 Nam Kinh Nghiem),Cong ty TNHH W2Solution Viet Nam,TP HCM,30.0
-Nhan Vien IT,Cong Ty Trach Nhiem Huu Han San Xuat-Thuong Mai Tin Phat Viet,Bac Lieu,8.0
-[Tam Anh Ha Noi] Nhan Vien Phat Trien Phan Mem,Cong Ty Co Phan Benh Vien Da Khoa Tam Anh Tp. Ho Chi Minh,Ha Noi,13.5
-"Tuyen Nhan Su Phu Trach Xay Dung Khau Tuyen Mo, Chieu Mo Ung Vien Luong Up To 15M",Cong Ty Co Phan Dich Vu Va Phat Trien Cong Nghe Beae Viet Nam,Ha Noi,11.5
-Nhan Vien IT,Cong Ty Co Phan Hanacans,Bac Ninh,10.0
-Nhan Vien Ky Thuat May Tinh - May In,Cong Ty TNHH Kinh Doanh Thiet Bi May Van Phong Hoang Minh,Ha Noi,8.5
-Nhan Vien Ky Thuat May Tinh - May In (Nhan Viec Sau Tet),Cong Ty TNHH Kinh Doanh Thiet Bi May Van Phong Hoang Minh,Ha Noi,8.5
-Nhan Vien IT,Cong Ty Co Phan Staka,Nghe An,6.5
-"Devops Engineer (Bash, Shell, Docker, Ansible) - Hybrid - Salary Above 60M Vnd",Cong Ty TNHH Agilino,Can Tho,36.0
-[Central Retail] Data Admin Controller,Cong Ty TNHH Dich Vu Eb,TP HCM,8.0
-Ky Thuat Vien Vien Thong,Cong Ty CP Vien Thong Iris Viet Nam,Ha Noi,12.5
-Front-End Developer,Cong Ty Co Phan Cong Nghe Va Dich Vu An Truong Phat,Ha Noi,9.5
-Nhan Vien IT - Phan Mem,Cong Ty Co Phan Thuong Mai Dich Vu Nhua Bao Bi Kien Duc,TP HCM,12.0
-Nhan Vien Ke Toan,Cong Ty Co Phan Dinh Gia Net,TP HCM,13.0
-Quan Tri Website,Cong Ty TNHH Dich Vu Va Du Lich Cali,TP HCM,10.0
-Nhan Vien 2D Unity Developer,Cong Ty TNHH Supergame,Ha Noi,11.0
-"Backend Developer (C#, Asp.Net, .Net Core)",Cong Ty TNHH Dau Tu Phat Trien BiTech,TP HCM,18.0
-Ky Su Dien Tu - Vien Thong,Cong Ty Co Phan Dien Tu D.G.S,TP HCM,17.5
-Nhan Vien IT (Quan Ly He Thong Erp) Khong Yeu Cau Kinh Nghiem,Cong Ty TNHH Sungjin Inc Vina,Binh Duong,9.0
-Lap Trinh Vien C#,Cong Ty Co Phan Tap Doan Vitech,Ha Noi,15.0
-Chuyen Vien IT - Quan Tri He Thong Erp,Cong Ty Tnhh Cong Nghiep Chinh Xac Chen Kai,Binh Phuoc,15.5
-"Sales Staff (Phan Mem) (Quan 3, HCM)",Cong Ty TNHH Medring Viet Nam International,TP HCM,19.0
-Ky Su Cau Noi (BrSE),Cong Ty Co Phan Cong Nghe Paditech Viet Nam,Ha Noi,32.5
-Chuyen Vien Kinh Doanh,Cong ty Co Phan Vnetwork,TP HCM,11.5
-Lap Trinh Vien React Native,"Cong Ty TNHH Cong Nghe, Thuong Mai Va Dich Vu Tri Nghia",Ha Noi,18.5
-Chuyen Gia Kinh Doanh,Cong Ty TNHH Vietnam Data Center,TP HCM,27.5
-IT Application Support,Tap Doan Golden Gate (Cong Vang),Ha Noi,11.0
-Ky Su Bao Duong He Thong Vien Thong,Cong Ty Co Phan Dau Tu Va Phat Trien Cong Nghe NT,Thanh Hoa,16.5
-System Engineer - Thu Nhap Tren 10 Trieu,Cong ty TNHH Punch Entertainment (Viet Nam),Ha Noi,15.0
-Lap Trinh Vien Back-End - Thu Nhap Len Toi 30 Trieu - Tai Ha Noi,Cong Ty Trach Nhiem Huu Han Cong Nghe Sao Vega,Ha Noi,20.0
-Chuyen Vien Van Hanh Phan Mem,Tap Doan Tan A Dai Thanh,Ha Noi,11.0
-Nhan Vien IT Tai Viet - Uc Quang Ninh.,Tap Doan Thuy San Viet - Uc,Quang Ninh,8.5
-Nhan Vien Ky Thuat May Tinh (Cho Benh Vien May Tinh Thu Duc),Benh Vien May Tinh Net - Ngoc Le,TP HCM,8.5
-Nhan Vien Marketing Part Time Lam Viec Tai Da Nang,Cong Ty Co Phan Sbay Viet Nam,Da Nang,6.0
-Nhan Vien Social Media,Cua Hang Thoi Trang Nam - J.A.N Shop,TP HCM,8.5
-Nhan Vien Logistics,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,TP HCM,8.0
-Truong Nhom Ung Dung He Thong The - IT Software,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,TP HCM,25.0
-Nhan Vien Email Marketing,Cong Ty TNHH TM E-Commerce,TP HCM,8.0
-Truong Nhom Ung Dung Web App / Mobile App_It Software,Cong Ty Tai Chinh TNHH MTV Quoc Te Viet Nam Jaccs,TP HCM,25.0
-Lap Trinh Vien .Net,Cong Ty Co Phan Tap Doan Thai Tuan,TP HCM,12.0
-Nhan Vien IT Lam Viec Tai Kcn Yen Phong Bac Ninh,Cong Ty Co Phan Kj Tech Services,Bac Ninh,10.0
-Nhan Vien IT Phan Cung,Cong Ty TNHH Khuon Mau Chinh Xac Xu Hong,Da Nang,10.0
-Nhan Vien Code PHP,Cong Ty Co Phan Sbay Viet Nam,Da Nang,12.0
-Quan 7 Chuyen Vien IT Kiem Bao Tri,Cong ty Co Phan Vacxin Viet Nam,TP HCM,11.5
-"Senior Fullstack Developer (.Net, Angular Js)",Cong Ty TNHH MTV Tai Chinh Toyota Viet Nam,TP HCM,25.0
-Ky Thuat Vien Cong Nghe Thong Tin -Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,Ha Noi,10.5
-Ky Thuat Vien Cong Nghe Thong Tin -Onsite Tai HCM Va Ha Noi,Cong Ty TNHH Mot Thanh Vien Dich Vu Ky Thuat Chuyen Nghiep,TP HCM,10.5
-Chuyen Vien Ho Tro Phan Mem,Ngan Hang TMCP Quoc Te Viet Nam (VIB),Ha Noi,20.0
-"Nhan Vien IT - Nghien Cuu, Trien Khai Va Van Hanh He Thong Thong Tin",Cong Ty TNHH PHP Group International Viet Nam,TP HCM,20.0
-Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Ha Noi,11.0
-Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Hai Duong,11.0
-Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Hai Phong,11.0
-Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Thanh Hoa,11.0
-Nhan Vien Ky Thuat Luong Upto 15 Trieu (Nhan Viec Ngay),Cong Ty TNHH Thuong Mai Va Ky Thuat Quang Anh,Vinh Phuc,11.0
-Nhan Vien IT Helpdesk - HCM,Cong Ty TNHH Bao Duong Cong Nghe Toan Cau VN,TP HCM,8.5
-Nhan Vien Marketing,Cong Ty TNHH So Huu Tri Tue Tran & Tran,Ha Noi,10.0
-Chuyen Vien Cong Nghe Thong Tin,Cong Ty Co Phan Cong Nghiep Cao Su Mien Nam  - Casumina,TP HCM,12.5
-Nhan Vien IT,Cong Ty TNHH Bat Dong San Mai Phuong,TP HCM,11.0
-Nhan Vien IT,Cong Ty Co Phan Vacxin Viet Nam,Ha Noi,9.0
-Nhan Vien IT,Cong Ty Co Phan Vacxin Viet Nam,Nghe An,9.0
-Nhan Vien Marketing,Trung Tam Anh Ngu Viet Uc - Dntn Lam Van Nhi,TP HCM,11.0
-Nhan Vien Trien Khai Phan Mem Va Cham Soc Khach Hang (Di Lam Sau Tet Am Lich),Cong Ty Co Phan Van Hoa Ngoi Nha Xanh,TP HCM,8.5
-"Lap Trinh Web PHP, Wordpress (Biet SEO)",Cong Ty Co Phan Dich Vu Thuong Mai XNK Quy Nam Sai Gon,TP HCM,15.0
-Ky Su Dien Tu - Kinh Nghiem Tu 2 Nam,Cong Ty TNHH Chienowa Viet Nam,TP HCM,12.5
-Nhan Vien Cong Nghe Thong Tin,Cong Ty Co Phan Cang Cam Ranh,Khanh Hoa,17.5
-Nhan Vien Truyen Thong Noi Bo,Cong Ty TNHH Thuong Mai Dich Vu Liber,TP HCM,12.5
-Chuyen Vien Cong Nghe Thong Tin / IT Specialist,Cong Ty Co Phan Tien Phuoc Va Chin Chin Muoi,TP HCM,12.5
-Nhan Vien Ky Thuat Qua Tong Dai (Technical Support - Ha Noi & Tp HCM),FPT Telecom - Cong ty Co phan Vien Thong FPT,Ha Noi,10.0
-Nhan Vien Ky Thuat Qua Tong Dai (Technical Support - Ha Noi & Tp HCM),FPT Telecom - Cong ty Co phan Vien Thong FPT,TP HCM,10.0
-Nhan Vien QA He Thong,Cong Ty TNHH Sungjin Inc Vina,Binh Duong,10.0
-Nhan Vien IT Helpdesk,Chi Nhanh Cong Ty Co Phan Phan Mem Vien Thong Mien Nam Tai Ha Noi,Ha Noi,11.5
-Nhan Vien Van Phong,Cong Ty TNHH Chuyen Ngu Duc,TP HCM,11.0
-Nhan Vien Video Editor,Cong Ty TNHH TM Bach Thu,TP HCM,12.5
-Nhan Vien IT,Cong Ty Co Phan Thiet Bi Y Te Bach Viet,TP HCM,12.5
-Nhan Vien Ky Thuat IT Va Trai Nghiem San Pham,Cong ty TNHH May Tinh Va Vien Thong An Khang,Ha Noi,10.5
-Thuc Tap Sinh IT Helpdesk / System (Co Luong),Cong Ty TNHH iVIM,TP HCM,2.0
-Nhan Vien IT - SEO Web Tai Ahs,"Truong Th,thcs &thpt Quoc Te A Chau",TP HCM,12.5
-Nhan Vien IT Phan Cung,Cong Ty Co Phan Benh Vien Tai Mui Hong Sai Gon,TP HCM,8.5
-Nhan Vien IT Support,Cong Ty TNHH Van Tai Cong Nghe Mai Linh Ha Noi,Ha Noi,9.5
-Truong Nhom IT Ha Tang,Cong ty Co Phan Vacxin Viet Nam,TP HCM,22.5
-[HCM] Graphic Designer - Pizza Hut,Cong Ty TNHH Pizza Viet Nam,TP HCM,17.5
-Ky Thuat Vien May Tinh,Cong Ty Co Phan Cong Nghe Silicom,TP HCM,8.5
-Hoc Viec / Thuc Tap Sinh SEO,Cong Ty TNHH Thuong Mai Xuat Nhap Khau Mint VN,TP HCM,2.5
-Phu My Hung Chuyen Vien IT,Cong ty Co Phan Vacxin Viet Nam,TP HCM,11.5
-Ky Thuat Vien Phong Truyen Dan Phat Song,Cong Ty TNHH Truyen Hinh Cap Saigontourist,TP HCM,7.0
-Nhan Vien IT (IT Helpdesk Executive ),Cong Ty Co Phan Daikin Air Conditioning (Vietnam),Ha Noi,14.0
-Truong Nhom Cong Nghe Thong Tin,Cong Ty TNHH San Xuat-Thuong Mai Va Xay Dung Viet Han,TP HCM,21.5
-Nhan Vien IT Phan Cung - Di Lam Ngay,Cong Ty Co Phan Landscape Association,TP HCM,9.0
-Chuyen Vien Kinh Doanh,Cong Ty Co Phan Htc Vien Thong Quoc Te,Ha Noi,15.0
-Nhan Vien IT Phan Cung - Thu Dau Mot,Cong Ty Co Phan Bot Giat Lix,Binh Duong,10.0
-[Vnpt Vinaphone] Chuyen Vien Kinh Doanh Toan Ha Noi,Tong Cong Ty Dich Vu Vien Thong Vnpt Vinaphone,Ha Noi,12.5
-Nhan Vien Ke Hoach,Cong Ty Co Phan Vien Thong ACT,TP HCM,13.0
-Ky Thuat IT Phan Cung - Dong Anh,Cong ty Co Phan Dau Tu Cong Nghe HACOM,Ha Noi,10.5
-Ky Thuat IT Phan Cung - Dong Anh,Cong ty Co Phan Dau Tu Cong Nghe HACOM,Bac Ninh,10.5
-Nhan Vien IT,Cong Ty TNHH Thinh Phat Vi Na,TP HCM,10.0
-Chuyen Vien IT,Cong Ty TNHH Knight Logistics,TP HCM,9.0
-Chuyen Vien Ho Tro Nguoi Dung Lam Viec Tai Hoi So (IT Helpdesk - IT Support),Cong Ty Co Phan Phat Trien Nhan Tai Brg,Ha Noi,12.5
-Ky Thuat Vien,Chi Nhanh 5 - Cong Ty TNHH Truyen Hinh Cap Saigontourist,TP HCM,9.0
-Nhan Vien Digital Marketing Luong Upto 20 Trieu (Di Lam Ngay),Cong Ty TNHH Thuong Mai Va Dau Tu Arosa Viet Nam,Ha Noi,13.5
-Nhan Vien IT,Cong Ty TNHH Silverland Ben Thanh,TP HCM,11.0
-Nhan Vien IT Lam Viec Tai Q.1,Cong Ty TNHH TM Hoang Lan,TP HCM,9.5
-Nhan Vien IT / Ki Thuat Phan Cung Sua Chua May In - May Tinh (Nhan Viec Sau Tet),Cong Ty TNHH Cong Nghe Phung Hoang,TP HCM,10.0
-Quan Tri He Thong Mang (System Admin),Arena Multimedia,TP HCM,10.0
-Nhan Vien Fresher Technical Consultant,Cong Ty TNHH Yokogawa Votiva Solutions,Ha Noi,9.0
-Nhan Vien Fresher Technical Consultant,Cong Ty TNHH Yokogawa Votiva Solutions,TP HCM,9.0
-Thuc Tap Sinh Ky Thuat CNTT - Ho Chi Minh,Cong ty Co Phan Dau Tu Cong Nghe HACOM,TP HCM,2.5
-Thuc Tap Sinh Ky Thuat CNTT - Ho Chi Minh,Cong ty Co Phan Dau Tu Cong Nghe HACOM,Bac Ninh,2.5
-Thuc Tap Sinh Ky Thuat CNTT - Ho Chi Minh,Cong ty Co Phan Dau Tu Cong Nghe HACOM,Hai Phong,2.5
-Front End Developer (Reactjs),Cong Ty Co Phan Nexle,TP HCM,27.5
-Front End Developer (Reactjs),Cong Ty Co Phan Nexle,Da Nang,27.5
-Nhan Vien IT Phan Cung Mang,Cong Ty Co Phan Tap Doan Thai Tuan,TP HCM,8.5
-Nhan Vien Phe Duyet Ho So Khach Hang,Chi Nhanh Mobifone Service Tp. HCM - Cong Ty Co Phan Dich Vu Ky Thuat Mobifone,TP HCM,5.5

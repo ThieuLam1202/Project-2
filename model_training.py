@@ -62,7 +62,7 @@ X1_train, X1_test, y1_train, y1_test = train_test_split(X1, y1, test_size=0.2)
 X2_train, X2_test, y2_train, y2_test = train_test_split(X2, y2, test_size=0.2)
 
 #shapes of sets
-#print(X1_train.shape, X1_test.shape, y1_train.shape, y1_test.shape, X2_train.shape, X2_test.shape, y2_train.shape, y2_test.shape)
+print(X1_train.shape, X1_test.shape, y1_train.shape, y1_test.shape, X2_train.shape, X2_test.shape, y2_train.shape, y2_test.shape)
 
 # 4. Train models
 # 4.1. Train Decision Tree model with dataset1
@@ -112,7 +112,7 @@ print('MAPE of Random Forest on dataset1: ' + str(mean_absolute_percentage_error
 
 # 4.4. Train Random Forest model with dataset2
 #fit RandomForestRegressor to dataset2
-forest_dataset2 = RandomForestRegressor(random_state=0)
+forest_dataset2 = RandomForestRegressor(random_state=0, max_depth=6)
 forest_dataset2.fit(X2_train, y2_train)
 y2_pred = forest_dataset2.predict(X2_test)
 
